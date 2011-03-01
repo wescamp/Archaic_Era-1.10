@@ -2,18 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:35+0100\n"
+"POT-Creation-Date: 2011-03-01 15:54+0100\n"
 "PO-Revision-Date: 2011-02-21 15:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tl\n"
 
 #. [era]: id=ARCHAIC_ERA_II
 #. [editor_group]: id=archaicera
-#: Archaic_Era/eras/Archaic_Era.cfg:38 Archaic_Era/_main.cfg:41
+#: Archaic_Era/eras/Archaic_Era.cfg:38 Archaic_Era/_main.cfg:42
 msgid "Archaic Era"
 msgstr ""
 
@@ -92,6 +92,76 @@ msgstr ""
 msgid "Ukians"
 msgstr ""
 
+#. [menu]: id=menu-main
+#: Archaic_Era/theme.cfg:122
+msgid "Menu"
+msgstr ""
+
+#. [menu]: id=actions-menu
+#: Archaic_Era/theme.cfg:133
+msgid "Actions"
+msgstr ""
+
+#. [menu]: id=button-endturn
+#: Archaic_Era/theme.cfg:155
+msgid "End Turn"
+msgstr ""
+
+#. [menu]: id=button-endturn
+#: Archaic_Era/theme.cfg:156
+msgid "End Scenario"
+msgstr ""
+
+#. [label]: id=label-hp
+#: Archaic_Era/theme.cfg:214
+msgid "HP"
+msgstr ""
+
+#. [label]: id=label-xp
+#: Archaic_Era/theme.cfg:223
+msgid "XP"
+msgstr ""
+
+#. [label]: id=gold-icon
+#: Archaic_Era/theme.cfg:233
+msgid "gold"
+msgstr ""
+
+#. [label]: id=villages-icon
+#: Archaic_Era/theme.cfg:242
+msgid "villages"
+msgstr ""
+
+#. [label]: id=units-icon
+#: Archaic_Era/theme.cfg:251
+msgid "units"
+msgstr ""
+
+#. [label]: id=upkeep-icon
+#: Archaic_Era/theme.cfg:260
+msgid "upkeep"
+msgstr ""
+
+#. [label]: id=income-icon
+#: Archaic_Era/theme.cfg:269
+msgid "income"
+msgstr ""
+
+#. [unit_level]: id=unit-level
+#: Archaic_Era/theme.cfg:431
+msgid "statuspanel^level"
+msgstr ""
+
+#. [unit_moves]: id=unit-moves
+#: Archaic_Era/theme.cfg:461
+msgid "statuspanel^moves"
+msgstr ""
+
+#. [unit_defense]: id=unit-defense
+#: Archaic_Era/theme.cfg:470
+msgid "statuspanel^terrain def."
+msgstr ""
+
 #. [unit_type]: id=Phantom Armor, race=despair
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:5
 msgid "Stone Warrior"
@@ -110,15 +180,9 @@ msgstr ""
 #. [unit_type]: id=SouthSeas Spitfire, race=south-seas_human
 #. [unit_type]: id=SouthSeas SeaScourge, race=south-seas_human
 #. [unit_type]: id=SouthSeas SkyCaller, race=south-seas_human
-#. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
-#. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #. [unit_type]: id=SouthSeas Marine, race=south-seas_human
-#. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
-#. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
-#. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
 #. [unit_type]: id=SouthSeas Seawolf, race=south-seas_human
 #. [unit_type]: id=SouthSeas Demolitionist, race=south-seas_human
-#. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
 #. [unit_type]: id=SouthSeas Diver, race=south-seas_human
 #. [race]: id=phantom_egypt
 #. [race]: id=phantom_spirit
@@ -161,15 +225,9 @@ msgstr ""
 #: Archaic_Era/units/south-seas/Spitfire.cfg:22
 #: Archaic_Era/units/south-seas/Scourge.cfg:22
 #: Archaic_Era/units/south-seas/Sky-Caller.cfg:22
-#: Archaic_Era/units/south-seas/Salvager.cfg:21
-#: Archaic_Era/units/south-seas/Wrecker.cfg:22
 #: Archaic_Era/units/south-seas/Marines.cfg:45
-#: Archaic_Era/units/south-seas/Shoreman.cfg:21
-#: Archaic_Era/units/south-seas/Swimmers.cfg:36
-#: Archaic_Era/units/south-seas/Arsonist.cfg:21
 #: Archaic_Era/units/south-seas/Wolf.cfg:22
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:21
-#: Archaic_Era/units/south-seas/Seaman.cfg:21
 #: Archaic_Era/units/south-seas/Divers.cfg:43
 #: Archaic_Era/units/phantom_race.cfg:22 Archaic_Era/units/phantom_race.cfg:36
 #: Archaic_Era/units/phantom/Spirit_Dove.cfg:19
@@ -327,6 +385,7 @@ msgid "Horseman"
 msgstr ""
 
 #. [attack]: type=pierce
+#: Archaic_Era/units/primeval/Primeval_Hektor.cfg:28
 #: Archaic_Era/units/phantom/Tomb_Sentinel.cfg:72
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:73
 #: Archaic_Era/units/phantom/Tomb_Guardian.cfg:72
@@ -1023,11 +1082,13 @@ msgstr ""
 #: Archaic_Era/units/orcs/Maurader.cfg:20
 msgid ""
 "The Mauraders wear an ugly bronze mask to make themselves more fearsome to "
-"the easily frightened humans."
+"the easily frightened humans.  They also wear a large number of trinkets, "
+"given to them by the shamans, designed to ward off the poisons and chills "
+"often employed by the non-warrior humans."
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/orcs/Maurader.cfg:32 Archaic_Era/units/orcs/Raider.cfg:32
+#: Archaic_Era/units/orcs/Maurader.cfg:38 Archaic_Era/units/orcs/Raider.cfg:32
 msgid "whip"
 msgstr ""
 
@@ -1058,7 +1119,8 @@ msgid ""
 "learned how easily many of them can be defeated through psychology, before a "
 "single blow is struck. The whip is not always the most practical weapon, but "
 "it is very dramatic and loud, so this is what the Raiders use to terrorize "
-"the human enemy."
+"the human enemy.  The raiders are more adapted to urban combat than are the "
+"standard grunts, so they have better defenses in such a setting."
 msgstr ""
 
 #. [unit_type]: id=Stork Master, race=wolf # does this need to be changed?
@@ -1115,12 +1177,12 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/orcs/Terror.cfg:34
+#: Archaic_Era/units/orcs/Terror.cfg:35
 msgid "cat-of-nine-tails"
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/orcs/Terror.cfg:46
+#: Archaic_Era/units/orcs/Terror.cfg:47
 msgid "blade"
 msgstr ""
 
@@ -1180,7 +1242,6 @@ msgstr ""
 #: Archaic_Era/units/south-seas/Scourge.cfg:33
 #: Archaic_Era/units/south-seas/Seahag.cfg:33
 #: Archaic_Era/units/south-seas/Caster.cfg:29
-#: Archaic_Era/units/primeval/Primeval_Hektor.cfg:27
 #: Archaic_Era/units/phantom/Tomb_Feather.cfg:73
 msgid "Dagger"
 msgstr ""
@@ -1402,7 +1463,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:45
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:53
-#: Archaic_Era/units/primeval/Primeval_Protector.cfg:35
+#: Archaic_Era/units/primeval/Primeval_Protector.cfg:36
 msgid "Chakram"
 msgstr ""
 
@@ -1547,12 +1608,19 @@ msgstr ""
 #. [unit_type]: id=Primeval Hektor, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:20
 msgid ""
-"The Primeval Hektors ...\n"
+"Not every Primeval male can live up to the expectation of the ideal "
+"masculine warrior.  Most of those die in combat, as do any other Primeval "
+"grunt, but those that have another strength survive to form the auxiliary "
+"corps of Hektors.  The Primeval Hektors make up for their lack of strength "
+"with nimbleness and focus.  They have taken up the spear, a weapon the "
+"Primevals associate with deception and weakness, as a sign of defiance.  "
+"Though most of their cohort scorn them, the leaders and tactitians realize "
+"that they can play a valuable role.\n"
 "Special Note:"
 msgstr ""
 
 #. [attack]: type=impact
-#: Archaic_Era/units/primeval/Primeval_Hektor.cfg:36
+#: Archaic_Era/units/primeval/Primeval_Hektor.cfg:41
 msgid "Bolas"
 msgstr ""
 
@@ -1583,26 +1651,21 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:43
-#: Archaic_Era/units/primeval/Primeval_Protector.cfg:44
+#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:44
+#: Archaic_Era/units/primeval/Primeval_Protector.cfg:46
 msgid "Glaive"
 msgstr ""
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
-#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:5
+#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:6
 msgid "Escort"
 msgstr ""
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
-#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:21
+#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:22
 msgid ""
 "The Primeval Escorts ...\n"
 "Special Note:"
-msgstr ""
-
-#. [attack]: type=blade
-#: Archaic_Era/units/primeval/Primeval_Slasher.cfg:34
-msgid "Quoit"
 msgstr ""
 
 #. [unit_type]: id=Primeval Striker, race=primeval
@@ -1919,13 +1982,24 @@ msgstr ""
 #. [unit_type]: id=SouthSeas AbleSeaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:21
 msgid ""
-"Able-Seaman have melted some of the lead normally used for ballast and "
-"affixed it to the end of a staff."
+"Though not Captains, Able-Seaman are higher ranking than the bulk of the "
+"sailors and have more access to resources.  In these times of conflict, they "
+"have melted some of the lead normally used for ballast and affixed it to the "
+"end of a staff to create something similar to a hammer."
 msgstr ""
 
 #. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Arsonist.cfg:5
 msgid "Arsonist"
+msgstr ""
+
+#. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
+#: Archaic_Era/units/south-seas/Arsonist.cfg:21
+msgid ""
+"Ships are a very important part of life in the South Seas, so if one wanted "
+"to ruin a successful member of society, they would destroy their ships.  The "
+"Arsonists are employed for this purpose.  They operate at night, to avoid "
+"shoreman and sailors."
 msgstr ""
 
 #. [attack]: type=fire
@@ -1943,10 +2017,10 @@ msgstr ""
 #. [unit_type]: id=SouthSeas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:21
 msgid ""
-"Lore-Casters study the old teachings and lore from days long ago. While it "
-"may seem like a waste of effort, however South-Seas ships that carry Lore-"
-"Casters tend to survive longer at sea. Some attribute this to their "
-"knowledge of how to placate the gods."
+"Lore-Casters study the old teachings and lore from days long ago.  That may "
+"seem academic and irrelevant to life at sea, however South-Seas ships that "
+"carry Lore-Casters tend to survive longer at sea. Some attribute this to "
+"their knowledge of how to placate the gods."
 msgstr ""
 
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
@@ -1957,8 +2031,10 @@ msgstr ""
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:22
 msgid ""
-"Deck-Masters have affixed steel grapples to the ends of the staves, and can "
-"use them to hook the opponent's weapon."
+"Because they are not wealthy, Deck-Masters will never own a ship of any "
+"size, but they are trusted on the larger vessals to keep the rest of the men "
+"in line.  They have affixed steel grapples to the ends of the staves, and "
+"can use them to hook the opponent's weapon."
 msgstr ""
 
 #. [attack]: type=pierce
@@ -2028,6 +2104,15 @@ msgstr ""
 msgid "Salvager"
 msgstr ""
 
+#. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
+#: Archaic_Era/units/south-seas/Salvager.cfg:21
+msgid ""
+"The Salvagers are less concerned with the loading and unloading of ships, "
+"and focus their efforts on the more lucrative job of salvage.  They break "
+"apart old ships and sell what can be sold.  Long lances are useful in "
+"prodding floating wood, as well as poking hostile forces."
+msgstr ""
+
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Salvager.cfg:29
 #: Archaic_Era/units/south-seas/Wrecker.cfg:31
@@ -2080,6 +2165,14 @@ msgstr ""
 msgid "Seaman"
 msgstr ""
 
+#. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
+#: Archaic_Era/units/south-seas/Seaman.cfg:21
+msgid ""
+"The South-Seas Seamen are the core workers of the seafaring nation.  While "
+"they don't have any particular combat skills, the life of a sailor is rough, "
+"so they are tough enough to be useful."
+msgstr ""
+
 #. [attack]: type=impact
 #: Archaic_Era/units/south-seas/Seaman.cfg:28
 msgid "Oar"
@@ -2088,6 +2181,16 @@ msgstr ""
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:5
 msgid "Shoreman"
+msgstr ""
+
+#. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
+#: Archaic_Era/units/south-seas/Shoreman.cfg:21
+msgid ""
+"The Shoreman are responsible for loading ships and breaking down retired "
+"vessals to reclaim the components.  Almost all of this work involves ropes, "
+"so the Shoremen are very skilled with this simple tool and can tie down even "
+"moving animals.  A spike is very helpful in making splices, as well as "
+"killing rats."
 msgstr ""
 
 #. [unit_type]: id=SouthSeas SkyCaller, race=south-seas_human
@@ -2111,6 +2214,14 @@ msgstr ""
 msgid "Swimmer"
 msgstr ""
 
+#. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
+#: Archaic_Era/units/south-seas/Swimmers.cfg:36
+msgid ""
+"Swimmers are sometimes employed on ships, but they are mostly located near "
+"the villages, where they hunt fish for food, gather pearls for trade, and "
+"patrol the docked ships."
+msgstr ""
+
 #. [female]
 #: Archaic_Era/units/south-seas/Swimmers.cfg:85
 msgid "female^Swimmer"
@@ -2124,6 +2235,14 @@ msgstr ""
 #. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:5
 msgid "Wrecker"
+msgstr ""
+
+#. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
+#: Archaic_Era/units/south-seas/Wrecker.cfg:22
+msgid ""
+"The Wreckers are the most experienced of the salvagers.  They usually "
+"operate alone, which maximizes both the profit and danger, so they carry "
+"harpoons to fight off sharks, thieves, and other Wreckers."
 msgstr ""
 
 #. [unit_type]: id=SouthSeas Zephyrist, race=south-seas_human
@@ -2225,7 +2344,7 @@ msgid "crossbow"
 msgstr ""
 
 #. [attack]: type=impact
-#: Archaic_Era/utils/Archaic_abilities.cfg:746
+#: Archaic_Era/utils/Archaic_abilities.cfg:764
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:59
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:58
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
@@ -2822,18 +2941,37 @@ msgid ""
 "a maximum of 60%, when attacking because the enemy cannot get a direct hit."
 msgstr ""
 
-#. [heals]: id=aa_healing
+#. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:92
+msgid "anti-poison"
+msgstr ""
+
+#. [heals]: id=aa_trinkets
+#: Archaic_Era/utils/Archaic_abilities.cfg:93
+msgid "female^anti-poison"
+msgstr ""
+
+#. [heals]: id=aa_trinkets
+#: Archaic_Era/utils/Archaic_abilities.cfg:95
+msgid ""
+"Anti-poison:\n"
+"Allows the unit to avoid the effects of poison, but the poisoned unit cannot "
+"be cured of its poison by this ability, and must seek the care of a village "
+"or a unit that can cure."
+msgstr ""
+
+#. [heals]: id=aa_healing
+#: Archaic_Era/utils/Archaic_abilities.cfg:110
 msgid "heals +"
 msgstr ""
 
 #. [heals]: id=aa_healing
-#: Archaic_Era/utils/Archaic_abilities.cfg:93
+#: Archaic_Era/utils/Archaic_abilities.cfg:111
 msgid "female^heals +"
 msgstr ""
 
 #. [heals]: id=aa_healing
-#: Archaic_Era/utils/Archaic_abilities.cfg:98
+#: Archaic_Era/utils/Archaic_abilities.cfg:116
 msgid ""
 "Heals +{AMT}:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
@@ -2845,34 +2983,34 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=aa_immortal
-#: Archaic_Era/utils/Archaic_abilities.cfg:114
+#: Archaic_Era/utils/Archaic_abilities.cfg:132
 msgid "immortal"
 msgstr ""
 
 #. [regenerate]: id=aa_immortal
-#: Archaic_Era/utils/Archaic_abilities.cfg:115
+#: Archaic_Era/utils/Archaic_abilities.cfg:133
 msgid "female^immortal"
 msgstr ""
 
 #. [regenerate]: id=aa_immortal
-#: Archaic_Era/utils/Archaic_abilities.cfg:117
+#: Archaic_Era/utils/Archaic_abilities.cfg:135
 msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 
 #. [dummy]: id=aa_intangible
-#: Archaic_Era/utils/Archaic_abilities.cfg:126
+#: Archaic_Era/utils/Archaic_abilities.cfg:144
 msgid "intangible"
 msgstr ""
 
 #. [dummy]: id=aa_intangible
-#: Archaic_Era/utils/Archaic_abilities.cfg:127
+#: Archaic_Era/utils/Archaic_abilities.cfg:145
 msgid "female^intangible"
 msgstr ""
 
 #. [dummy]: id=aa_intangible
-#: Archaic_Era/utils/Archaic_abilities.cfg:129
+#: Archaic_Era/utils/Archaic_abilities.cfg:147
 msgid ""
 "Intangible:\n"
 "This unit uses only one movement point per attack, rather than all of its "
@@ -2880,68 +3018,68 @@ msgid ""
 msgstr ""
 
 #. [resistance]: id=aa_stone
-#: Archaic_Era/utils/Archaic_abilities.cfg:138
+#: Archaic_Era/utils/Archaic_abilities.cfg:156
 msgid "stone"
 msgstr ""
 
 #. [resistance]: id=aa_stone
-#: Archaic_Era/utils/Archaic_abilities.cfg:139
+#: Archaic_Era/utils/Archaic_abilities.cfg:157
 msgid "female^stone"
 msgstr ""
 
 #. [resistance]: id=aa_stone
-#: Archaic_Era/utils/Archaic_abilities.cfg:141
+#: Archaic_Era/utils/Archaic_abilities.cfg:159
 msgid ""
 "Stone:\n"
 "This unit is stone in the daylight, if not next to an ally or in a village, "
 "but is always mobile at night."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:447
+#: Archaic_Era/utils/Archaic_abilities.cfg:465
 msgid "release stoned victims"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:483
-#: Archaic_Era/utils/Archaic_abilities.cfg:528
+#: Archaic_Era/utils/Archaic_abilities.cfg:501
+#: Archaic_Era/utils/Archaic_abilities.cfg:546
 msgid "Free"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:539
+#: Archaic_Era/utils/Archaic_abilities.cfg:557
 msgid "tie-down"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:541
+#: Archaic_Era/utils/Archaic_abilities.cfg:559
 msgid ""
 "Tie-Down:\n"
 "Defender cannot move for any turn in which the attacker is adjacent at "
 "start, but they can still attack."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:748
+#: Archaic_Era/utils/Archaic_abilities.cfg:766
 msgid ""
 "Scattershot:\n"
 "This attack always has at least a 70% chance to hit."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:761
+#: Archaic_Era/utils/Archaic_abilities.cfg:779
 msgid "vector damage"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:763
+#: Archaic_Era/utils/Archaic_abilities.cfg:781
 msgid ""
 "Vector Damage:\n"
 "..."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:774
+#: Archaic_Era/utils/Archaic_abilities.cfg:792
 msgid "Vector"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:783
+#: Archaic_Era/utils/Archaic_abilities.cfg:801
 msgid "vector"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:785
+#: Archaic_Era/utils/Archaic_abilities.cfg:803
 msgid ""
 "Vector:\n"
 "This attack always has a {CHANCE}% chance to hit regardless of the defensive "
@@ -2949,45 +3087,45 @@ msgid ""
 "Khthon."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1077
+#: Archaic_Era/utils/Archaic_abilities.cfg:1095
 msgid "$damage_attacker_vis"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1176
+#: Archaic_Era/utils/Archaic_abilities.cfg:1194
 msgid "Possessed"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1367
-#: Archaic_Era/utils/Archaic_abilities.cfg:1408
-#: Archaic_Era/utils/Archaic_abilities.cfg:1449
+#: Archaic_Era/utils/Archaic_abilities.cfg:1385
+#: Archaic_Era/utils/Archaic_abilities.cfg:1426
+#: Archaic_Era/utils/Archaic_abilities.cfg:1467
 msgid "hide in shell"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1387
-#: Archaic_Era/utils/Archaic_abilities.cfg:1428
-#: Archaic_Era/utils/Archaic_abilities.cfg:1469
+#: Archaic_Era/utils/Archaic_abilities.cfg:1405
+#: Archaic_Era/utils/Archaic_abilities.cfg:1446
+#: Archaic_Era/utils/Archaic_abilities.cfg:1487
 msgid "stop hiding"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1497
+#: Archaic_Era/utils/Archaic_abilities.cfg:1515
 msgid "selfheal"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1499
+#: Archaic_Era/utils/Archaic_abilities.cfg:1517
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1515
+#: Archaic_Era/utils/Archaic_abilities.cfg:1533
 msgid "penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1516
+#: Archaic_Era/utils/Archaic_abilities.cfg:1534
 msgid "female^penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1520
+#: Archaic_Era/utils/Archaic_abilities.cfg:1538
 msgid ""
 "Penumbra:\n"
 "This unit obscures the surrounding area, making chaotic units fight better, "
@@ -2997,18 +3135,18 @@ msgid ""
 "day, and as if it were night when it is dusk."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1530
-#: Archaic_Era/utils/Archaic_abilities.cfg:1532
+#: Archaic_Era/utils/Archaic_abilities.cfg:1548
+#: Archaic_Era/utils/Archaic_abilities.cfg:1550
 msgid "desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1531
-#: Archaic_Era/utils/Archaic_abilities.cfg:1533
+#: Archaic_Era/utils/Archaic_abilities.cfg:1549
+#: Archaic_Era/utils/Archaic_abilities.cfg:1551
 msgid "female^desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1537
-#: Archaic_Era/utils/Archaic_abilities.cfg:1541
+#: Archaic_Era/utils/Archaic_abilities.cfg:1555
+#: Archaic_Era/utils/Archaic_abilities.cfg:1559
 msgid ""
 "Desert-Stalk:\n"
 "This unit can hide in sand terrain, and remain undetected by its enemies.\n"
@@ -3018,222 +3156,242 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
-#. [terrain_type]: id=bmr_blank
+#. [terrain_type]: id=bmrtree
 #: Archaic_Era/utils/terrain.cfg:7
+msgid "Forest"
+msgstr ""
+
+#. [terrain_type]: id=bmrtree
+#: Archaic_Era/utils/terrain.cfg:8
+msgid "Dead Forest"
+msgstr ""
+
+#. [terrain_type]: id=bmr_blank
+#: Archaic_Era/utils/terrain.cfg:20
 msgid "Empty Space"
 msgstr ""
 
 #. [terrain_type]: id=Tundra
-#: Archaic_Era/utils/terrain.cfg:19
+#: Archaic_Era/utils/terrain.cfg:32
 msgid "Tundra"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primetile
-#: Archaic_Era/utils/terrain.cfg:29
+#: Archaic_Era/utils/terrain.cfg:42
 msgid "Odd Plate"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primegrid
-#: Archaic_Era/utils/terrain.cfg:40
+#: Archaic_Era/utils/terrain.cfg:53
 msgid "Odd Grid"
 msgstr ""
 
 #. [terrain_type]: id=bmr_steel
-#: Archaic_Era/utils/terrain.cfg:51
+#: Archaic_Era/utils/terrain.cfg:64
 msgid "Steel Plate"
 msgstr ""
 
 #. [terrain_type]: id=bmr_darksteel
-#: Archaic_Era/utils/terrain.cfg:61
+#: Archaic_Era/utils/terrain.cfg:74
 msgid "Dark Steel Plate"
 msgstr ""
 
 #. [terrain_type]: id=bmr_brick
-#: Archaic_Era/utils/terrain.cfg:71
+#: Archaic_Era/utils/terrain.cfg:84
 msgid "Light Stone Blocks"
 msgstr ""
 
 #. [terrain_type]: id=bmr_brickd
-#: Archaic_Era/utils/terrain.cfg:81
+#: Archaic_Era/utils/terrain.cfg:94
 msgid "Dark Stone Blocks"
 msgstr ""
 
 #. [terrain_type]: id=Drift
-#: Archaic_Era/utils/terrain.cfg:96
+#: Archaic_Era/utils/terrain.cfg:109
 msgid "Snow Drift"
 msgstr ""
 
 #. [terrain_type]: id=thin_ice
-#: Archaic_Era/utils/terrain.cfg:108
+#: Archaic_Era/utils/terrain.cfg:121
 msgid "Thin Ice"
 msgstr ""
 
+#. [terrain_type]: id=test_camp
+#: Archaic_Era/utils/terrain.cfg:130
+msgid "Test Camp"
+msgstr ""
+
+#. [terrain_type]: id=test_camp
+#: Archaic_Era/utils/terrain.cfg:142
+msgid "Test Keep"
+msgstr ""
+
 #. [terrain_type]: id=troll_camp
-#: Archaic_Era/utils/terrain.cfg:117
+#: Archaic_Era/utils/terrain.cfg:154
 msgid "Troll Camp"
 msgstr ""
 
 #. [terrain_type]: id=troll_keep
-#: Archaic_Era/utils/terrain.cfg:129
+#: Archaic_Era/utils/terrain.cfg:166
 msgid "Troll Keep"
 msgstr ""
 
 #. [terrain_type]: id=troll_campswamp
-#: Archaic_Era/utils/terrain.cfg:142
+#: Archaic_Era/utils/terrain.cfg:179
 msgid "Swamp Troll Camp"
 msgstr ""
 
 #. [terrain_type]: id=troll_keepswamp
-#: Archaic_Era/utils/terrain.cfg:154
+#: Archaic_Era/utils/terrain.cfg:191
 msgid "Swamp Troll Keep"
 msgstr ""
 
 #. [terrain_type]: id=troll_campwater
-#: Archaic_Era/utils/terrain.cfg:167
+#: Archaic_Era/utils/terrain.cfg:204
 msgid "Sunken Troll Camp"
 msgstr ""
 
 #. [terrain_type]: id=troll_keepwater
-#: Archaic_Era/utils/terrain.cfg:180
+#: Archaic_Era/utils/terrain.cfg:217
 msgid "Sunken Troll Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primekeep
-#: Archaic_Era/utils/terrain.cfg:196
+#: Archaic_Era/utils/terrain.cfg:233
 msgid "Primeval Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primecastle
-#: Archaic_Era/utils/terrain.cfg:209
+#: Archaic_Era/utils/terrain.cfg:246
 msgid "Primeval Castle"
 msgstr ""
 
 #. [terrain_type]: id=bmr_orckeep
-#: Archaic_Era/utils/terrain.cfg:223
+#: Archaic_Era/utils/terrain.cfg:260
 msgid "Sand Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_orckeep
-#: Archaic_Era/utils/terrain.cfg:224
+#: Archaic_Era/utils/terrain.cfg:261
 msgid "Sand Ruin Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_orccastle
-#: Archaic_Era/utils/terrain.cfg:236
+#: Archaic_Era/utils/terrain.cfg:273
 msgid "Sand Castle"
 msgstr ""
 
 #. [terrain_type]: id=bmr_orccastle
-#: Archaic_Era/utils/terrain.cfg:237
+#: Archaic_Era/utils/terrain.cfg:274
 msgid "Sand Ruin"
 msgstr ""
 
 #. [terrain_type]: id=bmr_marble_keep
-#: Archaic_Era/utils/terrain.cfg:263 Archaic_Era/utils/terrain.cfg:290
+#: Archaic_Era/utils/terrain.cfg:300 Archaic_Era/utils/terrain.cfg:327
 msgid "Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_despair_castle
-#: Archaic_Era/utils/terrain.cfg:305 Archaic_Era/utils/terrain.cfg:306
+#: Archaic_Era/utils/terrain.cfg:342 Archaic_Era/utils/terrain.cfg:343
 msgid "Ghost Castle"
 msgstr ""
 
 #. [terrain_type]: id=bmr_despair_keep
-#: Archaic_Era/utils/terrain.cfg:317 Archaic_Era/utils/terrain.cfg:318
+#: Archaic_Era/utils/terrain.cfg:354 Archaic_Era/utils/terrain.cfg:355
 msgid "Ghost Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_stonewall2
-#: Archaic_Era/utils/terrain.cfg:332
+#: Archaic_Era/utils/terrain.cfg:369
 msgid "Wall2"
 msgstr ""
 
 #. [terrain_type]: id=bmr_stonewall
-#: Archaic_Era/utils/terrain.cfg:342
+#: Archaic_Era/utils/terrain.cfg:379
 msgid "Wall"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icewall
-#: Archaic_Era/utils/terrain.cfg:352
+#: Archaic_Era/utils/terrain.cfg:389
 msgid "Ice Wall"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icecave
-#: Archaic_Era/utils/terrain.cfg:362
+#: Archaic_Era/utils/terrain.cfg:399
 msgid "Ice Cave"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icecanyon
-#: Archaic_Era/utils/terrain.cfg:373
+#: Archaic_Era/utils/terrain.cfg:410
 msgid "Ice Chasm"
 msgstr ""
 
 #. [terrain_type]: id=facility1
-#: Archaic_Era/utils/terrain.cfg:384
+#: Archaic_Era/utils/terrain.cfg:421
 msgid "Industrial Facility"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primevilla
-#: Archaic_Era/utils/terrain.cfg:395
+#: Archaic_Era/utils/terrain.cfg:432
 msgid "Primeval Villa"
 msgstr ""
 
 #. [terrain_type]: id=bmr_desertvill
-#: Archaic_Era/utils/terrain.cfg:406
+#: Archaic_Era/utils/terrain.cfg:443
 msgid "Desert Village"
 msgstr ""
 
 #. [terrain_type]: id=bmr_deadvill
 #. [terrain_type]: id=bmr_deadhill
-#: Archaic_Era/utils/terrain.cfg:417 Archaic_Era/utils/terrain.cfg:428
+#: Archaic_Era/utils/terrain.cfg:454 Archaic_Era/utils/terrain.cfg:465
 msgid "Undead Village"
 msgstr ""
 
 #. [terrain_type]: id=bmr_test
-#: Archaic_Era/utils/terrain.cfg:439
+#: Archaic_Era/utils/terrain.cfg:476
 msgid "Test Village"
 msgstr ""
 
 #. [terrain_type]: id=bmr_path
 #. [terrain_type]: id=bmr_pathdiag1
 #. [terrain_type]: id=bmr_pathdiag2
-#: Archaic_Era/utils/terrain.cfg:450 Archaic_Era/utils/terrain.cfg:458
-#: Archaic_Era/utils/terrain.cfg:466
+#: Archaic_Era/utils/terrain.cfg:487 Archaic_Era/utils/terrain.cfg:495
+#: Archaic_Era/utils/terrain.cfg:503
 msgid "Path"
 msgstr ""
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
-#: Archaic_Era/utils/terrain.cfg:475 Archaic_Era/utils/terrain.cfg:483
-#: Archaic_Era/utils/terrain.cfg:491
+#: Archaic_Era/utils/terrain.cfg:512 Archaic_Era/utils/terrain.cfg:520
+#: Archaic_Era/utils/terrain.cfg:528
 msgid "Path(l)"
 msgstr ""
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
-#: Archaic_Era/utils/terrain.cfg:500 Archaic_Era/utils/terrain.cfg:508
-#: Archaic_Era/utils/terrain.cfg:516
+#: Archaic_Era/utils/terrain.cfg:537 Archaic_Era/utils/terrain.cfg:545
+#: Archaic_Era/utils/terrain.cfg:553
 msgid "Path(r)"
 msgstr ""
 
 #. [terrain_type]: id=vent1
-#: Archaic_Era/utils/terrain.cfg:527
+#: Archaic_Era/utils/terrain.cfg:564
 msgid "Heat Exchanger"
 msgstr ""
 
 #. [terrain_type]: id=engine_tri
-#: Archaic_Era/utils/terrain.cfg:567
+#: Archaic_Era/utils/terrain.cfg:604
 msgid "Engine"
 msgstr ""
 
 #. [terrain_type]: id=tri_blue
-#: Archaic_Era/utils/terrain.cfg:593
+#: Archaic_Era/utils/terrain.cfg:630
 msgid "Blue"
 msgstr ""
 
 #. [terrain_type]: id=tri_path
-#: Archaic_Era/utils/terrain.cfg:604
+#: Archaic_Era/utils/terrain.cfg:641
 msgid "Snow Path"
 msgstr ""
