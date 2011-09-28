@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-05 21:00-0400\n"
+"POT-Creation-Date: 2011-09-28 07:44-0400\n"
 "PO-Revision-Date: 2011-03-01 15:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -437,7 +437,7 @@ msgid "spike"
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/orcs/Terror.cfg:47
+#: Archaic_Era/units/orcs/Overseer.cfg:51 Archaic_Era/units/orcs/Terror.cfg:50
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:98
 msgid "blade"
 msgstr ""
@@ -603,21 +603,21 @@ msgstr ""
 #. [unit_type]: id=Rockback, race=khthon
 #. [unit_type]: id=Rockback_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:19
-#: Archaic_Era/units/khthon/Snapper.cfg:151
+#: Archaic_Era/units/khthon/Snapper.cfg:152
 #: Archaic_Era/units/khthon/Adamantine.cfg:20
-#: Archaic_Era/units/khthon/Rock.cfg:19 Archaic_Era/units/khthon/Rock.cfg:151
+#: Archaic_Era/units/khthon/Rock.cfg:19 Archaic_Era/units/khthon/Rock.cfg:152
 msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
-#: Archaic_Era/units/khthon/Adamantine.cfg:137
+#: Archaic_Era/units/khthon/Adamantine.cfg:138
 msgid "Adamantine (Hiding)"
 msgstr ""
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
-#: Archaic_Era/units/khthon/Adamantine.cfg:155
+#: Archaic_Era/units/khthon/Adamantine.cfg:156
 msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
@@ -815,7 +815,7 @@ msgid "Rock Back"
 msgstr ""
 
 #. [unit_type]: id=Rockback_Hiding, race=khthon
-#: Archaic_Era/units/khthon/Rock.cfg:135
+#: Archaic_Era/units/khthon/Rock.cfg:136
 msgid "Rock Back (Hiding)"
 msgstr ""
 
@@ -825,7 +825,7 @@ msgid "Bone Snapper"
 msgstr ""
 
 #. [unit_type]: id=Snapper_Hiding, race=khthon
-#: Archaic_Era/units/khthon/Snapper.cfg:135
+#: Archaic_Era/units/khthon/Snapper.cfg:136
 msgid "Bone Snapper (Hiding)"
 msgstr ""
 
@@ -847,14 +847,14 @@ msgstr ""
 #. [unit_type]: id=Terrapin, race=khthon
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:20
-#: Archaic_Era/units/khthon/Terrapin.cfg:114
+#: Archaic_Era/units/khthon/Terrapin.cfg:115
 msgid ""
 "The terrapin can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
 
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
-#: Archaic_Era/units/khthon/Terrapin.cfg:98
+#: Archaic_Era/units/khthon/Terrapin.cfg:99
 msgid "Terrapin (Hiding)"
 msgstr ""
 
@@ -910,25 +910,48 @@ msgid ""
 msgstr ""
 
 #. [race]: id=lesser_khthon
-#: Archaic_Era/units/khthon_race.cfg:18
+#: Archaic_Era/units/khthon_race.cfg:15
 msgid "race^Lesser Khthon"
 msgstr ""
 
 #. [race]: id=lesser_khthon
-#: Archaic_Era/units/khthon_race.cfg:19
+#: Archaic_Era/units/khthon_race.cfg:16
 msgid "race+female^Lesser Khthon"
 msgstr ""
 
 #. [race]: id=lesser_khthon
-#: Archaic_Era/units/khthon_race.cfg:20
+#: Archaic_Era/units/khthon_race.cfg:17
 msgid "race+plural^Lesser Khthon"
 msgstr ""
 
 #. [race]: id=lesser_khthon
-#: Archaic_Era/units/khthon_race.cfg:23
+#: Archaic_Era/units/khthon_race.cfg:20
 msgid ""
 "Lesser Khthon are the immature spawn of Khthon. They cannot spread more of "
-"their kind yet, but they can control the mind of their victims."
+"their kind yet, but they can independently control the mind of their victims."
+msgstr ""
+
+#. [race]: id=thrall_khthon
+#: Archaic_Era/units/khthon_race.cfg:25
+msgid "race^Thrall"
+msgstr ""
+
+#. [race]: id=thrall_khthon
+#: Archaic_Era/units/khthon_race.cfg:26
+msgid "race+female^Thrall"
+msgstr ""
+
+#. [race]: id=thrall_khthon
+#: Archaic_Era/units/khthon_race.cfg:27
+msgid "race+plural^Thrall"
+msgstr ""
+
+#. [race]: id=thrall_khthon
+#: Archaic_Era/units/khthon_race.cfg:30
+msgid ""
+"Khthon Thralls are mindless tools, they have some motor memory and equipment "
+"from their former existence, but they have no memories and no possiblity of "
+"a future.  They are a form of walking dead."
 msgstr ""
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
@@ -997,23 +1020,32 @@ msgid ""
 "combination could indeed be effective."
 msgstr ""
 
-#. [unit_type]: id=Orcish Maurader, race=orc
-#: Archaic_Era/units/orcs/Maurader.cfg:5
-msgid "Orcish Maurader"
+#. [unit_type]: id=Orcish Foreman, race=orc
+#: Archaic_Era/units/orcs/Foreman.cfg:5
+msgid "Orcish Foreman"
 msgstr ""
 
-#. [unit_type]: id=Orcish Maurader, race=orc
-#: Archaic_Era/units/orcs/Maurader.cfg:20
+#. [unit_type]: id=Orcish Foreman, race=orc
+#: Archaic_Era/units/orcs/Foreman.cfg:20
 msgid ""
-"The Mauraders wear an ugly bronze mask to make themselves more fearsome to "
-"the easily frightened humans.  They also wear a large number of trinkets, "
-"given to them by the shamans, designed to ward off the poisons and chills "
-"often employed by the non-warrior humans."
+"Goblins can be corralled into labour by sheer force, but that does not work "
+"as well with orcs themselves.  The serfs will never be warriors, but the "
+"strong can advance to be leaders amongst their own kind, and organize the "
+"serfs into functional working crews."
 msgstr ""
 
-#. [attack]: type=blade
-#: Archaic_Era/units/orcs/Raider.cfg:32 Archaic_Era/units/orcs/Maurader.cfg:38
-msgid "whip"
+#. [unit_type]: id=Orcish Overseer, race=orc
+#: Archaic_Era/units/orcs/Overseer.cfg:5
+msgid "Orcish Overseer"
+msgstr ""
+
+#. [unit_type]: id=Orcish Overseer, race=orc
+#: Archaic_Era/units/orcs/Overseer.cfg:21
+msgid ""
+"The strongest of the orc workers have had to prove themselves with their "
+"abilities to both lead and fend off challengers.  Even the Orcish Warriors "
+"and Grunts grudgingly admit their value and will fall in line when "
+"circumstances of battle call for it."
 msgstr ""
 
 #. [unit_type]: id=Orcish Rider, race=orc
@@ -1038,13 +1070,32 @@ msgstr ""
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:20
 msgid ""
-"The Raiders are slightly less solid in stature than the Grunts, but still "
-"formidible fighters. In the frequent clashes with humans, the orcs have "
-"learned how easily many of them can be defeated through psychology, before a "
-"single blow is struck. The whip is not always the most practical weapon, but "
-"it is very dramatic and loud, so this is what the Raiders use to terrorize "
-"the human enemy.  The raiders are more adapted to urban combat than are the "
-"standard grunts, so they have better defenses in such a setting."
+"The Raiders wear an ugly bronze mask to make themselves more fearsome to the "
+"easily frightened humans.  They also wear a large number of trinkets, given "
+"to them by the shamans, designed to ward off the poisons and chills often "
+"employed by certain of the enemy."
+msgstr ""
+
+#. [attack]: type=blade
+#: Archaic_Era/units/orcs/Raider.cfg:38
+msgid "whip"
+msgstr ""
+
+#. [unit_type]: id=Orcish Serf, race=orc
+#: Archaic_Era/units/orcs/Serf.cfg:5
+msgid "Orcish Serf"
+msgstr ""
+
+#. [unit_type]: id=Orcish Serf, race=orc
+#: Archaic_Era/units/orcs/Serf.cfg:20
+msgid ""
+"The Serfs are slightly less solid in stature than the Grunts, but still "
+"formidible fighters.  Although most labour can be and is in fact done by "
+"goblins, projects that must be completed on a stricter time-table or under "
+"greater threat, such as seizure of timber or the construction of a front-"
+"line fortress, are carried out by the stronger hands of these orcs.  This "
+"type is seen more frequently in regions more firmly under orcish control, "
+"such as the Northlands."
 msgstr ""
 
 #. [unit_type]: id=Stork Master, race=wolf # does this need to be changed?
@@ -1095,7 +1146,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Archaic_Era/units/orcs/Terror.cfg:35
+#: Archaic_Era/units/orcs/Terror.cfg:38
 msgid "cat-of-nine-tails"
 msgstr ""
 
@@ -2162,7 +2213,7 @@ msgstr ""
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:59
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:58
-#: Archaic_Era/utils/Archaic_abilities.cfg:755
+#: Archaic_Era/utils/Archaic_abilities.cfg:934
 msgid "scattershot"
 msgstr ""
 
@@ -2778,74 +2829,37 @@ msgid ""
 "start, but they can still attack."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:757
-msgid ""
-"Scattershot:\n"
-"This attack always has at least a 70% chance to hit."
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:770
-msgid "vector damage"
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:772
-msgid ""
-"Vector Damage:\n"
-"..."
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:781
-#: Archaic_Era/utils/Archaic_abilities.cfg:790
-msgid "vector"
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:792
-msgid ""
-"Vector:\n"
-"This attack always has a {CHANCE}% chance to hit regardless of the defensive "
-"ability of the unit being attacked.  If hit, susceptable opponents become "
-"Khthon."
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:1084
-msgid "$damage_attacker_vis"
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:1183
-msgid "Possessed"
-msgstr ""
-
-#: Archaic_Era/utils/Archaic_abilities.cfg:1372
-#: Archaic_Era/utils/Archaic_abilities.cfg:1413
-#: Archaic_Era/utils/Archaic_abilities.cfg:1454
+#: Archaic_Era/utils/Archaic_abilities.cfg:748
+#: Archaic_Era/utils/Archaic_abilities.cfg:789
+#: Archaic_Era/utils/Archaic_abilities.cfg:830
 msgid "hide in shell"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1392
-#: Archaic_Era/utils/Archaic_abilities.cfg:1433
-#: Archaic_Era/utils/Archaic_abilities.cfg:1474
+#: Archaic_Era/utils/Archaic_abilities.cfg:768
+#: Archaic_Era/utils/Archaic_abilities.cfg:809
+#: Archaic_Era/utils/Archaic_abilities.cfg:850
 msgid "stop hiding"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1501
+#: Archaic_Era/utils/Archaic_abilities.cfg:877
 msgid "selfheal"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1503
+#: Archaic_Era/utils/Archaic_abilities.cfg:879
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1519
+#: Archaic_Era/utils/Archaic_abilities.cfg:895
 msgid "penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1520
+#: Archaic_Era/utils/Archaic_abilities.cfg:896
 msgid "female^penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1524
+#: Archaic_Era/utils/Archaic_abilities.cfg:900
 msgid ""
 "Penumbra:\n"
 "This unit obscures the surrounding area, making chaotic units fight better, "
@@ -2855,18 +2869,18 @@ msgid ""
 "day, and as if it were night when it is dusk."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1534
-#: Archaic_Era/utils/Archaic_abilities.cfg:1536
+#: Archaic_Era/utils/Archaic_abilities.cfg:910
+#: Archaic_Era/utils/Archaic_abilities.cfg:912
 msgid "desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1535
-#: Archaic_Era/utils/Archaic_abilities.cfg:1537
+#: Archaic_Era/utils/Archaic_abilities.cfg:911
+#: Archaic_Era/utils/Archaic_abilities.cfg:913
 msgid "female^desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:1541
-#: Archaic_Era/utils/Archaic_abilities.cfg:1545
+#: Archaic_Era/utils/Archaic_abilities.cfg:917
+#: Archaic_Era/utils/Archaic_abilities.cfg:921
 msgid ""
 "Desert-Stalk:\n"
 "This unit can hide in sand terrain, and remain undetected by its enemies.\n"
@@ -2874,6 +2888,12 @@ msgid ""
 "Enemy units cannot see this unit while it is on desert terrain, except if "
 "they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
+msgstr ""
+
+#: Archaic_Era/utils/Archaic_abilities.cfg:936
+msgid ""
+"Scattershot:\n"
+"This attack always has at least a 70% chance to hit."
 msgstr ""
 
 #. [terrain_type]: id=r_bridge
@@ -3021,73 +3041,67 @@ msgstr ""
 
 #. [terrain_type]: id=bmr_despair_castle
 #: Archaic_Era/utils/terrain.cfg:376 Archaic_Era/utils/terrain.cfg:377
+#: Archaic_Era/utils/terrain.cfg:401 Archaic_Era/utils/terrain.cfg:402
 msgid "Ghost Castle"
 msgstr ""
 
 #. [terrain_type]: id=bmr_despair_keep
 #: Archaic_Era/utils/terrain.cfg:388 Archaic_Era/utils/terrain.cfg:389
+#: Archaic_Era/utils/terrain.cfg:413 Archaic_Era/utils/terrain.cfg:414
 msgid "Ghost Keep"
 msgstr ""
 
 #. [terrain_type]: id=bmr_stonewall2
-#: Archaic_Era/utils/terrain.cfg:403
+#: Archaic_Era/utils/terrain.cfg:428
 msgid "Wall2"
 msgstr ""
 
 #. [terrain_type]: id=bmr_stonewall
-#: Archaic_Era/utils/terrain.cfg:413
+#: Archaic_Era/utils/terrain.cfg:438
 msgid "Wall"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icewall
-#: Archaic_Era/utils/terrain.cfg:423
+#: Archaic_Era/utils/terrain.cfg:448
 msgid "Ice Wall"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icecave
-#: Archaic_Era/utils/terrain.cfg:433
+#: Archaic_Era/utils/terrain.cfg:458
 msgid "Ice Cave"
 msgstr ""
 
 #. [terrain_type]: id=bmr_icecanyon
-#: Archaic_Era/utils/terrain.cfg:444
+#: Archaic_Era/utils/terrain.cfg:469
 msgid "Ice Chasm"
 msgstr ""
 
 #. [terrain_type]: id=facility1
-#: Archaic_Era/utils/terrain.cfg:455
+#: Archaic_Era/utils/terrain.cfg:480
 msgid "Industrial Facility"
 msgstr ""
 
 #. [terrain_type]: id=bmr_igloo
-#: Archaic_Era/utils/terrain.cfg:466
+#: Archaic_Era/utils/terrain.cfg:491
 msgid "Ice Village"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primevilla
-#: Archaic_Era/utils/terrain.cfg:478
+#: Archaic_Era/utils/terrain.cfg:503
 msgid "Primeval Villa"
 msgstr ""
 
 #. [terrain_type]: id=bmr_test
-#: Archaic_Era/utils/terrain.cfg:523
+#: Archaic_Era/utils/terrain.cfg:548
 msgid "Test Village"
 msgstr ""
 
 #. [terrain_type]: id=bmr_path
 #. [terrain_type]: id=bmr_pathdiag1
 #. [terrain_type]: id=bmr_pathdiag2
-#: Archaic_Era/utils/terrain.cfg:535 Archaic_Era/utils/terrain.cfg:543
-#: Archaic_Era/utils/terrain.cfg:551
-msgid "Path"
-msgstr ""
-
-#. [terrain_type]: id=bmr_lpath
-#. [terrain_type]: id=bmr_lpathdiag1
-#. [terrain_type]: id=bmr_lpathdiag2
 #: Archaic_Era/utils/terrain.cfg:560 Archaic_Era/utils/terrain.cfg:568
 #: Archaic_Era/utils/terrain.cfg:576
-msgid "Path(l)"
+msgid "Path"
 msgstr ""
 
 #. [terrain_type]: id=bmr_lpath
@@ -3095,25 +3109,70 @@ msgstr ""
 #. [terrain_type]: id=bmr_lpathdiag2
 #: Archaic_Era/utils/terrain.cfg:585 Archaic_Era/utils/terrain.cfg:593
 #: Archaic_Era/utils/terrain.cfg:601
+msgid "Path(l)"
+msgstr ""
+
+#. [terrain_type]: id=bmr_lpath
+#. [terrain_type]: id=bmr_lpathdiag1
+#. [terrain_type]: id=bmr_lpathdiag2
+#: Archaic_Era/utils/terrain.cfg:610 Archaic_Era/utils/terrain.cfg:618
+#: Archaic_Era/utils/terrain.cfg:626
 msgid "Path(r)"
 msgstr ""
 
 #. [terrain_type]: id=vent1
-#: Archaic_Era/utils/terrain.cfg:612
+#: Archaic_Era/utils/terrain.cfg:637
 msgid "Heat Exchanger"
 msgstr ""
 
 #. [terrain_type]: id=engine_tri
-#: Archaic_Era/utils/terrain.cfg:652
+#: Archaic_Era/utils/terrain.cfg:677
 msgid "Engine"
 msgstr ""
 
 #. [terrain_type]: id=tri_blue
-#: Archaic_Era/utils/terrain.cfg:678
+#: Archaic_Era/utils/terrain.cfg:703
 msgid "Blue"
 msgstr ""
 
 #. [terrain_type]: id=tri_path
-#: Archaic_Era/utils/terrain.cfg:689
+#: Archaic_Era/utils/terrain.cfg:714
 msgid "Snow Path"
+msgstr ""
+
+#. [dummy]: id=aa_vector_damage
+#: Archaic_Era/utils/vector_abilities.cfg:102
+msgid "vector damage"
+msgstr ""
+
+#. [dummy]: id=aa_vector_damage
+#: Archaic_Era/utils/vector_abilities.cfg:104
+msgid ""
+"Vector Damage:\n"
+"..."
+msgstr ""
+
+#: Archaic_Era/utils/vector_abilities.cfg:112
+msgid "vector"
+msgstr ""
+
+#. [unstore_unit]
+#: Archaic_Era/utils/vector_abilities.cfg:448
+#: Archaic_Era/utils/vector_abilities.cfg:563
+msgid "Possessed"
+msgstr ""
+
+#. [trait]: id=aa_khthon_enthrall
+#: Archaic_Era/utils/vector_abilities.cfg:678
+msgid "enthrallment"
+msgstr ""
+
+#. [trait]: id=aa_khthon_enthrall
+#: Archaic_Era/utils/vector_abilities.cfg:679
+msgid "Slain foes become Khthon thralls."
+msgstr ""
+
+#. [unstore_unit]
+#: Archaic_Era/utils/vector_abilities.cfg:721
+msgid "Enthralled"
 msgstr ""
