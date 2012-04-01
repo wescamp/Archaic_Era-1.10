@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-04-01 17:40-0400\n"
-"PO-Revision-Date: 2011-02-21 15:35+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-02-15 17:14+0100\n"
+"Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -16,22 +16,22 @@ msgstr ""
 #. [era]: id=ARCHAIC_ERA_II
 #: Archaic_Era/_main.cfg:41 Archaic_Era/eras/Archaic_Era.cfg:38
 msgid "Archaic Era"
-msgstr ""
+msgstr "Ősi korszak"
 
 #. [era]: id=ARCHAIC_ERA
 #: Archaic_Era/eras/Archaic_Era.cfg:139
 msgid "Archaic Clean"
-msgstr ""
+msgstr "Ősi korszak "
 
 #. [era]: id=ARCHAIC_ERA_HEROS
 #: Archaic_Era/eras/Archaic_Era.cfg:161
 msgid "Archaic Heros"
-msgstr ""
+msgstr "Ősi hősök"
 
 #. [era]: id=ARCHAIC_ERA_RPG
 #: Archaic_Era/eras/Archaic_Era.cfg:180
 msgid "Archaic RPG"
-msgstr ""
+msgstr "Ősi korszak SZJ"
 
 #. [multiplayer_side]: id=Archaic_Despair, type=Phantom Master
 #. [multiplayer_side]: id=Archaic_Despair, type=Phantom Shadow
@@ -39,14 +39,14 @@ msgstr ""
 #: Archaic_Era/eras/heros/despair_MP.cfg:5
 #: Archaic_Era/eras/rpg/despair_MP.cfg:6
 msgid "Despair"
-msgstr ""
+msgstr "Agyrém"
 
 #. [multiplayer_side]: id=Archaic_Khthon, type=Ophis-Magnum
 #. [multiplayer_side]: id=Archaic_Khthon, type=Pyradalon
 #: Archaic_Era/eras/base/khthon_MP.cfg:5
 #: Archaic_Era/eras/heros/khthon_MP.cfg:5 Archaic_Era/eras/rpg/khthon_MP.cfg:5
 msgid "Khthon"
-msgstr ""
+msgstr "Khthon"
 
 #. [multiplayer_side]: id=Archaic_Orcs, type=Orcish Warrior
 #. [multiplayer_side]: id=Northern_Orcs, type=Orcish Terror
@@ -54,7 +54,7 @@ msgstr ""
 #: Archaic_Era/eras/base/orcs_MP.cfg:4 Archaic_Era/eras/heros/orcs_MP.cfg:4
 #: Archaic_Era/eras/rpg/orcs_MP.cfg:4
 msgid "Northern Orcs"
-msgstr ""
+msgstr "Északi orkok"
 
 #. [multiplayer_side]: id=Archaic_Phantom, type=Tomb Protector
 #. [multiplayer_side]: id=Archaic_Phantom, type=Tomb Sentinel
@@ -62,7 +62,7 @@ msgstr ""
 #: Archaic_Era/eras/heros/phantom_MP.cfg:5
 #: Archaic_Era/eras/rpg/phantom_MP.cfg:5
 msgid "Phantom"
-msgstr ""
+msgstr "Fantom"
 
 #. [multiplayer_side]: id=Archaic_Primeval, type=Primeval Driver
 #. [multiplayer_side]: id=Archaic_Primeval, type=Primeval Warrior
@@ -70,12 +70,12 @@ msgstr ""
 #: Archaic_Era/eras/heros/primeval_MP.cfg:5
 #: Archaic_Era/eras/rpg/primeval_MP.cfg:5
 msgid "Primeval"
-msgstr ""
+msgstr "Antik"
 
 #. [multiplayer_side]: id=Archaic_Random, type=Primeval Driver
 #: Archaic_Era/eras/base/random_MP.cfg:5
 msgid "Random"
-msgstr ""
+msgstr "Véletlenszerű"
 
 #. [multiplayer_side]: id=Archaic_South-Seas, type=South-Seas Rover
 #. [multiplayer_side]: id=Archaic_South-Seas, type=South-Seas Seawolf
@@ -84,89 +84,89 @@ msgstr ""
 #: Archaic_Era/eras/heros/south-seas_MP.cfg:5
 #: Archaic_Era/eras/rpg/south-seas_MP.cfg:5
 msgid "South-Seas"
-msgstr ""
+msgstr "Déltengeriek"
 
 #. [multiplayer_side]: id=Archaic_Ukians, type=Ukian Officer
 #. [multiplayer_side]: id=Archaic_Ukians, type=Ukian Subcommander
 #: Archaic_Era/eras/base/ukians_MP.cfg:5
 #: Archaic_Era/eras/heros/ukians_MP.cfg:5 Archaic_Era/eras/rpg/ukians_MP.cfg:5
 msgid "Ukians"
-msgstr ""
+msgstr "Ukiaiak"
 
 #. [menu]: id=menu-main
 #: Archaic_Era/theme.cfg:122
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #. [menu]: id=actions-menu
 #: Archaic_Era/theme.cfg:133
 msgid "Actions"
-msgstr ""
+msgstr "Lehetőségek"
 
 #. [menu]: id=button-endturn
 #: Archaic_Era/theme.cfg:155
 msgid "End Turn"
-msgstr ""
+msgstr "Kör vége"
 
 #. [menu]: id=button-endturn
 #: Archaic_Era/theme.cfg:156
 msgid "End Scenario"
-msgstr ""
+msgstr "Küldetés vége"
 
 #. [label]: id=label-hp
 #: Archaic_Era/theme.cfg:214
 msgid "HP"
-msgstr ""
+msgstr "ÉP"
 
 #. [label]: id=label-xp
 #: Archaic_Era/theme.cfg:223
 msgid "XP"
-msgstr ""
+msgstr "TP"
 
 #. [label]: id=gold-icon
 #: Archaic_Era/theme.cfg:233
 msgid "gold"
-msgstr ""
+msgstr "arany"
 
 #. [label]: id=villages-icon
 #: Archaic_Era/theme.cfg:242
 msgid "villages"
-msgstr ""
+msgstr "falu"
 
 #. [label]: id=units-icon
 #: Archaic_Era/theme.cfg:251
 msgid "units"
-msgstr ""
+msgstr "egységek"
 
 #. [label]: id=upkeep-icon
 #: Archaic_Era/theme.cfg:260
 msgid "upkeep"
-msgstr ""
+msgstr "fenntartás"
 
 #. [label]: id=income-icon
 #: Archaic_Era/theme.cfg:269
 msgid "income"
-msgstr ""
+msgstr "bevétel"
 
 #. [unit_level]: id=unit-level
 #: Archaic_Era/theme.cfg:431
 msgid "statuspanel^level"
-msgstr ""
+msgstr "szint"
 
 #. [unit_moves]: id=unit-moves
 #: Archaic_Era/theme.cfg:461
 msgid "statuspanel^moves"
-msgstr ""
+msgstr "mozgáspont"
 
 #. [unit_defense]: id=unit-defense
 #: Archaic_Era/theme.cfg:470
 msgid "statuspanel^terrain def."
-msgstr ""
+msgstr "tereptípus"
 
 #. [unit_type]: id=Phantom Armor, race=despair
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:5
 msgid "Stone Warrior"
-msgstr ""
+msgstr "Sziklaharcos"
 
 #. [race]: id=despair_wisp
 #. [race]: id=phantom_egypt
@@ -258,14 +258,14 @@ msgstr ""
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:19
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:94
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:88
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:88
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:87
 msgid "stone grip"
-msgstr ""
+msgstr "vasmarok"
 
 #. [petrifies]: id=aa_petrifies
 #. [petrifies]: id=petrifies
@@ -273,29 +273,33 @@ msgstr ""
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:97
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:96
 msgid "petrifies"
-msgstr ""
+msgstr "kővéválás"
 
 #. [petrifies]: id=petrifies
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:98
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:97
+#, fuzzy
 msgid ""
 "Petrify:\n"
 "This attack petrifies the target, turning it to stone. Units that have been "
 "petrified may not move or attack."
 msgstr ""
+"Kővéváltoztatás:\n"
+"\tEz a támadás kővé változtatja az ellenséges egységet. A kővé vált egység "
+"nem mozoghat vagy támadhat."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:106
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:106
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:105
 msgid "stone fist"
-msgstr ""
+msgstr "kőököl"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:116
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:115
 msgid "stone blade"
-msgstr ""
+msgstr "kőpenge"
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:125
@@ -308,12 +312,12 @@ msgstr ""
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:116
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:124
 msgid "hatred"
-msgstr ""
+msgstr "gyűlölethullám"
 
 #. [unit_type]: id=Phantom Banshee, race=despair
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:5
 msgid "Banshee"
-msgstr ""
+msgstr "Házikísértet"
 
 #. [unit_type]: id=Phantom Banshee, race=despair
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:22
@@ -322,23 +326,25 @@ msgid ""
 "interested in the lives of the high-born. Their appearance is taken as a "
 "sign that someone is going to die."
 msgstr ""
+"A házikísértetek vagy előkelő hölgyek szellemei, vagy előkelőségre áhítozók "
+"kísértetei. Megjelenésük annak a jele, hogy valaki meghal a családban."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:81
 #: Archaic_Era/units/despair/Phantom_White.cfg:81
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:81
 msgid "lament"
-msgstr ""
+msgstr "sirám"
 
 #. [unit_type]: id=Phantom Cloak, race=despair
 #: Archaic_Era/units/despair/Phantom_Cloak.cfg:5
 msgid "Cloak"
-msgstr ""
+msgstr "Surranó"
 
 #. [unit_type]: id=Phantom Dullohan, race=despair
 #: Archaic_Era/units/despair/Phantom_Dullohan.cfg:4
 msgid "Dullohan"
-msgstr ""
+msgstr "Vágtató borzalom"
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Dullohan.cfg:73
@@ -346,17 +352,17 @@ msgstr ""
 #: Archaic_Era/units/despair/Phantom_Rider.cfg:72
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:73
 msgid "rush"
-msgstr ""
+msgstr "csapás"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Dullohan.cfg:85
 msgid "skull"
-msgstr ""
+msgstr "koponya"
 
 #. [unit_type]: id=Phantom Fright, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:5
 msgid "Fright"
-msgstr ""
+msgstr "Satrafa"
 
 #. [unit_type]: id=Phantom Fright, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:22
@@ -364,27 +370,29 @@ msgid ""
 "The veteran Wisps are slightly stronger, but still more a part of the spirit "
 "world than this world, so their attacks are not much stronger."
 msgstr ""
+"A harcedzett lúdvércek kicsit erősebbek, de inkább a szellemvilághoz "
+"tartoznak, mint a földi léthez, így támadásuk sem túl erős."
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:89
 #: Archaic_Era/units/despair/Phantom_Wisp.cfg:89
 msgid "fright"
-msgstr ""
+msgstr "frász"
 
 #. [unit_type]: id=Phantom Horseman, race=despair
 #: Archaic_Era/units/despair/Phantom_Horseman.cfg:4
 msgid "Horseman"
-msgstr ""
+msgstr "Lovas"
 
 #. [unit_type]: id=Phantom Master, race=despair
 #: Archaic_Era/units/despair/Phantom_Master.cfg:5
 msgid "Master"
-msgstr ""
+msgstr "Mester"
 
 #. [unit_type]: id=Phantom Midnight, race=despair
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:5
 msgid "Midnight Beauty"
-msgstr ""
+msgstr "Álomkirálynő"
 
 #. [unit_type]: id=Phantom Midnight, race=despair
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:113
@@ -395,68 +403,73 @@ msgid ""
 "that head into the night with one of the Midnight Beauties are never seen "
 "again."
 msgstr ""
+"Néhány szellem nappal és este teljesen élőként viselkedik, ezzel is "
+"felidézve azt az életet, amiben már nem lehet része. Ezek a szellemek "
+"gyönyörű nő formájában jelennek meg, s könnyen rábírják az ifjú bolondokat, "
+"hogy hazakísérjék őket estére. Azokat, akik éjszaka is együtt voltak egy "
+"ilyen álomkirálynővel, többé senki se látta."
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:172
 msgid "gaze"
-msgstr ""
+msgstr "igézés"
 
 #. [unit_type]: id=Phantom Officer, race=despair
 #: Archaic_Era/units/despair/Phantom_Officer.cfg:4
 msgid "Officer"
-msgstr ""
+msgstr "Tiszt"
 
 #. [advancement]: id=amla_phantom1
 #: Archaic_Era/units/despair/Phantom_Officer.cfg:20
 msgid "Max HP bonus +2, Melee Damage +1, Max Exp penalty +20%"
-msgstr ""
+msgstr "Max ÉP +2, közelharci sebzés +1, Max TP +20%"
 
 #. [advancement]: id=amla_phantom2
 #: Archaic_Era/units/despair/Phantom_Officer.cfg:49
 msgid "Max HP bonus +2, Ranged Strikes +1, Max Exp penalty +20%"
-msgstr ""
+msgstr "Max ÉP +2, Távolsági ütés +1 Max TP +20%"
 
 #. [unit_type]: id=Phantom Rider, race=despair
 #: Archaic_Era/units/despair/Phantom_Rider.cfg:4
 msgid "Rider"
-msgstr ""
+msgstr "Nyargaló"
 
 #. [unit_type]: id=Phantom Shadow, race=despair
 #: Archaic_Era/units/despair/Phantom_Shadow.cfg:5
 msgid "Shroud"
-msgstr ""
+msgstr "Éjköpenyes"
 
 #. [unit_type]: id=Phantom Slayer, race=despair
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:4
 msgid "Slayer"
-msgstr ""
+msgstr "Vérengző"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:85
 #: Archaic_Era/units/south-seas/Shoreman.cfg:28
 msgid "spike"
-msgstr ""
+msgstr "karó"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:98
 #: Archaic_Era/units/orcs/Overseer.cfg:51 Archaic_Era/units/orcs/Terror.cfg:50
 msgid "blade"
-msgstr ""
+msgstr "penge"
 
 #. [unit_type]: id=Phantom Soldier, race=despair
 #: Archaic_Era/units/despair/Phantom_Soldier.cfg:4
 msgid "Soldier"
-msgstr ""
+msgstr "Katona"
 
 #. [unit_type]: id=Phantom Soldier, race=despair
 #: Archaic_Era/units/despair/Phantom_Soldier.cfg:19
 msgid "Phantom Soldiers are the angry shadows of former Royal soldiers..."
-msgstr ""
+msgstr "A fantom katonák a korábbi udvari katonák dühös árnyai..."
 
 #. [unit_type]: id=Phantom Spearman, race=despair
 #: Archaic_Era/units/despair/Phantom_Spear.cfg:5
 msgid "Spearman"
-msgstr ""
+msgstr "Lándzsás"
 
 #. [unit_type]: id=Phantom Spearman, race=despair
 #: Archaic_Era/units/despair/Phantom_Spear.cfg:20
@@ -465,11 +478,14 @@ msgid ""
 "dead, they can still learn from combat experience to become battle-hardened "
 "soldiers. Or rather, the angry shadows of soldiers."
 msgstr ""
+"A fantom lándzsások a korábbi udvari lándzsások dühös árnyai. Habár "
+"halottak, korábbi csatákban szerzett tapasztalataik harcedzett katonákká "
+"teszik őket, vagy inkább dühös árnyakká."
 
 #. [unit_type]: id=Phantom Statue, race=despair
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:5
 msgid "Statue"
-msgstr ""
+msgstr "Szobor"
 
 #. [unit_type]: id=Phantom Statue, race=despair
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:34
@@ -487,24 +503,38 @@ msgid ""
 "units will be freed upon the Statue's death, or if freed through the right-"
 "click menu option."
 msgstr ""
+"A tábornokok és a nemesek sírját gyakran emlékszobrok jelölik, így képmásuk "
+"sokáig fennmarad a haláluk után is. Néha, ha a lelket kínozza az "
+"igazságtalanság, a bosszúvágy, a kőszobor akcióba lép. Az emlékszobrok "
+"fogságában rekedt lelkek reménytelenül csapdába estek a kőtestben, de a "
+"csapdahelyzet fenntartása roppant fárasztó ezeknek a kőharcosoknak.\n"
+"Megjegyzés: Az egység napközben kővé válik, kivéve, ha mellette egy baráti "
+"egység áll. Hajnalban, alkonyatkor vagy éjszaka ez nem áll fenn. Az egység "
+"sebzése minden újabb egység csapdába ejtésével növekszik. A csapdába esett "
+"egységek a szobor halálával szabadulnak ki, vagy pedig a jobbklikk után "
+"megjelenő menüből kiválasztható menüponttal szabadíthatók ki. "
 
 #. [petrifies]: id=aa_petrifies
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:98
+#, fuzzy
 msgid ""
 "Petrify:\n"
 "This attack petrifies the target, turning it to stone. Units that have been "
 "petrified may not move or attack until the curse wears off."
 msgstr ""
+"Kővéváltoztatás:\n"
+"\tEz a támadás kővé változtatja az ellenséges egységet. A kővé vált egység "
+"nem mozoghat vagy támadhat."
 
 #. [unit_type]: id=Phantom Stone, race=despair
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:5
 msgid "Stone Soldier"
-msgstr ""
+msgstr "Kőkatona"
 
 #. [unit_type]: id=Phantom White, race=despair
 #: Archaic_Era/units/despair/Phantom_White.cfg:5
 msgid "White Lady"
-msgstr ""
+msgstr "Sápatag úrnő"
 
 #. [unit_type]: id=Phantom White, race=despair
 #: Archaic_Era/units/despair/Phantom_White.cfg:22
@@ -513,11 +543,14 @@ msgid ""
 "close, one can see that their skin and eyes are very pale and show no signs "
 "of life. They wear dark robes and a veil, as if in mourning."
 msgstr ""
+"Távolból a sápatag úrnő közönséges embernek látszik. Közelről viszont rögtön "
+"szembetűnik bőrének és szemének halvány tónusa, amelyek az élettelenség "
+"legbiztosabb jelei. Sötét köpenyük és fátyluk a gyász benyomását kelti.  "
 
 #. [unit_type]: id=Phantom Widow, race=despair
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:5
 msgid "Widow"
-msgstr ""
+msgstr "Özvegy"
 
 #. [unit_type]: id=Phantom Widow, race=despair
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:22
@@ -528,11 +561,16 @@ msgid ""
 "before the final defeat have built up a rage and sorrow that helps them "
 "persist in the spirit world."
 msgstr ""
+"A zord északon zajló népirtásokban korra, nemre való tekintet nélkül "
+"mészárolják le az áldozatokat - különösen, ha orkok, vagy még szörnyűbb "
+"lények követik el ezeket. Azokat a nőket, akik az elesett harcosok jegyesei "
+"voltak, s haragjuk és bánatuk kellő erőt ad nekik, hogy szellemként "
+"folytassák életüket, nevezik köznyelven özvegynek."
 
 #. [unit_type]: id=Phantom Unease, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Wisp.cfg:5
 msgid "Unease"
-msgstr ""
+msgstr "Gyötrőszellem"
 
 #. [unit_type]: id=Phantom Unease, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Wisp.cfg:21
@@ -547,21 +585,29 @@ msgid ""
 "Special Note:  This unit uses only one movement point per attack, rather "
 "than all of its movement points like most other units."
 msgstr ""
+"A lidérces agyrémek a fantomok közül leginkább képviselik a szellemvilágot. "
+"Emiatt a földi léthez nagyon gyengén kötődnek, támadásuk is erőtlen, s "
+"könnyen szétoszlanak. Másrészt viszont nagyon kevés ellenfél képes "
+"akadályozni őket a mozgásukban. Akadály nélkül siklanak át az ellenséges "
+"vonalakon, gyenge támadásuk kevés energiát emészt fel, így körönként sokszor "
+"képesek ütni.\n"
+"Megjegyzés: Ez az egység csak egy mozgáspontot használ el támadásához, "
+"szemben a többi egységgel, amely összes mozgáspontját elveszíti."
 
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:5
 msgid "race^Despair"
-msgstr ""
+msgstr "Agyrém"
 
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:6
 msgid "race+female^Despair"
-msgstr ""
+msgstr "Agyrém"
 
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:7
 msgid "race+plural^Despair"
-msgstr ""
+msgstr "Agyrémek"
 
 #. [race]: id=despair
 #. [race]: id=phantom_wales
@@ -572,26 +618,30 @@ msgid ""
 "roam the tundra, but unlike ghosts, they are not slaves to practioners of "
 "Necromancy. Instead, they are slaves to their own desires for revenge."
 msgstr ""
+"Ahogy Huric uralma lehanyatlott, s az ork hordák megkezdték az ukiai terület "
+"visszafoglalását, rengeteg embert gyilkoltak le. A halottak azonban valahogy "
+"továbbra is kísértik a tundra vidékét, de nem úgy, mint a szellemek, nem a "
+"holtidézők szolgálatában, pusztán saját bosszúvágyuktól vezérelve."
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:16
 msgid "race^Wisp"
-msgstr ""
+msgstr "Lúdvérc"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:17
 msgid "race+female^Wisp"
-msgstr ""
+msgstr "Lúdvérc"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:18
 msgid "race^Wisps"
-msgstr ""
+msgstr "Lúdvércek"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:5
 msgid "Adamantine"
-msgstr ""
+msgstr "Gyémántbőrű"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #. [unit_type]: id=Rockback, race=khthon
@@ -606,11 +656,13 @@ msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
+"A csontteknőlakó vissza tud húzódni teknőjébe, s ezáltal nagyobb védettséget "
+"élvez (jobb klikk, kiválasztás), de a teknőben mozogni vagy támadni nem tud."
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:138
 msgid "Adamantine (Hiding)"
-msgstr ""
+msgstr "Gyémántbőrű (rejtőzködő)"
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:156
@@ -618,11 +670,13 @@ msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
+"A gyémántbőrű vissza tud húzódni házába, s ezáltal nagyobb védettséget élvez "
+"(jobb klikk, kiválasztás), de a házban mozogni vagy támadni nem tud. "
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:5
 msgid "Arctic Wolf"
-msgstr ""
+msgstr "Sarki farkas"
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:18
@@ -632,11 +686,15 @@ msgid ""
 "they do not attack groups of armed humans, but they have been behaving "
 "strangely as of late..."
 msgstr ""
+"A sarki farkasok alkalmazkodtak a tundrai élethez. Talán a megszelidített "
+"ukiai kutyák rokonai, de jelentősen nagyobbak. Rendszerint elkerülik a "
+"fegyveres emberi csoportokat, de az utóbbi időkben kicsit megváltozott a "
+"viselkedésük... "
 
 #. [unit_type]: id=Horse, race=khthon
 #: Archaic_Era/units/khthon/Horse.cfg:5
 msgid "Horse"
-msgstr ""
+msgstr "Ló"
 
 #. [unit_type]: id=Horse, race=khthon
 #: Archaic_Era/units/khthon/Horse.cfg:18
@@ -644,6 +702,8 @@ msgid ""
 "Horses are strong and fast, but fragile. They do not usually attack people "
 "though, so something is wrong..."
 msgstr ""
+"A lovak erősek és gyorsak, bár törékenyek. Nem szoktak emberekre támadni, "
+"szóval valami nem stimmel..."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Horse.cfg:34
@@ -654,18 +714,18 @@ msgstr ""
 #: Archaic_Era/units/khthon/Taraxippon.cfg:57
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:40
 msgid "kick"
-msgstr ""
+msgstr "rúgás"
 
 #. [unit_type]: id=Hypergusa, race=khthon
 #: Archaic_Era/units/khthon/Hypergusa.cfg:5
 msgid "Hypergusa"
-msgstr ""
+msgstr "Hypergusa"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Hypergusa.cfg:49
 #: Archaic_Era/units/khthon/Pegusa.cfg:42
 msgid "spit"
-msgstr ""
+msgstr "köpés"
 
 #. [unit_type]: id=Ipoten, race=khthon
 #: Archaic_Era/units/khthon/Ipoten.cfg:5
@@ -682,7 +742,7 @@ msgstr ""
 #. [unit_type]: id=KatobleponMagnum, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:5
 msgid "Katoblepon-Magnum"
-msgstr ""
+msgstr "Nagy katoblepon"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:48
@@ -692,18 +752,18 @@ msgstr ""
 #: Archaic_Era/units/orcs/Destrier.cfg:39
 #: Archaic_Era/units/orcs/Oxrider.cfg:33
 msgid "head"
-msgstr ""
+msgstr "fej"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:60
 #: Archaic_Era/units/khthon/Katoblepon.cfg:60
 msgid "breath"
-msgstr ""
+msgstr "lehelet"
 
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:5
 msgid "Katoblepon"
-msgstr ""
+msgstr "Katoblepon"
 
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:20
@@ -712,6 +772,9 @@ msgid ""
 "usually keeps its head down as if grazing, it can lift it to attack with a "
 "poisonous breath."
 msgstr ""
+"A khthon szellem kezdte átalakítani totyogó áldozatát. Habár általában "
+"leszegi a fejét, mintha legelne, de fejét felkapva mérgező leheletet fúj "
+"áldozatára."
 
 #. [unit_type]: id=Khalkotaurus, race=khthon
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:5
@@ -728,17 +791,18 @@ msgstr ""
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:33
 #: Archaic_Era/units/khthon/Ophis.cfg:32 Archaic_Era/units/khthon/Yak.cfg:30
 msgid "horns"
-msgstr ""
+msgstr "szarv"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:45
+#, fuzzy
 msgid "claws"
-msgstr ""
+msgstr "Karom"
 
 #. [unit_type]: id=Nightmare, race=khthon
 #: Archaic_Era/units/khthon/Nightmare.cfg:5
 msgid "Nightmare"
-msgstr ""
+msgstr "Rémálom"
 
 #. [unit_type]: id=Nightmare, race=khthon
 #: Archaic_Era/units/khthon/Nightmare.cfg:21
@@ -749,11 +813,16 @@ msgid ""
 "are drawn to the mysteries of the phantoms and spirits, and have mastered "
 "some of the undead fighting techniques."
 msgstr ""
+"Szemben azzal, amit egy gyötrő jelenségtől várnánk, a khthonok saját "
+"jellemvonással rendelkeznek, némelyek másokhoz képest egészen túlvilágiakkal "
+"is. Miközben nem használják a feketemágia ismert eszközeit és italait, a "
+"tudásra szomjazókat vonzzák a rejtélyes fantomok és szellemek, és számos "
+"élőholt technikát is alkalmaznak. "
 
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:5
 msgid "Ophis-Magnum"
-msgstr ""
+msgstr "Nagy ophis"
 
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:20
@@ -762,11 +831,14 @@ msgid ""
 "absorb much damage. The Khthon has mastered its hosts body perfectly, so it "
 "is now able to fully regenerate."
 msgstr ""
+"Ennek a bestiának a testét vastag bőr és pikkely fedi, így ellenálló a "
+"fizikai behatásokra. A khthonok tökéletesre formálták a gazdatestet, így az "
+"teljesen regenerádódik."
 
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:5
 msgid "Ophis"
-msgstr ""
+msgstr "Ophis"
 
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:19
@@ -776,11 +848,15 @@ msgid ""
 "combination of hoofs amd serpent tail also allows it to quickly weave "
 "through almost any terrain."
 msgstr ""
+"A khthon szellem kezdte átalakítani ezt az ökörszerű lényt. A hátsó fertálya "
+"kígyószerűvé alakult, és a csavarodott szerv megnöveli az ütés erejét. A "
+"paták és a hüllőfarok kombinációja szinte minden terepen gyors haladást "
+"eredményez."
 
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:5
 msgid "Orthrus"
-msgstr ""
+msgstr "Orthrus"
 
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:19
@@ -791,11 +867,16 @@ msgid ""
 "view and more teeth. The armor around the neck has grown thicker and while "
 "the horn armor is not as strong as steel, it is much more light-weight."
 msgstr ""
+"A khthon szellem kezdte átalakítani kutyaszerű áldozatát. Az állat elméje "
+"elsorvadt, a fej pusztán az érzékelők (szem, orr, fülek) elhelyezésére "
+"szolgál, illetve fegyvertartónak (fogak). A második fej nagyobb látóteret és "
+"több fogat biztosít. A nyakat övező bőr megvastagodott, s míg a fogak nem "
+"vetekedhetnek az acél keménységével, ez annál is ellenállóbb."
 
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:5
 msgid "Pegusa"
-msgstr ""
+msgstr "Pegusa"
 
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:18
@@ -804,11 +885,13 @@ msgid ""
 "can now produce a spittle that is thick and adhesive, which can cause quite "
 "a distraction for any target."
 msgstr ""
+"A khthon szellem kezdte átalakítani lószerű áldozatát. A nyálmirigy most már "
+"sűrű és ragadós nyálat termel, ami minden ellenségnek kellemetlenséget okoz."
 
 #. [unit_type]: id=Prokyon, race=khthon
 #: Archaic_Era/units/khthon/Prokyon.cfg:5
 msgid "Prokyon"
-msgstr ""
+msgstr "Prokyon"
 
 #. [unit_type]: id=Prokyon, race=khthon
 #: Archaic_Era/units/khthon/Prokyon.cfg:20
@@ -817,16 +900,19 @@ msgid ""
 "horn-like armor, made out of the same material as the animal's bristles and "
 "hair, grows to turn the wolf into a Khthon cavalry."
 msgstr ""
+"A prokyonok az első jelentősebb állomásai a khthon szellem farkasokon "
+"végzett átalaíkításainak. A szaruszerű vértezet, amely a szőr és sörte "
+"anyagából alakult, a farkast a khthonok lovasságává teszi."
 
 #. [unit_type]: id=Pyradalon, race=khthon
 #: Archaic_Era/units/khthon/Pyradalon.cfg:5
 msgid "Pyradalon"
-msgstr ""
+msgstr "Pyradalon"
 
 #. [unit_type]: id=Ram, race=khthon
 #: Archaic_Era/units/khthon/Ram.cfg:5
 msgid "Ram"
-msgstr ""
+msgstr "Kos"
 
 #. [unit_type]: id=Ram, race=khthon
 #: Archaic_Era/units/khthon/Ram.cfg:18
@@ -834,36 +920,38 @@ msgid ""
 "Sheep grow long hair that allows them to survive the cold. They don't "
 "usually attack humans, but these rams appear to have been possessed..."
 msgstr ""
+"A juhoknak tömör gyapja nő, így könnyedén elviselik a hideget. Általában nem "
+"támadnak emberekre, de ezek a kosok mintha megkergültek volna..."
 
 #. [unit_type]: id=Rockback, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:5
 msgid "Rock Back"
-msgstr ""
+msgstr "Kőteknőlakó"
 
 #. [unit_type]: id=Rockback_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:136
 msgid "Rock Back (Hiding)"
-msgstr ""
+msgstr "Kőteknőlakó (rejtőzködő)"
 
 #. [unit_type]: id=Snapper, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:5
 msgid "Bone Snapper"
-msgstr ""
+msgstr "Csontteknőlakó"
 
 #. [unit_type]: id=Snapper_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:136
 msgid "Bone Snapper (Hiding)"
-msgstr ""
+msgstr "Csontteknőlakó (rejtőzködő)"
 
 #. [unit_type]: id=BMR Spark, race=mechanical
 #: Archaic_Era/units/khthon/Spark.cfg:4
 msgid "Spark"
-msgstr ""
+msgstr "Csillagszóró"
 
 #. [unit_type]: id=BMR Spark, race=mechanical
 #: Archaic_Era/units/khthon/Spark.cfg:18
 msgid "A spark of light..."
-msgstr ""
+msgstr "A csillagszórók..."
 
 #. [unit_type]: id=Taraxippon, race=khthon
 #: Archaic_Era/units/khthon/Taraxippon.cfg:5
@@ -880,7 +968,7 @@ msgstr ""
 #. [unit_type]: id=Terrapin, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:5
 msgid "Terrapin"
-msgstr ""
+msgstr "Földhözragadt"
 
 #. [unit_type]: id=Terrapin, race=khthon
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
@@ -890,16 +978,18 @@ msgid ""
 "The terrapin can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
+"A földhözragadt vissza tud húzódni házába, s ezáltal nagyobb védettséget "
+"élvez (jobb klikk, kiválasztás), de a házban mozogni vagy támadni nem tud. "
 
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:99
 msgid "Terrapin (Hiding)"
-msgstr ""
+msgstr "Földhözragadt (rejtőzködő)"
 
 #. [unit_type]: id=Timber Wolf, race=khthon
 #: Archaic_Era/units/khthon/Timber_Wolf.cfg:5
 msgid "Timber Wolf"
-msgstr ""
+msgstr "Erdei farkas"
 
 #. [unit_type]: id=Timber Wolf, race=khthon
 #: Archaic_Era/units/khthon/Timber_Wolf.cfg:20
@@ -908,11 +998,14 @@ msgid ""
 "as of late. While not particularly strong, they are fast and can strike with "
 "enough skill to successfully kill a moderately armed man."
 msgstr ""
+"Az erdei farkasok mindig is veszélyt jelentettek, de sosem voltak olyan "
+"agresszívek, mint az utóbbi időben. Bár nem különösebben erősek, de gyorsak, "
+"és váratlan támadásuk halálos lehet a mérsékelten felvértezett emberre."
 
 #. [unit_type]: id=Yak, race=khthon
 #: Archaic_Era/units/khthon/Yak.cfg:5
 msgid "Yak"
-msgstr ""
+msgstr "Jak"
 
 #. [unit_type]: id=Yak, race=khthon
 #: Archaic_Era/units/khthon/Yak.cfg:20
@@ -921,21 +1014,24 @@ msgid ""
 "sturdy and do not mind the cold. It is a little odd that they have become so "
 "aggressive as of late."
 msgstr ""
+"Különböző időkben a jakokat teherhordásra használták, mivel szívósak, és "
+"fittyet hánynak a hidegre. Egészen szokatlan, hogy agresszívvé válnak, amit "
+"az utóbbi időkben tapasztalhatunk."
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:5
 msgid "race^Khthon"
-msgstr ""
+msgstr "Khthon"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:6
 msgid "race+female^Khthon"
-msgstr ""
+msgstr "Khthon"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:7
 msgid "race+plural^Khthon"
-msgstr ""
+msgstr "Khthonok"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:9
@@ -946,21 +1042,27 @@ msgid ""
 "have developed an immunity to this, but the more modern inhabitants of the "
 "continent (with the exception of the non-living) are vulnerable."
 msgstr ""
+"Az Antik Seregek e ősi ellenségeit nehéz jól leírni. Leginkább akkor járunk "
+"közel az igazsághoz, ha szellemeknek képzeljük el őket, amelyek megszállják "
+"áldozataikat, s lassan bizonyos átalakulásokat idéznek elő bennük. Az Antik "
+"Seregek ellenállóak az effajta behatolással szemben, de a kontinenst "
+"benépesítő modern fajok (a nem-élők kivételével) nem rendelkeznek ilyen "
+"ellenállással. "
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:15
 msgid "race^Lesser Khthon"
-msgstr ""
+msgstr "Kis khthon"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:16
 msgid "race+female^Lesser Khthon"
-msgstr ""
+msgstr "Kis khthon"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:17
 msgid "race+plural^Lesser Khthon"
-msgstr ""
+msgstr "Kis khthonok"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:20
@@ -968,21 +1070,23 @@ msgid ""
 "Lesser Khthon are the immature spawn of Khthon. They cannot spread more of "
 "their kind yet, but they can independently control the mind of their victims."
 msgstr ""
+"A kis khthonok a khthonok éretlen formái. Nem képesek a fajtájukat "
+"szaporítani, de már irányítják az áldozatuk elméjét."
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:25
 msgid "race^Thrall"
-msgstr ""
+msgstr "Rabszolga"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:26
 msgid "race+female^Thrall"
-msgstr ""
+msgstr "Rabszolganő"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:27
 msgid "race+plural^Thrall"
-msgstr ""
+msgstr "Rabszolgák"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:30
@@ -991,11 +1095,14 @@ msgid ""
 "from their former existence, but they have no memories and no possiblity of "
 "a future.  They are a form of walking dead."
 msgstr ""
+"A khthon rabszolgák agyatlan eszközök csupán, akiknek emlékezete előző "
+"életükből csak a mozgást és a fegyverhasználatot őrizte meg, más emlékük "
+"nincs, s jövőlátásuk sincs. Tulajdonképpen mozgó halottak."
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
 #: Archaic_Era/units/orcs/Cavalry.cfg:5
 msgid "Cavalry"
-msgstr ""
+msgstr "Kalandor"
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
 #: Archaic_Era/units/orcs/Cavalry.cfg:19
@@ -1006,11 +1113,16 @@ msgid ""
 "of a respected class that can stay somewhat above the rat race that other "
 "orcs must engage in."
 msgstr ""
+"A leggyakorlottabb lovasok jobb fegyvereket szereztek be, s megtanulták, "
+"hogy védhetik meg hátasaikat a felnyársalástól. Jártasságuk és csatatéri "
+"használhatóságuk miatt ezek a harcedzett lovasok rendkívüli tiszteletnek "
+"örvendenek, s felette állnak a patkánynak tekintett társaiknak, akiket az "
+"orkok általában lenéznek."
 
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:5
 msgid "Destrier"
-msgstr ""
+msgstr "Pusztító"
 
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:20
@@ -1021,11 +1133,16 @@ msgid ""
 "not try to become warlords, but seek warlord patrons who will pay their "
 "upkeep in exchange for the long and strong arm they can provide."
 msgstr ""
+"Az ork lovasság elit tagjainak bátorsága és kitartása példamutató a "
+"csatatéren, de az ork és hátasa fenntartása igen drága mulatság, mivel "
+"fizikailag mindig topon kell lenniük.  Emiatt maguk nem pályáznak a hadúri "
+"címre, viszont hűséggel szolgálnak más hadurakat, akik hajlandók fedezni "
+"fenntartási költségeiket  a katonai szolgálatért cserébe. "
 
 #. [unit_type]: id=Orcish Firebreather, race=orc
 #: Archaic_Era/units/orcs/Firebreather.cfg:4
 msgid "Orcish Firebreather"
-msgstr ""
+msgstr "Ork tűzköpő"
 
 #. [unit_type]: id=Orcish Firebreather, race=orc
 #: Archaic_Era/units/orcs/Firebreather.cfg:19
@@ -1037,16 +1154,22 @@ msgid ""
 "whatever light oils were available and spitting through their torch, into "
 "the face of their opponent. Hence the name, 'Firebreather'."
 msgstr ""
+"Némi gyakorlás után a fáklya komoly fegyverré vált a kiváló tűzokádók "
+"között, de ők ezzel nem elégedtek meg. Az orkok nem arról ismertek, hogy "
+"hosszútávú egészségi hatásokkal foglalkoznának, így a mesteri tűzokádók sem "
+"törődnek azzal, hogy milyen olajat vesznek a szájukba, amit "
+"keresztülspriccelnek a fáklyájukon az ellenség arcába. Ezért is kapták ezt a "
+"nevet, 'Tűzköpő'."
 
 #. [attack]: type=fire
 #: Archaic_Era/units/orcs/Firebreather.cfg:122
 msgid "fire"
-msgstr ""
+msgstr "tűz"
 
 #. [unit_type]: id=Orcish Fireline, race=orc
 #: Archaic_Era/units/orcs/Fireline.cfg:14
 msgid "Orcish Fireline"
-msgstr ""
+msgstr "Ork tűzokádó"
 
 #. [unit_type]: id=Orcish Fireline, race=orc
 #: Archaic_Era/units/orcs/Fireline.cfg:28
@@ -1057,11 +1180,16 @@ msgid ""
 "knew nothing of the long range communication, but found the torch and blade "
 "combination could indeed be effective."
 msgstr ""
+"Az ork tűzokádók az északi orkoktól elkülönülve az ukiaiak fegyvereit vették "
+"magukhoz. Az ukiai jelzőőrök alakulatában a fáklyát kombinálták a bárddal, "
+"részben a hosszútávú kommunikáció, részben a távolsági harc céljából. Az "
+"orkokat nem érdekelte a hosszú távú kommunikáció, de a fáklya és a penge "
+"kombinációját nagyon hatékonynak találták."
 
 #. [unit_type]: id=Orcish Foreman, race=orc
 #: Archaic_Era/units/orcs/Foreman.cfg:5
 msgid "Orcish Foreman"
-msgstr ""
+msgstr "Ork hajcsár"
 
 #. [unit_type]: id=Orcish Foreman, race=orc
 #: Archaic_Era/units/orcs/Foreman.cfg:20
@@ -1071,11 +1199,15 @@ msgid ""
 "strong can advance to be leaders amongst their own kind, and organize the "
 "serfs into functional working crews."
 msgstr ""
+"A koboldokat eredetileg töltelékként használták a sorok közt, de ez az "
+"orkokkal sokkal jobban működött. A jobbágyokból sosem lesznek harcosok, de a "
+"legerősebbek közülük élére állhatnak e szedett-vedett társaságnak, s némileg "
+"hasznosan működő legénységet kovácsolhatnak belőlük."
 
 #. [unit_type]: id=Orcish Overseer, race=orc
 #: Archaic_Era/units/orcs/Overseer.cfg:5
 msgid "Orcish Overseer"
-msgstr ""
+msgstr "Ork felügyelő"
 
 #. [unit_type]: id=Orcish Overseer, race=orc
 #: Archaic_Era/units/orcs/Overseer.cfg:21
@@ -1085,11 +1217,15 @@ msgid ""
 "and Grunts grudgingly admit their value and will fall in line when "
 "circumstances of battle call for it."
 msgstr ""
+"A legerősebb ork munkások, akik bizonyították rátermettségüket és "
+"megbirkóztak a kihívásokkal, vezetővé léptek elő. Még az ork közkatonák és "
+"harcosok is elismerik, habár vonakodva, az értéküket és elszántságukat, "
+"amikor a szükség úgy hozza, hogy a csatasorba kerülve feláldozzák életüket."
 
 #. [unit_type]: id=Orcish Rider, race=orc
 #: Archaic_Era/units/orcs/Oxrider.cfg:5
 msgid "Orcish Rider"
-msgstr ""
+msgstr "Ork lovas"
 
 #. [unit_type]: id=Orcish Rider, race=orc
 #: Archaic_Era/units/orcs/Oxrider.cfg:19
@@ -1099,11 +1235,15 @@ msgid ""
 "cavalry, and note that certain large animals have no trouble keeping their "
 "footing on snow."
 msgstr ""
+"Habár az orkok az ostobaságukról ismertek, néhány fogást mégis "
+"elsajátítottak ellenségeiktől. A legjobbak ellesték az emberi lovaglás "
+"tudományát, s megfigyelték, hogy egyes állatoknak nem okoz gondot a havon "
+"járás sem."
 
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:5
 msgid "Orcish Raider"
-msgstr ""
+msgstr "Ork prédáló"
 
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:20
@@ -1113,16 +1253,21 @@ msgid ""
 "to them by the shamans, designed to ward off the poisons and chills often "
 "employed by certain of the enemy."
 msgstr ""
+"A portyázók ijesztő bronzmaszkokat hordanak, hogy  még félelmetesebb külsőt "
+"kölcsönözzenek  maguknak az ijedős emberek elrettentésére. Ezenkívül "
+"nagyszámú kütyüt is magukra aggatnak, amiket sámánjaiktól kapnak, hogy "
+"megvédjék magukat a mérgektől és fagyástól, amelyet bizonyos ellenségeik "
+"szívesen alkalmaznak. "
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Raider.cfg:38
 msgid "whip"
-msgstr ""
+msgstr "korbács"
 
 #. [unit_type]: id=Orcish Serf, race=orc
 #: Archaic_Era/units/orcs/Serf.cfg:5
 msgid "Orcish Serf"
-msgstr ""
+msgstr "Ork jobbágy"
 
 #. [unit_type]: id=Orcish Serf, race=orc
 #: Archaic_Era/units/orcs/Serf.cfg:20
@@ -1135,11 +1280,17 @@ msgid ""
 "type is seen more frequently in regions more firmly under orcish control, "
 "such as the Northlands."
 msgstr ""
+"A jobbágyok kevésbé masszív felépítésűek, mint a közkatonák, de még így is "
+"félelmetes harcosok. Habár a munka java részét a koboldok végzik, de a "
+"szigorúan kötött határidejű, valamint a veszélyes helyzetben végzett "
+"munkákat, mint a rekvirálások, vagy a frontvonalon történő erődépítés, ezek "
+"a nagyobb erejű orkok végzik. Ennek megfelelően, gyakrabban fordulnak elő az "
+"orkok által megszállt területeken, mint északföldi hazájukban."
 
 #. [unit_type]: id=Stork Master, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Master.cfg:4
 msgid "Stork Master"
-msgstr ""
+msgstr "Gólyalovas"
 
 #. [unit_type]: id=Stork Master, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Master.cfg:37
@@ -1147,11 +1298,13 @@ msgid ""
 "As time goes by, the bird and goblin come to understand each other, so that "
 "their movement and response is better coordinated."
 msgstr ""
+"Ahogy az idő telt, a madár és a kobold egyre jobban megértették egymást, s "
+"mozgásuk és reakcióik is összecsiszolódtak."
 
 #. [unit_type]: id=Stork Rider, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:4
 msgid "Marabou Stork"
-msgstr ""
+msgstr "Marabulovas"
 
 #. [unit_type]: id=Stork Rider, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:36
@@ -1166,11 +1319,19 @@ msgid ""
 "and oily feathers allow the bird and rider to traverse water terrain with "
 "great ease."
 msgstr ""
+"A marabu gólyák kopasznyakú dögevők. A vastag tollazattal bíró madarak "
+"északon élnek és az ork törzseket követik, s gyakran lakomáznak a hullákból "
+"és testekből, amelyek az orkok útját szegélyezik. A farkaslovasokkal szemben "
+"néhány kobold megpróbált megszökni a sorsa elől, s inkább ezen madarak "
+"hátáról az eget uralni. Természetesen ezek a madarak nem szívesen hordanak "
+"más lényt a hátukon, de idővel rájöttek, hogy több élelemhez jutnak, ha "
+"elviselik a terhet. A hosszú gázlólábak és az olajos tollak megkönnyítik a "
+"vizes terepen való haladást. "
 
 #. [unit_type]: id=Orcish Terror, race=orc
 #: Archaic_Era/units/orcs/Terror.cfg:5
 msgid "Orcish Terror"
-msgstr ""
+msgstr "Iszonytató ork"
 
 #. [unit_type]: id=Orcish Terror, race=orc
 #: Archaic_Era/units/orcs/Terror.cfg:21
@@ -1182,47 +1343,53 @@ msgid ""
 "for not using a blade like a real orc, he modifies his weapon, and wishes he "
 "thought to do this sooner."
 msgstr ""
+"Az iszonytatók harci maszkjukat és sisakjukat szarvakkal egészítették ki, "
+"hogy megfélemlítsék az embereket. Az iszonytatók emellett elég időt "
+"töltöttek a városokban és a településeken ahhoz, hogy a környezetet is a "
+"saját előnyükre használják ki. A többi harcos piszkálódásait megunva - "
+"méltatlanok a rendes ork névre, mert nem használnak pengéket - átalakították "
+"fegyvereiket, s arra gondoltak, bár hamarabb tették volna ezt.  "
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Terror.cfg:38
 msgid "cat-of-nine-tails"
-msgstr ""
+msgstr "kilencfarkú macska"
 
 #. [unit_type]: id=Spirit Dove, race=phantom_spirit
 #: Archaic_Era/units/phantom/Spirit_Dove.cfg:4
 msgid "Sprit Dove"
-msgstr ""
+msgstr "Galamblélek"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Spirit_Dove.cfg:81
 #: Archaic_Era/units/phantom/Spirit_Jay.cfg:82
 msgid "talon"
-msgstr ""
+msgstr "harcikarom"
 
 #. [unit_type]: id=Spirit Jay, race=phantom_spirit
 #: Archaic_Era/units/phantom/Spirit_Jay.cfg:4
 msgid "Sprit Jay"
-msgstr ""
+msgstr "Szajkólélek"
 
 #. [unit_type]: id=Tomb Archer, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Archer.cfg:4
 msgid "Archer"
-msgstr ""
+msgstr "Íjász"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/phantom/Tomb_Archer.cfg:82
 msgid "bow"
-msgstr ""
+msgstr "íj"
 
 #. [unit_type]: id=Tomb Dancer, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Feather.cfg:4
 msgid "Feather Dancer"
-msgstr ""
+msgstr "Kriptatáncos"
 
 #. [unit_type]: id=Tomb Guard, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Guardian.cfg:4
 msgid "Tomb Guard"
-msgstr ""
+msgstr "Kriptaőr"
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
@@ -1230,84 +1397,84 @@ msgstr ""
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:94
 #: Archaic_Era/units/phantom/Tomb_Sentinel.cfg:84
 msgid "glance"
-msgstr ""
+msgstr "villantás"
 
 #. [unit_type]: id=Tomb HighArcher, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:4
 msgid "High Archer"
-msgstr ""
+msgstr "Mesteríjász"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:92
 msgid "blessed missile"
-msgstr ""
+msgstr "szent nyíl"
 
 #. [unit_type]: id=Tomb Huntress, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Huntress.cfg:4
 msgid "Huntress"
-msgstr ""
+msgstr "Vadásznő"
 
 #. [unit_type]: id=Tomb Master, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:4
 msgid "Wing Master"
-msgstr ""
+msgstr "Szárnyvezető"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:78
 #: Archaic_Era/units/phantom/Tomb_Wing.cfg:77
 msgid "kopis"
-msgstr ""
+msgstr "hasaskard"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:90
 msgid "claw"
-msgstr ""
+msgstr "Karom"
 
 #. [unit_type]: id=Mummy King, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:4
 msgid "Mummy Noble"
-msgstr ""
+msgstr "Nemes múmia"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:75
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:76
 msgid "sceptre"
-msgstr ""
+msgstr "jogar"
 
 #. [unit_type]: id=Mummy Pharo, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:4
 msgid "Mummy Pharo"
-msgstr ""
+msgstr "Fáraómúmia"
 
 #. [unit_type]: id=Mummy Unbound, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Unbound.cfg:4
 msgid "Mummy Unbound"
-msgstr ""
+msgstr "Vándormúmia"
 
 #. [unit_type]: id=Tomb Mummy, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy.cfg:4
 msgid "Mummy"
-msgstr ""
+msgstr "Múmia"
 
 #. [unit_type]: id=Tomb Protector, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:4
 msgid "Tomb Protector"
-msgstr ""
+msgstr "Kriptavédelmező"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:85
 msgid "khopesh"
-msgstr ""
+msgstr "sarlókard"
 
 #. [unit_type]: id=Tomb Sentinel, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Sentinel.cfg:4
 msgid "Tomb Sentinel"
-msgstr ""
+msgstr "Kriptaőrző"
 
 #. [unit_type]: id=Tomb Shade, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Shade.cfg:131
 msgid "Vapor"
-msgstr ""
+msgstr "Árnyfoszlány"
 
 #. [unit_type]: id=Tomb Shade, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Shade.cfg:139
@@ -1320,46 +1487,52 @@ msgid ""
 "engage the enemy for two turns.  It will not automatically die if it is hit "
 "by a defender's retaliation."
 msgstr ""
+"Az árnyfoszlány egy igazi harcosra hasonlít, de a csalás azonnal kiderül, "
+"mihelyst az ellenfél támad, és az árnyfoszlány szétoszlik. Az árnyfoszlány "
+"akkor is elveszti célját és alakját, ha nem ütközik meg az ellenséggel.\n"
+"Megjegyzés: Az egység meghal, ha egy támadó megüti, függetlenül a sebzés "
+"nagyságától. Akkor is meghal, ha két körön keresztül nem bocsátkozik harcba. "
+"Ugyanakkor nem hal meg azonnal, ha egy megtámadott egység visszaüt."
 
 #. [unit_type]: id=Tomb Stalker, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Stalker.cfg:4
 msgid "Stalker"
-msgstr ""
+msgstr "Cserkelő"
 
 #. [unit_type]: id=Tomb Wing, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Wing.cfg:4
 msgid "Wing Dancer"
-msgstr ""
+msgstr "Csoporttáncos"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:6
 msgid "race^Phantom"
-msgstr ""
+msgstr "Fantom"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:7
 msgid "race+female^Phantom"
-msgstr ""
+msgstr "Fantom"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:8
 msgid "race^Phantoms"
-msgstr ""
+msgstr "Fantomok"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:17
 msgid "race^Ancient Phantom"
-msgstr ""
+msgstr "Antik fantom"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:18
 msgid "race+female^Ancient Phantom"
-msgstr ""
+msgstr "Antik fantom"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:19
 msgid "race^Ancient Phantoms"
-msgstr ""
+msgstr "Antik fantomok"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:25
@@ -1370,6 +1543,11 @@ msgid ""
 "Heru, Horemheb, Idogbe, Ishaq, Jabari, Jumoke, Kek, Khalfani, Khnurun, "
 "Lateef, Makalani, Manu, Matsimela, Menkaura"
 msgstr ""
+"Abasi, Abayomi, Adio, Adofo, Akhenaten, Akiiki, Amenhotep, Azibo, Baba, "
+"Badru, Bakari, Bomani, Chatuluka, Cheops, Chigaru, Dakarai, Darius, "
+"Darwishi, Donkor, Edfu, Fadil, Gahigi, Garai, Hamadi, Hanif, Hapu, Hasani, "
+"Heru, Horemheb, Idogbe, Ishaq, Jabari, Jumoke, Kek, Khalfani, Khnurun, "
+"Lateef, Makalani, Manu, Matsimela, Menkaura"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:26
@@ -1380,37 +1558,43 @@ msgid ""
 "Lapis, Layla, Lotus, Mafuane, Maibe, Mandisa, Meht Urt, Mert Ekert, "
 "Meskhenet, Nathifa, Nefertiti"
 msgstr ""
+"Acenath, Ain, Akila, Anippe, Aziza, Bahiti, Bastet, Bennu, Chione, Dalila, "
+"Dendera, Eboni, Eshe, Fukayana, Habibah, Halima, Haqika, Hasina, Hathor, "
+"Hatsheput, Heqet, Ife, Jamila, Jendaya, Kakra, Kanika, Kesi, Khepri, Kissa, "
+"Lapis, Layla, Lotus, Mafuane, Maibe, Mandisa, Meht Urt, Mert Ekert, "
+"Meskhenet, Nathifa, Nefertiti"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:31
 msgid "race^Ancient Spirit"
-msgstr ""
+msgstr "Antik szellem"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:32
 msgid "race+female^Ancient Spirit"
-msgstr ""
+msgstr "Antik szellem"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:33
 msgid "race^Ancient Spirits"
-msgstr ""
+msgstr "Antik szellemek"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:39
 msgid ""
 "Aha, Bhe, Coh, Dhan, Eth, Fye, Gra, Het, Ish, Khur, Leth, Mahg, Nyth, Oro, Re"
 msgstr ""
+"Aha, Bhe, Coh, Dhan, Eth, Fye, Gra, Het, Ish, Khur, Leth, Mahg, Nyth, Oro, Re"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:40
 msgid "Ara, Ba, Cam, Dra, Era, Fea, Goa, Hae, Ira"
-msgstr ""
+msgstr "Ara, Ba, Cam, Dra, Era, Fea, Goa, Hae, Ira"
 
 #. [unit_type]: id=Primeval Aerowheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:5
 msgid "Aerowheel"
-msgstr ""
+msgstr "Szélkorongos"
 
 #. [unit_type]: id=Primeval Aerowheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:41
@@ -1421,6 +1605,11 @@ msgid ""
 "mixed fighters.\n"
 "Special Note:"
 msgstr ""
+"A dobókorongok használatának mesterei, az antik acélkorongosok előtt két út "
+"van a továbbfejlődésre, vagy a korongjuk további tökéletesítésére "
+"koncentrálnak, vagy újabb készségeket elsajátítva törnek a magasabb rang "
+"felé. Az antik szélkorongosok az utóbbi utat választották.\n"
+"Megjegyzés:"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:54
@@ -1428,12 +1617,12 @@ msgstr ""
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:46
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:37
 msgid "chakram"
-msgstr ""
+msgstr "csakram"
 
 #. [unit_type]: id=Primeval Cutter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Cutter.cfg:5
 msgid "Cutter"
-msgstr ""
+msgstr "Koronghajító"
 
 #. [unit_type]: id=Primeval Cutter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Cutter.cfg:21
@@ -1442,11 +1631,14 @@ msgid ""
 "metal discs. Cutters are able to provide a counter to enemy archers.\n"
 "Special Note:"
 msgstr ""
+"Az antik koronghajítók nem különösebben erősek, fém hajítókorongokkal "
+"harcolnak. Az ellenséges íjászok ellen vethetők be.\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Dogface, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Dogface.cfg:5
 msgid "Dogface"
-msgstr ""
+msgstr "Kutyafejű"
 
 #. [unit_type]: id=Primeval Dogface, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Dogface.cfg:20
@@ -1456,11 +1648,15 @@ msgid ""
 "eyes, the visor appears to assist the fighter in targeting the enemy.\n"
 "Special Note:"
 msgstr ""
+"Mint gyakorlott csakramhasználók, az antik harcosok különböző maszkokat is "
+"használnak. Bár ez olyan hatást kelt, mintha valami fémdrótot húznának át a "
+"szemükön, a maszk valamiképp segíti a célpont jobb betájolását.\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:5
 msgid "Driver"
-msgstr ""
+msgstr "Szárnyaló"
 
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:20
@@ -1471,18 +1667,22 @@ msgid ""
 "of the Destroyers.\n"
 "Special Note:"
 msgstr ""
+"Az antik szárnyalók alig kisebbek egy trollnál. Szorgalmuk és erejük révén "
+"kiemelkedtek a kutyagolók közül. További kitartó erőfeszítéssel és némi "
+"szerencsével elhagyhatják kasztjukat, és pusztítóvá léphetnek elő.\n"
+"Megjegyzés:"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:43
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:33
 msgid "chain"
-msgstr ""
+msgstr "lánc"
 
 #. [berserk]: id=aggression
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:50
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:41
 msgid "aggression"
-msgstr ""
+msgstr "agresszió"
 
 #. [berserk]: id=aggression
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:51
@@ -1491,11 +1691,13 @@ msgid ""
 "Aggression:\n"
 "This attack presses the engagement twice as long as usual."
 msgstr ""
+"Agresszió:\n"
+"Ez a támadás a szokásos kétszereséig tart."
 
 #. [unit_type]: id=Primeval Firewheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:5
 msgid "Firewheel"
-msgstr ""
+msgstr "Tűzkorongos"
 
 #. [unit_type]: id=Primeval Firewheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:41
@@ -1503,16 +1705,18 @@ msgid ""
 "Primeval Firewheels...\n"
 "Special Note:"
 msgstr ""
+"Az antik tűzkorongosok...\n"
+"Megjegyzés:"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:55
 msgid "firewheel"
-msgstr ""
+msgstr "tűzkorong"
 
 #. [unit_type]: id=Primeval Slow, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Foot.cfg:5
 msgid "Slow Foot"
-msgstr ""
+msgstr "Kutyagoló"
 
 #. [unit_type]: id=Primeval Slow, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Foot.cfg:20
@@ -1520,11 +1724,13 @@ msgid ""
 "A Slowfoot ...\n"
 "Special Note:"
 msgstr ""
+"A kutyagolók...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Giant, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:5
 msgid "Destroyer"
-msgstr ""
+msgstr "Pusztító"
 
 #. [unit_type]: id=Primeval Giant, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:21
@@ -1532,11 +1738,13 @@ msgid ""
 "The Primeval Destroyers ...\n"
 "Special Note:"
 msgstr ""
+"Az antik pusztítók...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Gyrepacter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Gyrepacter.cfg:5
 msgid "Gyre Striker"
-msgstr ""
+msgstr "Csépelő"
 
 #. [unit_type]: id=Primeval Gyrepacter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Gyrepacter.cfg:69
@@ -1544,11 +1752,13 @@ msgid ""
 "Primeval Gyre Strikers...\n"
 "Special Note:"
 msgstr ""
+"Az antik csépelők...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Hektor, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:5
 msgid "Hektor"
-msgstr ""
+msgstr "Hektor"
 
 #. [unit_type]: id=Primeval Hektor, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:19
@@ -1563,16 +1773,25 @@ msgid ""
 "that they can play a valuable role.\n"
 "Special Note:"
 msgstr ""
+"Nem minden antik férfi felel meg az ideális kemény harcos típusnak. Ezek "
+"legtöbbje elesik a csatákban, ahogy a legtöbb antik katona, de aki mégis "
+"képes túlélni a kezdeti megpróbáltatásokat, csatlakozhat a hektorok "
+"segédcsapataihoz. Az antik hektorok az erő terén mutatkozó hiányosságaikat "
+"fürgeséggel, s koncentrálással kompenzálják. Dárdát vettek magukhoz; amelyet "
+"az antikok lenéznek, s a gyengeséggel és szélhámossággal azonosítanak; hogy "
+"ezzel szálljanak szembe az előítéletekkel. Habár ezért gúny tárgyaivá "
+"lesznek, a vezetők és stratégák kitűnő eredményeket érnek el velük.\n"
+"Megjegyzés:"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:41
 msgid "bolas"
-msgstr ""
+msgstr "bola"
 
 #. [unit_type]: id=Primeval Ironwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:5
 msgid "Ironwheel"
-msgstr ""
+msgstr "Acélkorongos"
 
 #. [unit_type]: id=Primeval Ironwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:21
@@ -1582,11 +1801,15 @@ msgid ""
 "has something to do with this.\n"
 "Special Note:"
 msgstr ""
+"Az antikok technikáját misztikus homály fedi. Az acélkorongosok szokatlanul "
+"pontosan használják korongjaikat, s sokan gyanítják, hogy ebben a fejfedőjük "
+"is szerepet játszik.\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Protector, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:5
 msgid "Protector"
-msgstr ""
+msgstr "Védelmező"
 
 #. [unit_type]: id=Primeval Protector, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:22
@@ -1594,17 +1817,19 @@ msgid ""
 "The Primeval Protectors...\n"
 "Special Note:"
 msgstr ""
+"Az antik védelmezők...\n"
+"Megjegyzés:"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:47
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:45
 msgid "glaive"
-msgstr ""
+msgstr "gladius"
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:6
 msgid "Escort"
-msgstr ""
+msgstr "Kísérő"
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:22
@@ -1612,11 +1837,13 @@ msgid ""
 "The Primeval Escorts ...\n"
 "Special Note:"
 msgstr ""
+"Az antik kísérők...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Striker, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Striker.cfg:5
 msgid "Striker"
-msgstr ""
+msgstr "Lesújtó"
 
 #. [unit_type]: id=Primeval Striker, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Striker.cfg:21
@@ -1624,6 +1851,8 @@ msgid ""
 "The Primeval Strikers ...\n"
 "Special Note:"
 msgstr ""
+"Az antik lesújtók...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Sunwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Sunwheel.cfg:5
@@ -1647,7 +1876,7 @@ msgstr ""
 #. [unit_type]: id=Primeval Swiftfoot, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Swift.cfg:5
 msgid "Swiftfoot"
-msgstr ""
+msgstr "Szellőlábú"
 
 #. [unit_type]: id=Primeval Swiftfoot, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Swift.cfg:21
@@ -1656,6 +1885,9 @@ msgid ""
 "serving as scouts.\n"
 "Special Note:"
 msgstr ""
+"Az antik szellőlábúak az antik sereg alapegységei közé tartoznak, leginkább "
+"felderítő szerepet töltenek be.\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primeval Titan, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Titan.cfg:5
@@ -1673,7 +1905,7 @@ msgstr ""
 #. [unit_type]: id=Primeval Warrior, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Harcos"
 
 #. [unit_type]: id=Primeval Warrior, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Warrior.cfg:21
@@ -1681,11 +1913,13 @@ msgid ""
 "The Primeval Warriors ...\n"
 "Special Note:"
 msgstr ""
+"Az antik harcosok...\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Primevalist Celebrant, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:5
 msgid "Primevalist Celebrant"
-msgstr ""
+msgstr "Óhitű szertartásmester"
 
 #. [unit_type]: id=Primevalist Celebrant, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:20
@@ -1696,16 +1930,20 @@ msgid ""
 "their attention to supporting their more confident brothers and have pursued "
 "basic healing knowledge."
 msgstr ""
+"Habár hitüket az antik lényekben nem bizonygatják lépten-nyomon, annál "
+"kifejezőbb a másoknak szenvedést okozó képességük (egyesek szerint az "
+"óhitűek legbölcsebbjei). Saját hitük erősítése helyett hívő társaikat "
+"segítik, és alapvető gyógyító tevékenységet folytatnak. "
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:44
 msgid "condemnation"
-msgstr ""
+msgstr "kiátkozás"
 
 #. [unit_type]: id=Primevalist Fanatic, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:5
 msgid "Primevalist Fanatic"
-msgstr ""
+msgstr "Óhitű fanatikus"
 
 #. [unit_type]: id=Primevalist Fanatic, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:21
@@ -1714,17 +1952,20 @@ msgid ""
 "figher is formed. They know enough to be dangerous, but not enough to be "
 "reasoned with."
 msgstr ""
+"Amikor a vakhit harci tapasztalattal párosul, egy értékes harcos születik. "
+"Épp eleget tudnak ahhoz, hogy veszélyesek legyenek, de annyit nem, hogy "
+"komolyan számoljanak velük."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:41
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:38
 msgid "darts"
-msgstr ""
+msgstr "kézidárdák"
 
 #. [unit_type]: id=Primevalist Fighter, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:5
 msgid "Primevalist Fighter"
-msgstr ""
+msgstr "Óhitű harcos"
 
 #. [unit_type]: id=Primevalist Fighter, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:21
@@ -1735,11 +1976,16 @@ msgid ""
 "each fighter and follower is given a tattoo that is supposed to ward off "
 "evil spirits."
 msgstr ""
+"Az óhitűek leginkább fiatal férfiak. A Sötét Megváltó épp azt mondta nekik, "
+"amit vártak, s amiért fegyvert ragadtak, és megtámadták embertársaikat abban "
+"az illúzióban, hogy ezzel az antikok kedvére tesznek. A mozgalomhoz való "
+"csatlakozás után minden harcost és követőt tetoválnak, amely a rossz "
+"szellemektől óvja őket."
 
 #. [unit_type]: id=Primevalist Follower, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Follower.cfg:5
 msgid "Primevalist Follower"
-msgstr ""
+msgstr "Óhitű követő"
 
 #. [unit_type]: id=Primevalist Follower, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Follower.cfg:21
@@ -1750,6 +1996,11 @@ msgid ""
 "please the Primevals. Upon joining the movement, each fighter and follower "
 "is given a tattoo that is supposed to ward off evil spirits."
 msgstr ""
+"A Sötét Megváltó által megtérített hívők közül sokan inkább okosak, mint "
+"erősek. Ezek a követők egy kis mágikus tréning után tudásukat felhasználják "
+"embertársaik ellen abban a tévhitben, hogy ezzel az antikok kedvére tesznek. "
+"A mozgalomhoz való csatlakozásuk után minden harcost és követőt tetoválnak, "
+"amivel a rossz szellemektől védik őket."
 
 #. [attack]: type=cold
 #: Archaic_Era/units/primeval/Primevalist_Follower.cfg:40
@@ -1757,12 +2008,12 @@ msgstr ""
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:48
 #: Archaic_Era/units/south-seas/Caster.cfg:38
 msgid "chill"
-msgstr ""
+msgstr "fagyhullám"
 
 #. [unit_type]: id=Primevalist Leader, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:5
 msgid "Primevalist Leader"
-msgstr ""
+msgstr "Óhitű vezér"
 
 #. [unit_type]: id=Primevalist Leader, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:22
@@ -1774,16 +2025,22 @@ msgid ""
 "the ability of a focused mind, no one can say - but the Leaders can cause a "
 "piercing pain in the enemy with the wave of a hand..."
 msgstr ""
+"Míg az antikok többsége semmivel több tiszteletet nem mutat ezen harcosok "
+"iránt, mint a közönséges emberek iránt, addig a fanatikusok szent áhítattal "
+"csodálják elhivatottságukat közös hitük terjesztésére. A csodálat tárgya egy "
+"különleges képességük: Akár az antik istenektől nyerték, akár rendkívüli "
+"koncentrációval érik el, senki nem tudja - de e vezetők éles fájdalmat "
+"képesek okozni csupán csak a kezük mozgatásával..."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:45
 msgid "soul-pierce"
-msgstr ""
+msgstr "lélekharang"
 
 #. [unit_type]: id=Primevalist Monk, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:5
 msgid "Primevalist Monk"
-msgstr ""
+msgstr "Óhitű szerzetes"
 
 #. [unit_type]: id=Primevalist Monk, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:22
@@ -1793,11 +2050,15 @@ msgid ""
 "Primevals don't appear interested in explaining anything, but this makes the "
 "Monks work harder than ever to be deemed worthy."
 msgstr ""
+"A követők folyamatosan tanulmányozzák a mágiát és a kőbe vésett "
+"hieroglifákat, amiket az antikok hagytak hátra. A jelek jelentése elég "
+"homályos, s az antikok sem tartják szükségesnek a magyarázatukat, így a "
+"szerzetesek munkája sokkal nehezebb, mint azt elsőre gondolnánk."
 
 #. [unit_type]: id=Primevalist Prior, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:5
 msgid "Primevalist Prior"
-msgstr ""
+msgstr "Óhitű rendfőnök"
 
 #. [unit_type]: id=Primevalist Prior, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:20
@@ -1805,16 +2066,18 @@ msgid ""
 "The hardiest and most clever of the glyph readers extract the most "
 "knowledge, and gain great attack power to bring glory to their sect."
 msgstr ""
+"A hieroglifák jelentésének kibogozásában élenjárók komoly tudásra tesznek "
+"szert, és erős támadómágiához jutnak, amivel a szekta dicsőségét növelik."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:39
 msgid "staff base"
-msgstr ""
+msgstr "pásztorbot"
 
 #. [unit_type]: id=Primevalist Shield, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Shield.cfg:5
 msgid "Primeval Brightshield"
-msgstr ""
+msgstr "Óhitű fénylőpajzsos"
 
 #. [unit_type]: id=Primevalist Shield, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Shield.cfg:107
@@ -1824,6 +2087,10 @@ msgid ""
 "goals. Their armour disipates heat and cold and energy blasts, so they have "
 "higher than average resistance to fire, cold, and arcane damage."
 msgstr ""
+"Ezek a harcosok kiegészítő szerepet játszanak. Egykedvű nyugalommal "
+"szenvedik el a csapásokat, mialatt hevesebb vérmérsékletű társaik megvívják "
+"a maguk harcát. Páncélzatuk ellenáll a hidegnek, a melegnek és a földöntúli "
+"mágiának, így mindenféle mágia ellen az átlagosnál jobban védettek.  "
 
 #. [race]: id=primevalist_human
 #: Archaic_Era/units/primeval_race.cfg:8
@@ -1831,21 +2098,23 @@ msgid ""
 "The race of men is an extremely diverse one. Some of them fall prey to the "
 "promises of false hope and false saviours."
 msgstr ""
+"Az emberi faj rendkívül sokféle. Közülük sokan esnek áldozatul mindenféle "
+"hamis tanoknak és álprófétáknak."
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:17
 msgid "race^Primeval"
-msgstr ""
+msgstr "Antik"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:18
 msgid "race+female^Primeval"
-msgstr ""
+msgstr "Antik"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:19
 msgid "race^Primevals"
-msgstr ""
+msgstr "Antikok"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:21
@@ -1902,6 +2171,55 @@ msgid ""
 "requiring endurance fall to the females, but either sex can become a leader "
 "and both sexes are expected to engage in combat."
 msgstr ""
+"Az antik erők a régmúlt idők lényeiből állnak. Sok közös jellemvonásuk van a "
+"modern fajokkal, azoknak talán az őseik lehettek.\n"
+"<header>text='Történet'</header>\n"
+"Az antikok fénykorában egy irtózatos háború robbant ki egy félelmetes "
+"ellenséggel. Bár végül legyőzték az ellenséget, a világ a harc által okozott "
+"súlyos pusztítást nehezen heverte ki, az antik vezérek úgy döntöttek, hogy "
+"visszavonulnak tetszhalott állapotba.\n"
+"\n"
+"Évekkel később az antikok visszatértek, és szembetalálták magukat a modern "
+"fajokkal. Túltették magukat a különbözőségeken, de mintegy ötven évvel a "
+"visszatérés után különös betegség ütötte fel a fejét.\n"
+"\n"
+"A különös betegség az elmét támadta meg, s az élőlények kezdtek megváltozn - "
+"valami új forma alakult ki, ami khthonnak nevezte magát. Minden faj "
+"átalakult, kivéve az antikokat, akik immunisak voltak a kór ellen. Az "
+"elkerülhetetlenül bekövetkező háború a khthonok ellen egyúttal "
+"bizalmatlanságot és gyűlöletet ültetett az antikok elméjébe a többi faj "
+"ellen, hiszen nem tudhatták hogy azok már megfertőződtek-e.\n"
+"\n"
+"A háború lezárását megörökítő feljegyzések elvesztek, de a végeredményt "
+"ismerjük, az új fajok győzedelmeskedtek. Az antikok többsége ezt előre látta "
+"és visszavonultak korábbi tetszhalott állapotukba.\n"
+"\n"
+" <header>text='Technika'</header>\n"
+" Az antikok sosem használták a mágiát olyan kiterjedten, mint a modern "
+"fajok, bár erőforrásként maguk is alkalmazták. Megkönnyítették a bányászatot "
+"és fémfeldolgozást, a termelést, a vegyészetet, kimeríthetetlen forrása volt "
+"ez a létnek. A modern fajok robbanásszerűen szaporodtak, ezzel szemben az "
+"antikok szigorú szabályokat követtek, aminek következtében biológiai és gépi "
+"mechanizmusok születtek, amelyek mind ugyanazon forrásból, a mágikus "
+"energiából táplálkoztak, ugyanakkor a technikai eszközök, művek fejlesztése "
+"háttérbe szorult (útépítéssel, fegyverek, repülőgépek, használati cikkek "
+"tervezésével nem is törődtek).\n"
+"\n"
+"<header>text='Társadalom'</header>\n"
+" Az antik társadalom nagyon merev, bár alapvetően a képességeken alapul. A "
+"vezetők már-már isteni erővel és vitézséggel bírnak, s kemény kézzel és "
+"kőszívűen uralkodnak alárendeltjeiken. Egy másik antik elárulása a "
+"legdicstelenebb dolog, amit egy antik elkövethet, így bár félelemmel "
+"tekintenek vezetőikre, tudják, hogy azok kiérdemelték a vezetést, s hogy "
+"sosem hagynák őket cserben, vagy nem űznének velük gonosz játékot. Ennek "
+"eredményeképpen egy fegyelmezett és hatékony sereg alakult ki, bár a "
+"társadalomból hiányzik a kreativitás, és csak szűk látókörű célokat "
+"valósítanak meg.\n"
+"\n"
+"A szigorúan érdem-alapú szemlélet és a források bősége megszüntette a nemek "
+"közti munkamegosztást, ami korábban létezett. Bár a férfias szerepek inkább "
+"erőt, míg a nőies szerepek inkább kitartást követelnek, mindkét nembeliből "
+"válhat vezér, s egyformán elvárás mindenki felé a helytállás a csatákban."
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:39
@@ -1912,6 +2230,11 @@ msgid ""
 "Netheras,Orion,Oros,Ossas,Pallas,Paris,Ramolus,Rustarus,Sarpedon,Sordas,"
 "Sundaras,Tartarus,Teolas,Torus,Typhon,Xerus"
 msgstr ""
+"Accos,Acton,Actras,Aephus,Andradas,Arus,Ballus,Bellon,Callas,Cathas,Cendras,"
+"Chaos,Chronos,Cyras,Dandras,Demosthenes,Dundarus,Edras,Essras,Fathas,Gallas,"
+"Hadrion,Hektor,Herdreidon,Hestus,Indus,Kahas,Korus,Lathas,Lostrus,Malthras,"
+"Netheras,Orion,Oros,Ossas,Pallas,Paris,Ramolus,Rustarus,Sarpedon,Sordas,"
+"Sundaras,Tartarus,Teolas,Torus,Typhon,Xerus"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:40
@@ -1922,11 +2245,16 @@ msgid ""
 "Phaetusa,Prakate,Reasis,Sarasis,Sere,Skylla,Styx,Taranisis,Tramache,"
 "Tisiphone,Tyche,Xanthis"
 msgstr ""
+"Amache,Ananke,Anaxarete,Agrotora,Anthis,Carthis,Cassandra,Circe,Cyrene,"
+"Damaris,Dione,Draede,Duneris,Dyrope,Elektra,Gorgate,Hekate,Hekubis,Karybdis,"
+"Katyride,Katyris,Lamia,Lamis,Lillith,Maenade,Medusis,Nemesa,Nike,Nyx,Orisis,"
+"Phaetusa,Prakate,Reasis,Sarasis,Sere,Skylla,Styx,Taranisis,Tramache,"
+"Tisiphone,Tyche,Xanthis"
 
 #. [unit_type]: id=SouthSeas AbleSeaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:5
 msgid "Able-Seaman"
-msgstr ""
+msgstr "Tengerjáró"
 
 #. [unit_type]: id=SouthSeas AbleSeaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:21
@@ -1936,11 +2264,15 @@ msgid ""
 "have melted some of the lead normally used for ballast and affixed it to the "
 "end of a staff to create something similar to a hammer."
 msgstr ""
+"Habár nem kapitányok, e féltengerészek magasabb rangban állnak, mint a "
+"közönséges hajósok, s nagyobb a jövedelmük is. Ezekben a vészterhes időkben  "
+"beszereztek némi, rendszerint nehezéknek használt, ólmot, s ezt tették a "
+"botjuk végére, valami hasonló eszközt kreálva, mint egy kalapács."
 
 #. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Arsonist.cfg:5
 msgid "Arsonist"
-msgstr ""
+msgstr "Gyújtogató"
 
 #. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Arsonist.cfg:21
@@ -1950,16 +2282,20 @@ msgid ""
 "Arsonists are employed for this purpose.  They operate at night, to avoid "
 "shoreman and sailors."
 msgstr ""
+"A hajók a déli tengereken a mindennapi élet fontos kellékei, így ha valakit "
+"tönkre akarnak tenni, annak megrongálják a hajóját. E célból a gyújtogatókat "
+"bérelik fel, akik éjszaka működnek, hogy elkerüljék a hajósokat és a parti "
+"őrséget."
 
 #. [attack]: type=fire
 #: Archaic_Era/units/south-seas/Arsonist.cfg:45
 msgid "spark"
-msgstr ""
+msgstr "szikra"
 
 #. [unit_type]: id=SouthSeas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:5
 msgid "female^Lore-Caster"
-msgstr ""
+msgstr "Tudósnő"
 
 #. [unit_type]: id=SouthSeas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:21
@@ -1969,11 +2305,15 @@ msgid ""
 "carry Lore-Casters tend to survive longer at sea. Some attribute this to "
 "their knowledge of how to placate the gods."
 msgstr ""
+"A tudósnők régtől fogva tanulmányaiknak szentelik életüket. Bár látszólag "
+"nem sok gyakorlati hasznot hajtanak, mégis a déltengeri hajók fedélzetén, "
+"amelyek sokáig akarnak a nyílt vízen tartózkodni, rendre ott találjuk őket, "
+"mivel tudományuk része a haragvó istenek kiengesztelése is. "
 
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:5
 msgid "Deck-Master"
-msgstr ""
+msgstr "Fedélzetmester"
 
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:22
@@ -1983,54 +2323,57 @@ msgid ""
 "in line.  They have affixed steel grapples to the ends of the staves, and "
 "can use them to hook the opponent's weapon."
 msgstr ""
+"A fedélzetmesterek nem gazdagok, sosem volt saját hajójuk, még csónakjuk se, "
+"viszont megbízhatóan irányítják a legénységet. Acélhorgokat aggattak a "
+"rúdjuk végére, s ezzel szokták megakasztani az ellenség fegyvereit."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:44
 msgid "hook"
-msgstr ""
+msgstr "horog"
 
 #. [unit_type]: id=SouthSeas Demolitionist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:5
 msgid "Demolitionist"
-msgstr ""
+msgstr "Romboló"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:46
 #: Archaic_Era/units/south-seas/Spitfire.cfg:47
 msgid "flame"
-msgstr ""
+msgstr "lángfuvallat"
 
 #. [unit_type]: id=SouthSeas Diver, race=south-seas_human
 #: Archaic_Era/units/south-seas/Divers.cfg:5
 msgid "Diver"
-msgstr ""
+msgstr "Búvár"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Divers.cfg:60
 #: Archaic_Era/units/south-seas/Marines.cfg:62
 #: Archaic_Era/units/south-seas/Wrecker.cfg:55
 msgid "harpoon"
-msgstr ""
+msgstr "szigony"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Divers.cfg:149
 msgid "female^Diver"
-msgstr ""
+msgstr "Búvárnő"
 
 #. [unit_type]: id=SouthSeas Marine, race=south-seas_human
 #: Archaic_Era/units/south-seas/Marines.cfg:5
 msgid "Marine"
-msgstr ""
+msgstr "Tengeri harcos"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Marines.cfg:151
 msgid "female^Marine"
-msgstr ""
+msgstr "Tengeri amazon"
 
 #. [unit_type]: id=SouthSeas Rover, race=south-seas_human
 #: Archaic_Era/units/south-seas/Rover.cfg:5
 msgid "Sea Rover"
-msgstr ""
+msgstr "Tengeri rabló"
 
 #. [unit_type]: id=SouthSeas Rover, race=south-seas_human
 #: Archaic_Era/units/south-seas/Rover.cfg:21
@@ -2039,17 +2382,20 @@ msgid ""
 "exploitation. The roving pirates are not the strongest fighters, but they "
 "are verstile enough to give trouble to almost any foe."
 msgstr ""
+"Néhány déli városállam fosztogatásból és zsákmányszerző portyákból szerezte "
+"gazdagságát. A kalandozó rablók ugyan nem a legerősebb harcosok, de "
+"vakmerőségük komoly problémát okozhat minden ellenségnek."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Rover.cfg:38
 #: Archaic_Era/units/south-seas/Wolf.cfg:41
 msgid "dart"
-msgstr ""
+msgstr "kézidárda"
 
 #. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
 #: Archaic_Era/units/south-seas/Salvager.cfg:5
 msgid "Salvager"
-msgstr ""
+msgstr "Hajómentő"
 
 #. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
 #: Archaic_Era/units/south-seas/Salvager.cfg:21
@@ -2059,13 +2405,18 @@ msgid ""
 "apart old ships and sell what can be sold.  Long lances are useful in "
 "prodding floating wood, as well as poking hostile forces."
 msgstr ""
+"A hajómentők munkája kevéssé kapcsolódik a ki-be rakodáshoz, sokkal inkább "
+"koncentrálnak a jövedelmezőbb mentési munkálatokra. Darabokra szedik a régi "
+"hajókat, s eladják a használható részeket belőle. Hosszú botjaikkal ügyesen "
+"halásszák ki a lebegő fadarabokat, de ugyanezzel taszítják oldalba "
+"ellenségeiket is."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/south-seas/Salvager.cfg:41
 #: Archaic_Era/units/south-seas/Shoreman.cfg:37
 #: Archaic_Era/units/south-seas/Wrecker.cfg:43
 msgid "rope"
-msgstr ""
+msgstr "kötél"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Salvager.cfg:53
@@ -2075,23 +2426,24 @@ msgstr ""
 #. [unit_type]: id=SouthSeas SeaScourge, race=south-seas_human
 #: Archaic_Era/units/south-seas/Scourge.cfg:5
 msgid "female^Sea-Scourge"
-msgstr ""
+msgstr "Kalóznő"
 
 #. [attack]: type=cold
 #: Archaic_Era/units/south-seas/Scourge.cfg:42
 #: Archaic_Era/units/south-seas/Seahag.cfg:41
 msgid "fear"
-msgstr ""
+msgstr "iszony"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/south-seas/Scourge.cfg:55
+#, fuzzy
 msgid "arcanum"
-msgstr ""
+msgstr "étercsapás"
 
 #. [unit_type]: id=SouthSeas Seahag, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seahag.cfg:5
 msgid "female^Seahag"
-msgstr ""
+msgstr "Tengeri csoroszlya"
 
 #. [unit_type]: id=SouthSeas Seahag, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seahag.cfg:21
@@ -2100,11 +2452,14 @@ msgid ""
 "homage to the fearsome gods so that those gods will leave the Seafarers "
 "alone and destroy their enemies."
 msgstr ""
+"A tengeri csoroszlyák Athtep és Nura sötét tudományának művelői. Mély "
+"hódolattal adóznak e félelmetes isteneknek, amiért azok békén hagyják a "
+"tenger utasait, és ellenségeikre csapnak le."
 
 #. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seaman.cfg:5
 msgid "Seaman"
-msgstr ""
+msgstr "Tengerész"
 
 #. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seaman.cfg:22
@@ -2113,16 +2468,19 @@ msgid ""
 "they don't have any particular combat skills, the life of a sailor is rough, "
 "so they are tough enough to be useful."
 msgstr ""
+"A dél-tengeri tengerészek a tengerjáró népek legfontosabb munkásai. Habár "
+"semmilyen speciális harci képzettségük nincs, a tengeren töltött évek eléggé "
+"megeddzik őket, hogy a harcban is helyt álljanak."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/south-seas/Seaman.cfg:29
 msgid "oar"
-msgstr ""
+msgstr "evezőlapát"
 
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:5
 msgid "Shoreman"
-msgstr ""
+msgstr "Parti őr"
 
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:21
@@ -2133,27 +2491,32 @@ msgid ""
 "moving animals.  A spike is very helpful in making splices, as well as "
 "killing rats."
 msgstr ""
+"A parti őr felel a hajók rakodásáért, s a régi elöregedett hajók használható "
+"darabjainak kinyeréséért. Majdnem minden munkájuk a kötéllel kapcsolatos, "
+"így rendkívül hatékonyan bánnak ezzel az egyszerű eszközzel, s még a mozgó "
+"állatokat is képesek megállítani. A karó jó szolgálatot tesz a kötelek "
+"csomózásánál, de a patkányok ellen is."
 
 #. [unit_type]: id=SouthSeas SkyCaller, race=south-seas_human
 #: Archaic_Era/units/south-seas/Sky-Caller.cfg:5
 msgid "female^Sky-Caller"
-msgstr ""
+msgstr "Égbekiáltó"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/south-seas/Sky-Caller.cfg:44
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:42
 msgid "wind"
-msgstr ""
+msgstr "szél"
 
 #. [unit_type]: id=SouthSeas Spitfire, race=south-seas_human
 #: Archaic_Era/units/south-seas/Spitfire.cfg:5
 msgid "Spitfire"
-msgstr ""
+msgstr "Tűzköpő"
 
 #. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
 #: Archaic_Era/units/south-seas/Swimmers.cfg:5
 msgid "Swimmer"
-msgstr ""
+msgstr "Úszó"
 
 #. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
 #: Archaic_Era/units/south-seas/Swimmers.cfg:37
@@ -2162,21 +2525,24 @@ msgid ""
 "the villages, where they hunt fish for food, gather pearls for trade, and "
 "patrol the docked ships."
 msgstr ""
+"Az úszók néha a hajón dolgoznak, de leginkább a falvak mellett találhatók, "
+"ahol halászgatnak élelemszerzés, gyöngyöt gyűjtenek kereskedelem céljából, s "
+"őrzik a kikötött hajókat."
 
 #. [female]
 #: Archaic_Era/units/south-seas/Swimmers.cfg:86
 msgid "female^Swimmer"
-msgstr ""
+msgstr "Úszónő"
 
 #. [unit_type]: id=SouthSeas Seawolf, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wolf.cfg:5
 msgid "Sea Wolf"
-msgstr ""
+msgstr "Tengeri medve"
 
 #. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:5
 msgid "Wrecker"
-msgstr ""
+msgstr "Roncsrabló"
 
 #. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:22
@@ -2185,11 +2551,15 @@ msgid ""
 "operate alone, which maximizes both the profit and danger, so they carry "
 "harpoons to fight off sharks, thieves, and other Wreckers."
 msgstr ""
+"A roncsrablók a legképzettebb hajómentők közül kerülnek ki. Rendszerint "
+"egyedül dolgoznak, amivel a hasznot is többszörözik, de a veszélyeket is, "
+"így szigonyuk mindig velük van, hogy védekezzenek a cápák, a tolvajok, s a "
+"többi roncsrabló ellen."
 
 #. [unit_type]: id=SouthSeas Zephyrist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:5
 msgid "female^Wind-Caller"
-msgstr ""
+msgstr "Szélkiáltó"
 
 #. [unit_type]: id=SouthSeas Zephyrist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:21
@@ -2198,21 +2568,24 @@ msgid ""
 "favourable winds and a minimum of strife. They are successful at directing "
 "wind-lashes, but the effort requires strength."
 msgstr ""
+"A szélkiáltók az égi tudományok művelői. Általában jó szélért imádkoznak, s "
+"a viharok elkerüléséért. Komoly erőfeszítések árán képesek a szeleket is "
+"felkorbácsolni."
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:5
 msgid "race^South-Sea Human"
-msgstr ""
+msgstr "Déltengeri férfi"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:6
 msgid "race+female^South-Sea Human"
-msgstr ""
+msgstr "Déltengeri nő"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:7
 msgid "race^South-Sea Humans"
-msgstr ""
+msgstr "Déltengeri emberek"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:9
@@ -2246,6 +2619,34 @@ msgid ""
 "its original mission.  There is always a fear that the two parts could re-"
 "unite, but most modern South-Seafarers do not really believe these tales."
 msgstr ""
+"A déltengeri emberek közönséges emberek, de nincsenek kapcsolatban a "
+"wesnothiakkal.\n"
+"<header>text='Társadalom'</header>\n"
+"A déltengeriek tengerjáró népek, akik különböző városállamokban élnek a déli "
+"területeken. Bár apróbb eltérések vannak a kultúrájukban, általánosságban "
+"sokistenhívők, isteneik gyakran állnak egymással harcban. Ezek a harcok "
+"szolgálnak magyarázatul a rejtélyes, örömteli, kaotikus, nyomorúságos "
+"életükre.\n"
+"<header>text='Hitvilág'</header>\n"
+"A déltengeriek hite szerint az istenek két frakciója küzd egymással. Az "
+"egyik frakciót Aruyun és Ishtu vezeti, az aranykoronás napisten, és a "
+"szárnyas győzelemisten. A másik frakciót a vörösszemű Athtep, az éjszaka "
+"istene, és Nura, az elfátyolozott halálisten vezeti. Bár félnek a "
+"sötétségtől és a haláltól, de egyik isteni oldal győzelmét sem támogatják.\n"
+"\n"
+"Az istenekről szóló történetek abból az időből származnak, s terjednek azóta "
+"is szájról-szájra, amikor valami óriási gonoszság támadt a világban. Hogy mi "
+"volt ez pontosan, arról a régi nemzedékek nem szívesen beszéltek, így "
+"feledésbe merült. E gonoszságot sem a káosz, sem a halál nem motiválta, "
+"egyszerűen mindent meg akart semmisíteni. Aruyun, Athtep és az összes "
+"istenek egyesítették erejüket, hogy megállítsák a gonoszt, s végül két "
+"szeletre hasították, ahogy ők is kétféle beállítottsággal bírtak. Az egyik "
+"fél hideg, élettelen és közömbös lett, mint maga a halál. A másik "
+"szenvedélyes, életteli, de nem volt célja, és sokkal gyengébb volt a hideg "
+"rész nélkül. Az ellenség most már két alkotórészre bomlott, s ezáltal "
+"belesimult a világ jelenségeibe; részévé vált ennek a világnak, s eredeti "
+"céljától eltért. Örök veszélyként viszont továbbra is fennállt, hogy a két "
+"rész újraegyesül, de a modern korok tengerjárói ezt nem vették komolyan."
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:17
@@ -2256,6 +2657,11 @@ msgid ""
 "Hamilcar, Hannibal, Hiram, Iben Zhur, Itthobaal, Jabhar, Lehar, Melkart, "
 "Mendola, Sikarbaal, Tyrus"
 msgstr ""
+"Abdelkader, Abdulaziz, Abdulmecid, Abidal, Adarras, Adonis, Ahirom, Akbar, "
+"Amilcare, Azer, Azmelqart, Ba'al, Babur, Baltazar, Barekbaal, Besolam, "
+"Boldizsar, Cambyses, Caxias, Cyrus, D'Jafaar, Esauh, Haider, Hailama, "
+"Hamilcar, Hannibal, Hiram, Iben Zhur, Itthobaal, Jabhar, Lehar, Melkart, "
+"Mendola, Sikarbaal, Tyrus"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:18
@@ -2265,11 +2671,15 @@ msgid ""
 "Jezebel, Junot, Lilith, Maherra, Melita, Myletta, Nikkal, Pidraya, Rahmaya, "
 "Salaya, Sefina, Shahar, Tanis, Tanith, Ummanath, Ummashtart, Yara"
 msgstr ""
+"Adonia, Aida, Aisha, Alissar, Anath, Asherah, Ashtoreth, Ba'alat, Batanah, "
+"Batnoam, Betsda, Coriander, Cybil, Derketo, Dido, Hadda, Hesata, Ishtar, "
+"Jezebel, Junot, Lilith, Maherra, Melita, Myletta, Nikkal, Pidraya, Rahmaya, "
+"Salaya, Sefina, Shahar, Tanis, Tanith, Ummanath, Ummashtart, Yara"
 
 #. [unit_type]: id=Royal Constable, race=human
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:4
 msgid "Constable"
-msgstr ""
+msgstr "Rendőr"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:59
@@ -2277,17 +2687,17 @@ msgstr ""
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
 #: Archaic_Era/utils/Archaic_abilities.cfg:934
 msgid "scattershot"
-msgstr ""
+msgstr "célzott támadás"
 
 #. [unit_type]: id=Northern Elite, race=human
 #: Archaic_Era/units/ukians/Royal_Elite.cfg:4
 msgid "Northern Warrior"
-msgstr ""
+msgstr "Északi harcos"
 
 #. [unit_type]: id=Northern Fighter, race=human
 #: Archaic_Era/units/ukians/Royal_Fighter.cfg:4
 msgid "Northern Fighter"
-msgstr ""
+msgstr "Északi katona"
 
 #. [unit_type]: id=Northern Fighter, race=human
 #: Archaic_Era/units/ukians/Royal_Fighter.cfg:20
@@ -2295,11 +2705,13 @@ msgid ""
 "The fighters of the North have heavy clothing and armour that make them "
 "strong against cold and damage.  It also makes them slow on their feet."
 msgstr ""
+"Észak harcosai nehéz ruhákat viselnek és vértet, amely védelmet nyújt a "
+"hideg és a fegyverek ellen. Habár emiatt mozgásuk lelassul."
 
 #. [unit_type]: id=Northern Ranger, race=human
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:4
 msgid "Northern Ranger"
-msgstr ""
+msgstr "Északi vadász"
 
 #. [unit_type]: id=Northern Ranger, race=human
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:21
@@ -2311,26 +2723,32 @@ msgid ""
 "These fighters must move alone in the harsh north, so they are relatively "
 "unphased by the touch of cold."
 msgstr ""
+"Az északi hideg elgémberíti az ujjakat, s merev ujjakkal nehéz az íjakat "
+"használni. Az északi vadászok dárdákat hajítanak, s azzal is védekeznek, ez "
+"nem igényel fürge ujjakat, ugyanakkor elég erős ahhoz, hogy az északi "
+"szörnyek vastag, szőrmebundáját is átüsse. Ezek a harcosok gyakran "
+"közlekednek egyedül a zord északi tájakon, így a hidegtűrésük is viszonylag "
+"nagy."
 
 #. [unit_type]: id=Royal Sheriff, race=human
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:4
 msgid "Sheriff"
-msgstr ""
+msgstr "Békebíró"
 
 #. [unit_type]: id=Northern Soldier, race=human
 #: Archaic_Era/units/ukians/Royal_Soldier.cfg:4
 msgid "Northern Soldier"
-msgstr ""
+msgstr "Északi fegyveres"
 
 #. [unit_type]: id=Royal Vassal, race=human
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:4
 msgid "Vassal"
-msgstr ""
+msgstr "Királyi ember"
 
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:4
 msgid "Ukian Archer"
-msgstr ""
+msgstr "Ukiai íjász"
 
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:21
@@ -2338,11 +2756,13 @@ msgid ""
 "Due to the need for everyone to be able to fend off an orc, all Ukian women "
 "learn archery."
 msgstr ""
+"Az állandó ork fenyegetés hatására az ukiai nők is fegyvert ragadtak, és "
+"megtanultak bánni az íjjal."
 
 #. [unit_type]: id=Ukian Attack Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:5
 msgid "Attack Dog"
-msgstr ""
+msgstr "Véreb"
 
 #. [unit_type]: id=Ukian Attack Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:21
@@ -2353,16 +2773,22 @@ msgid ""
 "as scouts anymore because of their value at the offensive line. If given the "
 "signal, they will throw themselves at the enemy in a fight-to-the-death fury."
 msgstr ""
+"A vérebek rendkívül értékesek az ukiaiak számára, hűségesek és erősek. "
+"Torkukat bőr illetve fémlemezekkel látták el (komolyabb védelem már "
+"akadályozná a mozgásukat). Általában nem szokták őket felderítésre "
+"használni, mivel a támadósorokban sokkal hasznosabbak. Adott jelre őrjöngve "
+"rontanak az ellenségre, s csak a halál állítja meg őket (sajátja vagy "
+"ellenségéé)."
 
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:49
 msgid "fury"
-msgstr ""
+msgstr "őrjöngés"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:4
 msgid "Ukian Civilian"
-msgstr ""
+msgstr "Ukiai polgár"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:20
@@ -2371,21 +2797,24 @@ msgid ""
 "under the reign of the former King had had reason to believe there was more "
 "to life."
 msgstr ""
+"Vannak helyzetek, amikor mindenkinek a frontvonalra kell sietnie, bár azok, "
+"akik az előző király alatt nőttek fel, hajlamosak azt gondolni, hogy az élet "
+"nem a harcról szól."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:25
 msgid "punch"
-msgstr ""
+msgstr "ütés"
 
 #. [female]
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:89
 msgid "female^Civilian"
-msgstr ""
+msgstr "Polgárnő"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:5
 msgid "Ukian Commander"
-msgstr ""
+msgstr "Ukiai parancsnok"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:33
@@ -2395,17 +2824,20 @@ msgid ""
 "shields, made of steel, which provide greater protection and cause more "
 "damage upon impact."
 msgstr ""
+"A parancsnokok az ukiai sereg vezetői. Súlyos páncélzatot és számszeríjat "
+"örököltek elődeiktől. Nekik vannak a legjobb acélpajzsaik, amelyek erős "
+"védelmet nyújtanak, s amellyel kemény ütést is tudnak mérni ellenségeikre."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:71
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:70
 msgid "shield"
-msgstr ""
+msgstr "pajzs"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:5
 msgid "Ukian Commando"
-msgstr ""
+msgstr "Ukiai kommandós"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:21
@@ -2414,6 +2846,10 @@ msgid ""
 "carry a wide variety easy-to-carry weapons. They've had plenty of practice "
 "at evading orcs under the cover of night, they can become almost invisible."
 msgstr ""
+"A kommandósok megszokták, hogy egyedül harcoljanak, s ezért a könnyen "
+"hordozható fegyverek széles skáláját használják. Számtalan trükköt ismernek, "
+"hogy elkerüljék az orkokat, s az éj leple alatt szinte láthatatlanokká "
+"válnak."
 
 #. [leadership]: id=leadership
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:31
@@ -2421,14 +2857,14 @@ msgstr ""
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:40
 #: Archaic_Era/utils/Archaic_abilities.cfg:71
 msgid "dog trainer"
-msgstr ""
+msgstr "kutyakiképző"
 
 #. [leadership]: id=leadership
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:32
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:33
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:41
 msgid "dog female^trainer"
-msgstr ""
+msgstr "kutyakiképző"
 
 #. [leadership]: id=leadership
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:33
@@ -2439,11 +2875,14 @@ msgid ""
 "Dog Trainer:\n"
 "This unit can lead Ukian Dogs that are next to it, making them fight better."
 msgstr ""
+"Kutyakiképző:\n"
+"Ez az egység képes irányítani a mellette lévő kutyákat, így azok jobban "
+"harcolnak."
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:5
 msgid "Ukian Courrier"
-msgstr ""
+msgstr "Ukiai küldönc"
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:22
@@ -2452,11 +2891,14 @@ msgid ""
 "because they are entrusted with more important correspondenses. Still, they "
 "travel light, so the sling is their weapon of choice."
 msgstr ""
+"A futárok, akik már kitüntették magukat, nagyobb javadalmazást kapnak, s "
+"fontosabb feladatokkal bízzák meg őket. A könnyű mozgás létfontosságú, ezért "
+"fegyverük továbbra is a parittya."
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:5
 msgid "Ukian Deadeye"
-msgstr ""
+msgstr "Ukiai halálosztó"
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:23
@@ -2465,11 +2907,15 @@ msgid ""
 "about undetected. They can launch many missiles, or they can take a tactic "
 "from the orcs and launch more destructive (but slower to load) fire arrows."
 msgstr ""
+"Az ukiai sólyomszemek sokat gyakorlatoztak az erdőkben, s szinte "
+"beleolvadnak környezetükbe. Fürgén lövik ki nyilaikat, de az orkoktól "
+"ellesett taktikát felhasználva, pusztítóbb tüzes nyilakat (ha kevésbé "
+"fürgén, mint a hagyományost) is használnak. "
 
 #. [unit_type]: id=Ukian Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Dog.cfg:5
 msgid "Dog"
-msgstr ""
+msgstr "Kutya"
 
 #. [unit_type]: id=Ukian Dog, race=ukiandog
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
@@ -2481,11 +2927,15 @@ msgid ""
 "causing havoc behind enemy lines, but not so good at holding a line. The "
 "life of a dog is often short, but they do get tougher with experience."
 msgstr ""
+"A kutyák igénytelen állatok, de felderítésben és vadászatban nagyon hasznos "
+"segítőtársak. Az ukiai kutyák gyengék, de gyorsak és mozgékonyak, kavarodást "
+"okozhatnak az ellenséges vonalak mögött, de nyílt csatában kevés hasznuk "
+"van. A kutyák általában rövid életűek, bár gyakorlatozással fejlődhetnek. "
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:5
 msgid "Ukian Flareman"
-msgstr ""
+msgstr "Ukiai fáklyahordozó"
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:92
@@ -2495,16 +2945,20 @@ msgid ""
 "little easier. They've grown accustomed to the heat, so they have a "
 "resistance to flame attacks."
 msgstr ""
+"A fáklyahordozók a jelzőőrök legjobbjai, akik erősebb fáklyákat használnak, "
+"s így környezetüket jobban megvilágítják. Ezáltal az orkok elleni harcot is "
+"könnyebbé teszik. Megszokták a meleget, így a tűztámadásoknak is jobban "
+"ellenállnak."
 
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Harrier.cfg:5
 msgid "Harrier"
-msgstr ""
+msgstr "Kopó"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:5
 msgid "Ukian Hawkeye"
-msgstr ""
+msgstr "Ukiai sólyomszem"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:22
@@ -2513,11 +2967,14 @@ msgid ""
 "ability to fire off so many shots. They can also take a tactic from the orcs "
 "and launch more destructive (but slower to load) fire arrows."
 msgstr ""
+"Nem könnyű dolog nyílzáport zúdítani, de a sólyomszemek ennek a manővernek a "
+"mesterei. Emellett az orkoktól ellesték a pusztító tüzes nyilak lövésének "
+"technikáját (bár ezeket a hagyományosnál lassabban képesek kilőni)."
 
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:5
 msgid "Ukian Officer"
-msgstr ""
+msgstr "Ukiai tiszt"
 
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:28
@@ -2525,11 +2982,13 @@ msgid ""
 "The Ukian Officers are veteran Regulars, the Ukians didn't have a class "
 "structure before the arrival of the King."
 msgstr ""
+"Az ukiai tisztek harcedzett zsoldoskatonák, a király intézkedése előtt nem "
+"volt körükben ranglétra. "
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:5
 msgid "Ukian Regular"
-msgstr ""
+msgstr "Ukiai zsoldos"
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:20
@@ -2540,11 +2999,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Az ukiai zsoldoskatonák lándzsával harcolnak, mivel a lándzsa viszonylag "
+"olcsó fegyver. Mint az ukiaiak általában, hozzászoktak már a tundrához és a "
+"hóban való közlekedéshez.\n"
+"\n"
+"Megjegyzés:"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:5
 msgid "Ukian Runner"
-msgstr ""
+msgstr "Ukiai futár"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:30
@@ -2558,11 +3022,18 @@ msgid ""
 "the dogs, and as a result, they have some influence on the moral of their "
 "canine colleagues."
 msgstr ""
+"Mivel Ukiahban nem voltak lovak, a felderítők és a hírvivők is gyalogosan "
+"közlekedtek, s a fagyott területen is könnyebben járnak. A felfedezés "
+"elkerülése érdekében az éj leple alatt közlekednek. Nincsenek súlyos "
+"vértjeik és fegyvereik, hogy mozgékonyságukat megőrizhessék, így parittyázó "
+"képességeiket fejlesztik, amihez nem kell sok muníciót magukkal vinni. Mivel "
+"gyakran mozognak a frontvonalakon, sokat dolgoznak kutyákkal, emiatt képesek "
+"pozitívan befolyásolni az állatok harci kedvét és erejét."
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:5
 msgid "Ukian Seeress"
-msgstr ""
+msgstr "Ukiai látnoknő"
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:22
@@ -2572,17 +3043,21 @@ msgid ""
 "missile, they can send out a shockwave that will stun the enemy if it "
 "connects. They are also students of the healing arts."
 msgstr ""
+"Az ork támadások következtében sok tudás veszett el, s emiatt a látnoknőknek "
+"gyakran elölről kellett kezdeni a tanulmányokat. A nyíllal gyengén bánnak, "
+"de sokkhullámukkal bénító csapást mérhetnek ellenségeikre. Ezentúl a "
+"gyógyítás művészetével is foglalkoznak."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:40
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:45
 msgid "shockwave"
-msgstr ""
+msgstr "sokkhullám"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:5
 msgid "Ukian Signalman"
-msgstr ""
+msgstr "Ukiai jelzőőr"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:94
@@ -2593,11 +3068,17 @@ msgid ""
 "top of a hill waving a torch attracts a lot of unwanted attention, so the "
 "signal corps is composed of strong fighters."
 msgstr ""
+"Jeges, havas és nehéz terepen túl lassú és árulkodó lehet a futárokkal "
+"küldött üzenetváltás. A fény távolról is látható, így a jelzőőrök kódolt "
+"üzenetet küldhetnek fáklyáik mozgatásával, illetve bárdjaik fáklya előtt "
+"való lengetésével. A domb tetején álló, fáklyával jelző harcos számos "
+"veszélynek van kitéve, ezért a jelzőőröket a legerősebb harcosok közül "
+"válogatják."
 
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:4
 msgid "Ukian Subcommander"
-msgstr ""
+msgstr "Ukiai alvezér"
 
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:35
@@ -2606,36 +3087,39 @@ msgid ""
 "fighters. They also carry more substantial shields, which may be used not "
 "only to frustrate enemy strikes, but to stun the enemy."
 msgstr ""
+"A sikeres tisztekből alvezérek lesznek, s nagyobb csapatokat vezényelnek. "
+"Szilárdabb pajzsot viselnek, ami nemcsak az ellenséges ütések hárítására "
+"szolgál, hanem az ellenség megbénítására is."
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:4
 msgid "Ukian Veteran"
-msgstr ""
+msgstr "Hétpróbás ukiai"
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:20
 msgid "Veteran soldiers..."
-msgstr ""
+msgstr "A hétpróbás ukiaiak..."
 
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:46
 msgid "throwing axe"
-msgstr ""
+msgstr "hajítóbárd"
 
 #. [unit_type]: id=Ukian War Hound, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:5
 msgid "War Hound"
-msgstr ""
+msgstr "Harcikutya"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:132
 msgid "torch"
-msgstr ""
+msgstr "fáklya"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:5
 msgid "Ukian Witch"
-msgstr ""
+msgstr "Ukiai boszorkány"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:21
@@ -2646,26 +3130,30 @@ msgid ""
 "unformed blast into an electric strike. The uncontrolled blast is easiest to "
 "form, so they have not abandoned it."
 msgstr ""
+"Az ukiai boszorkányok jártasak a gyógyításban, és ellenállnak az elemeknek. "
+"A mágikus támadások különböző természetűek, s az elemeken uralkodni "
+"meglehetősen nehéz. Mindazonáltal a boszorkányok az alaktalan energiát "
+"villamos csapássá sűrítik, mivel az alaktalan energiát nem lehet irányítani."
 
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:57
 msgid "strike"
-msgstr ""
+msgstr "kisülés"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:5
 msgid "race^Ukian Human"
-msgstr ""
+msgstr "Ukiai férfi"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:6
 msgid "race+female^Ukian Human"
-msgstr ""
+msgstr "Ukiai nő"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:7
 msgid "race^Ukians"
-msgstr ""
+msgstr "Ukiaiak"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:9
@@ -2679,6 +3167,14 @@ msgid ""
 "reacquaintance with the people of Wesnoth, they have just started training "
 "mages."
 msgstr ""
+"Az ukiaiak a fagyos Észak lakói. Az utolsó maradékai egy rosszul tervezett "
+"wesnothi telepítési programnak, el vannak vágva a civilizációtól. Ellenséges "
+"orkok gyűrűjében rákényszerültek, hogy kevés forrást és kis erőt igénylő "
+"túlélési stratégiákat fejlesszenek ki, amelyek a gyors információcserén és a "
+"mozgékonyságon alapszanak. Minden férfi és minden nő az ork támadások "
+"túlélésére készült, így a tudományok művelésére nem jutott idő. A "
+"wesnothiakkal való újbóli kapcsolatfelvétel után az utóbbi években újra "
+"elkezdtek mágusokat kiképezni."
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:11
@@ -2692,6 +3188,14 @@ msgid ""
 "Teutorigos,Tighearnach,Tiobraide,Torcan,Triston,Tuathal,Tuireann,Ultan,"
 "Vercingetorix"
 msgstr ""
+"Abban,Aibhne,Aiden,Ailill,Allen,Artan,Bairrfhionn,Bevan,Bowen,Braeden,"
+"Bretach,Brogan,Buadhach,Cadeyrn,Calbhach,Caradog,Carden,Cearbhall,Coalan,"
+"Cuan,Daigh,Daimhin,Deverell,Dubhaltach,Eadoin,Eben,Eoghan,Eunan,Faolan,Fhaen "
+"Darach,Gahareet,Gavin,Irial,Jodoc,Kedehern,Koun,Laoire,Lorcan,Lughaidh,"
+"Lugobelinos,Lugovalos,Maol Mhurire,Maponos,Marcan,Morann,Morcant,Murchadh,"
+"Nuadha,Olcan,Osan,Peredur,Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,"
+"Teutorigos,Tighearnach,Tiobraide,Torcan,Triston,Tuathal,Tuireann,Ultan,"
+"Vercingetorix"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:12
@@ -2703,21 +3207,27 @@ msgid ""
 "Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
 "Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
 msgstr ""
+"Aideen,Ainder,Ardara,Avalbane,Betony,Blathnaid,Bonduca,Bronach,Bryher,"
+"Cartimandua,Ceara,Cinnia,Ciar,Cliodhna,Crobh Dearg,Damhnait,Deabhail,"
+"Dunfhlaith,Edda,Eddana,Fachtna,Fhina,Fianait,Gormlaith,Grian,Innogen,Kendra,"
+"Iseult,Laoise,Liadan,Liobhan,Moncha,Muireann,Nantosuelta,Naohm,Nuala,Orlaith,"
+"Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
+"Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:17
 msgid "race^Ukian Dog"
-msgstr ""
+msgstr "Ukiai kutya"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:18
 msgid "race+female^Ukian Dog"
-msgstr ""
+msgstr "Ukiai szuka"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:19
 msgid "race^Ukian Dogs"
-msgstr ""
+msgstr "Ukiai kutyák"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:21
@@ -2726,6 +3236,9 @@ msgid ""
 "shelter. Most often, dogs are used in hunts and patrols, but those that are "
 "unusually big and strong can be used as warriors."
 msgstr ""
+"Az ukiaiaknak segítségre volt szükségük az orkok ellen, a kutyáknak élelemre "
+"és hajlékra volt szükségük. A kutyákat leginkább őrzésre és vadászatra "
+"használják, de a fejlett és erős kutyákat harcokban is bevetik."
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:23 Archaic_Era/units/ukians_race.cfg:24
@@ -2733,36 +3246,38 @@ msgid ""
 "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
 "Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 msgstr ""
+"Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
+"Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 
 #. [trait]: id=aa_phantom, description={STR_NONLIVING_DESCRIPTION}
 #: Archaic_Era/utils/Archaic_abilities.cfg:10
 msgid "phantom"
-msgstr ""
+msgstr "fantom"
 
 #. [trait]: id=aa_phantom, description={STR_NONLIVING_DESCRIPTION}
 #: Archaic_Era/utils/Archaic_abilities.cfg:11
 msgid "female^phantom"
-msgstr ""
+msgstr "fantom"
 
 #. [trait]: id=aa_zealous, description={STR_ZERO_UPKEEP}
 #: Archaic_Era/utils/Archaic_abilities.cfg:24
 msgid "zealous"
-msgstr ""
+msgstr "hitbuzgó"
 
 #. [trait]: id=aa_zealous, description={STR_ZERO_UPKEEP}
 #: Archaic_Era/utils/Archaic_abilities.cfg:25
 msgid "female^zealous"
-msgstr ""
+msgstr "hitbuzgó"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:57
 msgid "dancer"
-msgstr ""
+msgstr "higanymozgású"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:58
 msgid "female^dancer"
-msgstr ""
+msgstr "higanymozgású"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:59
@@ -2771,21 +3286,25 @@ msgid ""
 "This unit's physical (pierce, impact, blade) resistances are doubled, up to "
 "a maximum of 60%, when attacking because the enemy cannot get a direct hit."
 msgstr ""
+"Higanymozgású:\n"
+"Ez az egység a fizikai behatásokra(szúrás, vágás, ütés) kétszeres "
+"ellenállással bír, egészen 60%-ig, mivel igen nehéz komoly csapást bevinni "
+"neki."
 
 #. [leadership]: id=leadership
 #: Archaic_Era/utils/Archaic_abilities.cfg:72
 msgid "female^dog trainer"
-msgstr ""
+msgstr "kutyakiképző"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:91
 msgid "anti-poison"
-msgstr ""
+msgstr "ellenméreg"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:92
 msgid "female^anti-poison"
-msgstr ""
+msgstr "ellenméreg"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:93
@@ -2795,16 +3314,20 @@ msgid ""
 "be cured of its poison by this ability, and must seek the care of a village "
 "or a unit that can cure."
 msgstr ""
+"Ellenméreg:\n"
+"Az egység ellenáll a mérgezési kísérleteknek, de a mérgezett egység nem "
+"gyógyul ki a mérgezésből, ha ezt a képességet megszerzi, tehát egy falut, "
+"vagy egy kúráló egységet kell keresnie e célból. "
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:109
 msgid "heals +"
-msgstr ""
+msgstr "gyógyít +"
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:110
 msgid "female^heals +"
-msgstr ""
+msgstr "gyógyít +"
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:111
@@ -2817,16 +3340,23 @@ msgid ""
 "A poisoned unit cannot be cured of its poison by a healer, and must seek the "
 "care of a village or a unit that can cure."
 msgstr ""
+"Gyógyít +{AMT}:\n"
+"Az egység képes a mellette álló szövetséges egységet saját köre elején "
+"gyógyítani.\n"
+"\n"
+"A meggyógyított egység legfeljebb {AMT} ÉP-t gyógyul a kör elején.\n"
+"A mérgezett egység nem gyógyul ki a mérgezéséből, így falu vagy méregűző "
+"egység után kell néznie. "
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:130
 msgid "immortal"
-msgstr ""
+msgstr "halhatatlan"
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:131
 msgid "female^immortal"
-msgstr ""
+msgstr "halhatatlan"
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:132
@@ -2834,16 +3364,19 @@ msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
+"halhatatlan:\n"
+"Ez az egység 99 ÉP-t gyógyul körönként. Ha megmérgeződik, akkor kigyógyul "
+"belőle."
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:142
 msgid "intangible"
-msgstr ""
+msgstr "fáradhatatlan"
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:143
 msgid "female^intangible"
-msgstr ""
+msgstr "fáradhatatlan"
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:144
@@ -2852,16 +3385,19 @@ msgid ""
 "This unit uses only one movement point per attack, rather than all of its "
 "movement points like most other units."
 msgstr ""
+"Fáradhatatlan:\n"
+"Ez az egység egy mozgáspontot használ fel támadáskor, szemben a többi "
+"egységgel, amely összes mozgáspontját elveszti."
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:153
 msgid "stone"
-msgstr ""
+msgstr "fényszobor"
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:154
 msgid "female^stone"
-msgstr ""
+msgstr "fényszobor"
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:155
@@ -2870,19 +3406,22 @@ msgid ""
 "This unit is stone in the daylight, if not next to an ally or in a village, "
 "but is always mobile at night."
 msgstr ""
+"Fényszobor:\n"
+"Ez az egység nappal kővé válik, kivéve szövetséges egység mellett vagy "
+"faluban, de éjszaka életre kel."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:456
 msgid "release stoned victims"
-msgstr ""
+msgstr "életrekeltés"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:492
 #: Archaic_Era/utils/Archaic_abilities.cfg:537
 msgid "Free"
-msgstr ""
+msgstr "Függetlenség"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:548
 msgid "tie-down"
-msgstr ""
+msgstr "lecövekelés"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:549
 msgid ""
@@ -2890,36 +3429,42 @@ msgid ""
 "Defender cannot move for any turn in which the attacker is adjacent at "
 "start, but they can still attack."
 msgstr ""
+"Lecövekelés:\n"
+"A védő mindaddig nem tud elmozdulni a helyéről, míg a támadó egység a kör "
+"elején mellette áll, bár támadni képes."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:748
 #: Archaic_Era/utils/Archaic_abilities.cfg:789
 #: Archaic_Era/utils/Archaic_abilities.cfg:830
 msgid "hide in shell"
-msgstr ""
+msgstr "Begubózás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:768
 #: Archaic_Era/utils/Archaic_abilities.cfg:809
 #: Archaic_Era/utils/Archaic_abilities.cfg:850
 msgid "stop hiding"
-msgstr ""
+msgstr "Kijövetel a burokból"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:877
 msgid "selfheal"
-msgstr ""
+msgstr "öngyógyulás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:878
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
+"Öngyógyulás:\n"
+"Ez az egység {AMT} ÉP-t gyógyul körönként. Ha megmérgeződik, kigyógyul a "
+"mérgeződésből."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:895
 msgid "penumbra"
-msgstr ""
+msgstr "homályosítás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:896
 msgid "female^penumbra"
-msgstr ""
+msgstr "homályosítás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:897
 msgid ""
@@ -2930,16 +3475,22 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
+"Homályosítás:\n"
+"Ez az egység elhomályosítja környezetét, a törvénytelen egységek jobban, míg "
+"az igazságosak rosszabbul harcolnak.\n"
+"\n"
+"Bármelyik szomszédos mezőn álló egység úgy harcol nappal, mintha alkonyat "
+"lenne, s alkonyatkor és hajnalban úgy, mintha éjszaka lenne."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:910
 #: Archaic_Era/utils/Archaic_abilities.cfg:912
 msgid "desert-stalk"
-msgstr ""
+msgstr "homokbaolvadás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:911
 #: Archaic_Era/utils/Archaic_abilities.cfg:913
 msgid "female^desert-stalk"
-msgstr ""
+msgstr "homokbaolvadás"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:914
 #: Archaic_Era/utils/Archaic_abilities.cfg:918
@@ -2951,12 +3502,21 @@ msgid ""
 "they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
+"Homokbaolvadás:\n"
+"Ez az egység a sivatagi terepen képes elrejtőzni, s így láthatatlanná válni "
+"ellenségei előtt.\n"
+"\n"
+"Az ellenséges egységek nem látják őt a sivatagi terepen, míg közvetlenül "
+"mellé nem érnek. Amelyik ellenséges egység először észleli az egységet, "
+"elveszti esetlegesen még meglévő mozgáspontjait."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:935
 msgid ""
 "Scattershot:\n"
 "This attack always has at least a 70% chance to hit."
 msgstr ""
+"Célzott támadás:\n"
+"Ez a támadás mindig legalább 70% eséllyel talál."
 
 #. [terrain_type]: id=r_bridge
 #. [terrain_type]: id=r_bridgediag1
@@ -2964,22 +3524,22 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:8 Archaic_Era/utils/terrain.cfg:19
 #: Archaic_Era/utils/terrain.cfg:30
 msgid "Rope Bridge"
-msgstr ""
+msgstr "Kötélhíd"
 
 #. [terrain_type]: id=bmrtree
 #: Archaic_Era/utils/terrain.cfg:42
 msgid "Forest"
-msgstr ""
+msgstr "Erdő"
 
 #. [terrain_type]: id=bmrtree
 #: Archaic_Era/utils/terrain.cfg:43
 msgid "Dead Forest"
-msgstr ""
+msgstr "Halott erdő"
 
 #. [terrain_type]: id=bmr_blank
 #: Archaic_Era/utils/terrain.cfg:54
 msgid "Empty Space"
-msgstr ""
+msgstr "Üres hely"
 
 #. [terrain_type]: id=bmr_fountain
 #: Archaic_Era/utils/terrain.cfg:65
@@ -2989,7 +3549,7 @@ msgstr ""
 #. [terrain_type]: id=Tundra
 #: Archaic_Era/utils/terrain.cfg:76
 msgid "Tundra"
-msgstr ""
+msgstr "Tundra"
 
 #. [terrain_type]: id=bmr_city
 #: Archaic_Era/utils/terrain.cfg:86
@@ -3010,174 +3570,174 @@ msgstr ""
 #. [terrain_type]: id=bmr_primetile
 #: Archaic_Era/utils/terrain.cfg:132
 msgid "Odd Plate"
-msgstr ""
+msgstr "Féltányér"
 
 #. [terrain_type]: id=bmr_primegrid
 #: Archaic_Era/utils/terrain.cfg:143
 msgid "Odd Grid"
-msgstr ""
+msgstr "Félrács"
 
 #. [terrain_type]: id=bmr_steel
 #: Archaic_Era/utils/terrain.cfg:154
 msgid "Steel Plate"
-msgstr ""
+msgstr "Acéltányér"
 
 #. [terrain_type]: id=bmr_darksteel
 #: Archaic_Era/utils/terrain.cfg:164
 msgid "Dark Steel Plate"
-msgstr ""
+msgstr "Sötét acéltányér"
 
 #. [terrain_type]: id=bmr_brick
 #: Archaic_Era/utils/terrain.cfg:174
 msgid "Light Stone Blocks"
-msgstr ""
+msgstr "Világos kőkocka"
 
 #. [terrain_type]: id=bmr_brickd
 #: Archaic_Era/utils/terrain.cfg:184
 msgid "Dark Stone Blocks"
-msgstr ""
+msgstr "Sötét kőkocka"
 
 #. [terrain_type]: id=Drift
 #: Archaic_Era/utils/terrain.cfg:198
 msgid "Snow Drift"
-msgstr ""
+msgstr "Hófúvás"
 
 #. [terrain_type]: id=thin_ice
 #: Archaic_Era/utils/terrain.cfg:210
 msgid "Thin Ice"
-msgstr ""
+msgstr "Vékony jég"
 
 #. [terrain_type]: id=test_camp
 #: Archaic_Era/utils/terrain.cfg:220
 msgid "Test Camp"
-msgstr ""
+msgstr "Tesztsátor"
 
 #. [terrain_type]: id=test_camp
 #: Archaic_Era/utils/terrain.cfg:232
 msgid "Test Keep"
-msgstr ""
+msgstr "Teszt erőd"
 
 #. [terrain_type]: id=troll_camp
 #: Archaic_Era/utils/terrain.cfg:245
 msgid "Troll Camp"
-msgstr ""
+msgstr "Troll sátor"
 
 #. [terrain_type]: id=troll_keep
 #: Archaic_Era/utils/terrain.cfg:257
 msgid "Troll Keep"
-msgstr ""
+msgstr "Troll erőd"
 
 #. [terrain_type]: id=troll_campswamp
 #: Archaic_Era/utils/terrain.cfg:270
 msgid "Swamp Troll Camp"
-msgstr ""
+msgstr "Mocsári troll sátor"
 
 #. [terrain_type]: id=troll_keepswamp
 #: Archaic_Era/utils/terrain.cfg:282
 msgid "Swamp Troll Keep"
-msgstr ""
+msgstr "Mocsári troll erőd"
 
 #. [terrain_type]: id=troll_campwater
 #: Archaic_Era/utils/terrain.cfg:295
 msgid "Sunken Troll Camp"
-msgstr ""
+msgstr "Elsüllyedt troll sátor"
 
 #. [terrain_type]: id=troll_keepwater
 #: Archaic_Era/utils/terrain.cfg:308
 msgid "Sunken Troll Keep"
-msgstr ""
+msgstr "Elsüllyedt troll erőd"
 
 #. [terrain_type]: id=bmr_primekeep
 #: Archaic_Era/utils/terrain.cfg:324
 msgid "Primeval Keep"
-msgstr ""
+msgstr "Antik erőd"
 
 #. [terrain_type]: id=bmr_primecastle
 #: Archaic_Era/utils/terrain.cfg:337
 msgid "Primeval Castle"
-msgstr ""
+msgstr "Antik vár"
 
 #. [terrain_type]: id=bmr_orckeep
 #: Archaic_Era/utils/terrain.cfg:351
 msgid "Sand Keep"
-msgstr ""
+msgstr "Sivatagi erőd"
 
 #. [terrain_type]: id=bmr_orckeep
 #: Archaic_Era/utils/terrain.cfg:352
 msgid "Sand Ruin Keep"
-msgstr ""
+msgstr "Sivatagi romos erőd"
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:364
 msgid "Sand Castle"
-msgstr ""
+msgstr "Sivatagi vár"
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:365
 msgid "Sand Ruin"
-msgstr ""
+msgstr "Sivatagi rom"
 
 #. [terrain_type]: id=bmr_marble_keep
 #: Archaic_Era/utils/terrain.cfg:392 Archaic_Era/utils/terrain.cfg:419
 msgid "Keep"
-msgstr ""
+msgstr "Erőd"
 
 #. [terrain_type]: id=bmr_despair_castle
 #: Archaic_Era/utils/terrain.cfg:434 Archaic_Era/utils/terrain.cfg:435
 #: Archaic_Era/utils/terrain.cfg:459 Archaic_Era/utils/terrain.cfg:460
 msgid "Ghost Castle"
-msgstr ""
+msgstr "Szellemvár"
 
 #. [terrain_type]: id=bmr_despair_keep
 #: Archaic_Era/utils/terrain.cfg:446 Archaic_Era/utils/terrain.cfg:447
 #: Archaic_Era/utils/terrain.cfg:471 Archaic_Era/utils/terrain.cfg:472
 msgid "Ghost Keep"
-msgstr ""
+msgstr "Szellemerőd"
 
 #. [terrain_type]: id=bmr_stonewall2
 #: Archaic_Era/utils/terrain.cfg:486
 msgid "Wall2"
-msgstr ""
+msgstr "Fal2"
 
 #. [terrain_type]: id=bmr_stonewall
 #: Archaic_Era/utils/terrain.cfg:496
 msgid "Wall"
-msgstr ""
+msgstr "Fal"
 
 #. [terrain_type]: id=bmr_icewall
 #: Archaic_Era/utils/terrain.cfg:506
 msgid "Ice Wall"
-msgstr ""
+msgstr "Jégfal"
 
 #. [terrain_type]: id=bmr_icecave
 #: Archaic_Era/utils/terrain.cfg:516
 msgid "Ice Cave"
-msgstr ""
+msgstr "Jégbarlang"
 
 #. [terrain_type]: id=bmr_icecanyon
 #: Archaic_Era/utils/terrain.cfg:527
 msgid "Ice Chasm"
-msgstr ""
+msgstr "Jégszakadék"
 
 #. [terrain_type]: id=facility1
 #: Archaic_Era/utils/terrain.cfg:538
 msgid "Industrial Facility"
-msgstr ""
+msgstr "Ipari terület"
 
 #. [terrain_type]: id=bmr_igloo
 #: Archaic_Era/utils/terrain.cfg:549
 msgid "Ice Village"
-msgstr ""
+msgstr "Jégkunyhó"
 
 #. [terrain_type]: id=bmr_primevilla
 #: Archaic_Era/utils/terrain.cfg:561
 msgid "Primeval Villa"
-msgstr ""
+msgstr "Antik falu"
 
 #. [terrain_type]: id=bmr_test
 #: Archaic_Era/utils/terrain.cfg:606
 msgid "Test Village"
-msgstr ""
+msgstr "Teszt falu"
 
 #. [terrain_type]: id=bmr_path
 #. [terrain_type]: id=bmr_pathdiag1
@@ -3185,7 +3745,7 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:618 Archaic_Era/utils/terrain.cfg:626
 #: Archaic_Era/utils/terrain.cfg:634
 msgid "Path"
-msgstr ""
+msgstr "Ösvény"
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
@@ -3193,7 +3753,7 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:643 Archaic_Era/utils/terrain.cfg:651
 #: Archaic_Era/utils/terrain.cfg:659
 msgid "Path(l)"
-msgstr ""
+msgstr "Ösvény(b)"
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
@@ -3201,32 +3761,32 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:668 Archaic_Era/utils/terrain.cfg:676
 #: Archaic_Era/utils/terrain.cfg:684
 msgid "Path(r)"
-msgstr ""
+msgstr "Ösvény(j)"
 
 #. [terrain_type]: id=vent1
 #: Archaic_Era/utils/terrain.cfg:695
 msgid "Heat Exchanger"
-msgstr ""
+msgstr "Hőcserélő"
 
 #. [terrain_type]: id=engine_tri
 #: Archaic_Era/utils/terrain.cfg:735
 msgid "Engine"
-msgstr ""
+msgstr "Gép"
 
 #. [terrain_type]: id=tri_blue
 #: Archaic_Era/utils/terrain.cfg:761
 msgid "Blue"
-msgstr ""
+msgstr "Batyu"
 
 #. [terrain_type]: id=tri_path
 #: Archaic_Era/utils/terrain.cfg:772
 msgid "Snow Path"
-msgstr ""
+msgstr "Havas ösvény"
 
 #. [dummy]: id=aa_vector_damage
 #: Archaic_Era/utils/vector_abilities.cfg:102
 msgid "vector damage"
-msgstr ""
+msgstr "járványos gyengülés"
 
 #. [dummy]: id=aa_vector_damage
 #: Archaic_Era/utils/vector_abilities.cfg:103
@@ -3234,32 +3794,255 @@ msgid ""
 "Vector Damage:\n"
 "..."
 msgstr ""
+"Járványos gyengülés:\n"
+"..."
 
 #: Archaic_Era/utils/vector_abilities.cfg:112
 msgid "vector"
-msgstr ""
+msgstr "járvány"
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:466
+#, fuzzy
 msgid "possessed"
-msgstr ""
+msgstr "Megszállott"
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:581
 msgid "Possessed"
-msgstr ""
+msgstr "Megszállott"
 
 #. [trait]: id=aa_khthon_enthrall
 #: Archaic_Era/utils/vector_abilities.cfg:696
 msgid "enthrallment"
-msgstr ""
+msgstr "bűvölet"
 
 #. [trait]: id=aa_khthon_enthrall
 #: Archaic_Era/utils/vector_abilities.cfg:697
 msgid "Slain foes become Khthon thralls."
-msgstr ""
+msgstr "A megölt ellenségek khthon rabszolgává válnak."
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:786
+#, fuzzy
 msgid "enthralled"
-msgstr ""
+msgstr "Elbűvölt"
+
+#~ msgid "Stone Grip"
+#~ msgstr "szoborököl"
+
+#~ msgid "Chill"
+#~ msgstr "Fagyhullám"
+
+#~ msgid "Barb"
+#~ msgstr "Horgony"
+
+#~ msgid "Harpoon"
+#~ msgstr "szigony"
+
+#~ msgid "Touch"
+#~ msgstr "érintés"
+
+#~ msgid "Spear"
+#~ msgstr "lándzsa"
+
+#~ msgid "Claws"
+#~ msgstr "karmok"
+
+#~ msgid "Bite"
+#~ msgstr "harapás"
+
+#~ msgid "fangs"
+#~ msgstr "agyar"
+
+#~ msgid "Kick"
+#~ msgstr "rúgás"
+
+#~ msgid "Tail"
+#~ msgstr "farok"
+
+#~ msgid "Sword"
+#~ msgstr "kard"
+
+#~ msgid "Greatsword"
+#~ msgstr "Pallos"
+
+#~ msgid "greatsword"
+#~ msgstr "pallos"
+
+#~ msgid "Orcish Maurader"
+#~ msgstr "Ork martalóc"
+
+#~ msgid ""
+#~ "The Mauraders wear an ugly bronze mask to make themselves more fearsome "
+#~ "to the easily frightened humans."
+#~ msgstr ""
+#~ "A martalócok ijesztő bronzmaszkot viselnek, hogy még félelmetesebbnek "
+#~ "látszódjanak a könnyen pánikba eső emberek szemében."
+
+#~ msgid ""
+#~ "The Raiders are slightly less solid in stature than the Grunts, but still "
+#~ "formidible fighters.  In the frequent clashes with humans, the orcs have "
+#~ "learned how easily many of them can be defeated through psychology, "
+#~ "before a single blow is struck.  The whip is not always the most "
+#~ "practical weapon, but it is very dramatic and loud, so this is what the "
+#~ "Raiders use to terrorize the human enemy."
+#~ msgstr ""
+#~ "A prédálók kevésbé zömök alkatúak, mint a közkatonák, de így is "
+#~ "félelmetes harcosok. Az emberekkel való gyakori összecsapások során az "
+#~ "orkok rájöttek, hogy pusztán pszichológiai módszerekkel sokkal több "
+#~ "embert semmisíthetnek meg, mint egy íjjal. A korbács nem mindig a legjobb "
+#~ "fegyver, de igen zajos és rémisztő, s ezzel kergetik a prédálók őrületbe "
+#~ "az embereket."
+
+#~ msgid "beak"
+#~ msgstr "csőr"
+
+#~ msgid "Beak"
+#~ msgstr "csőr"
+
+#~ msgid "Bow"
+#~ msgstr "íj"
+
+#~ msgid "Dagger"
+#~ msgstr "Tőr"
+
+#~ msgid "Curse"
+#~ msgstr "átok"
+
+#~ msgid "touch"
+#~ msgstr "érintés"
+
+#~ msgid "wail"
+#~ msgstr "sikoly"
+
+#~ msgid "Knife"
+#~ msgstr "kés"
+
+#~ msgid "Chakram"
+#~ msgstr "csakram"
+
+#~ msgid "Axe"
+#~ msgstr "Bárd"
+
+#~ msgid "Mace"
+#~ msgstr "buzogány"
+
+#~ msgid "Flail"
+#~ msgstr "láncos buzogány"
+
+#~ msgid ""
+#~ "The Primeval Hektors ...\n"
+#~ "Special Note:"
+#~ msgstr ""
+#~ "Az antik hektorok...\n"
+#~ "Megjegyzés:"
+
+#~ msgid "Quoit"
+#~ msgstr "dobócsillag"
+
+#~ msgid "Staff"
+#~ msgstr "bot"
+
+#~ msgid "curse"
+#~ msgstr "átok"
+
+#~ msgid "race^Human"
+#~ msgstr "Ember"
+
+#~ msgid "race+female^Human"
+#~ msgstr "Ember"
+
+#~ msgid "race^Humans"
+#~ msgstr "Emberek"
+
+#~ msgid ""
+#~ "Able-Seaman have melted some of the lead normally used for ballast and "
+#~ "affixed it to the end of a staff."
+#~ msgstr ""
+#~ "A tengerjárók megolvasztottak egy kis nehezéknek használt ólmot, s azt "
+#~ "tették a botjuk végére."
+
+#~ msgid "Torch"
+#~ msgstr "fáklya"
+
+#~ msgid "Lash"
+#~ msgstr "Ostor"
+
+#~ msgid "hammer"
+#~ msgstr "pöröly"
+
+#~ msgid "crossbow"
+#~ msgstr "számszeríj"
+
+#~ msgid "sword"
+#~ msgstr "kard"
+
+#~ msgid "knife"
+#~ msgstr "kés"
+
+#~ msgid "spear"
+#~ msgstr "lándzsa"
+
+#~ msgid "javelin"
+#~ msgstr "dárda"
+
+#~ msgid "mace"
+#~ msgstr "buzogány"
+
+#~ msgid "dagger"
+#~ msgstr "tőr"
+
+#~ msgid "sling"
+#~ msgstr "parittya"
+
+#~ msgid "axe"
+#~ msgstr "bárd"
+
+#~ msgid "Throwing Knife"
+#~ msgstr "Dobókés"
+
+#~ msgid "staff"
+#~ msgstr "bot"
+
+#~ msgid "Immune to drain, poison and plague"
+#~ msgstr "Ellenálló a megcsapolással, a mérgezéssel és az átokkal szemben."
+
+#~ msgid "Vector"
+#~ msgstr "Járvány"
+
+#~ msgid ""
+#~ "Vector:\n"
+#~ "This attack always has a {CHANCE}% chance to hit regardless of the "
+#~ "defensive ability of the unit being attacked.  If hit, susceptable "
+#~ "opponents become Khthon."
+#~ msgstr ""
+#~ "Járvány:\n"
+#~ "Ez a támadás mindig {CHANCE}% eséllyel talál a védekező egység "
+#~ "ellenállásától függetlenül. Ha talál, a megtámadott fogékony egység "
+#~ "Khthonná válik."
+
+#~ msgid "$damage_attacker_vis"
+#~ msgstr "$damage_attacker_vis"
+
+#~ msgid ""
+#~ "The Vapor can take the form of a real fighter, but the deception is "
+#~ "apparent when the opponent strikes and the vapor dissipates."
+#~ msgstr ""
+#~ "Az árnyfoszlány egy valódi harcosnak látszik, de az ellenséget csalódás "
+#~ "éri, ha odaüt, s az árnyfoszlány szétoszlik."
+
+#~ msgid "Mummy King"
+#~ msgstr "Királymúmia"
+
+#~ msgid "Spirits"
+#~ msgstr "Szellemek"
+
+#~ msgid "Shadow"
+#~ msgstr "Árny"
+
+#~ msgid "Seth"
+#~ msgstr "Szeth"
+
+#~ msgid "Fork"
+#~ msgstr "villa"
