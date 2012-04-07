@@ -1,18 +1,19 @@
 # Guillaume Delacourt <feufochmar@d-20.fr>, 2010.
+# Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-04-01 17:40-0400\n"
-"PO-Revision-Date: 2010-06-12 00:52+0200\n"
-"Last-Translator: Guillaume Delacourt <feufochmar@d-20.fr>\n"
+"PO-Revision-Date: 2012-02-26 16:33+0200\n"
+"Last-Translator: Guillaume Pascal <guillaume.pascal43@laposte.net>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 1.0\n"
+"X-Generator: Virtaal 0.7.0\n"
 
 #. [editor_group]: id=archaicera
 #. [era]: id=ARCHAIC_ERA_II
@@ -22,80 +23,76 @@ msgstr "Ère archaïque"
 
 #. [era]: id=ARCHAIC_ERA
 #: Archaic_Era/eras/Archaic_Era.cfg:139
-#, fuzzy
 msgid "Archaic Clean"
-msgstr "Ère archaïque"
+msgstr "Archaïque pur"
 
 #. [era]: id=ARCHAIC_ERA_HEROS
 #: Archaic_Era/eras/Archaic_Era.cfg:161
-#, fuzzy
 msgid "Archaic Heros"
-msgstr "Ère archaïque"
+msgstr "Archaïque Héros"
 
 #. [era]: id=ARCHAIC_ERA_RPG
 #: Archaic_Era/eras/Archaic_Era.cfg:180
-#, fuzzy
 msgid "Archaic RPG"
-msgstr "Ère archaïque"
+msgstr "Archaïque RPG"
 
+# http://fr.wikipedia.org/wiki/P%C3%A9risprit
 #. [multiplayer_side]: id=Archaic_Despair, type=Phantom Master
 #. [multiplayer_side]: id=Archaic_Despair, type=Phantom Shadow
 #: Archaic_Era/eras/base/despair_MP.cfg:6
 #: Archaic_Era/eras/heros/despair_MP.cfg:5
 #: Archaic_Era/eras/rpg/despair_MP.cfg:6
-#, fuzzy
 msgid "Despair"
-msgstr "Le Désespoir"
+msgstr "Périsprit"
 
+# http://fr.wikipedia.org/wiki/Divinit%C3%A9s_grecques_chthoniennes
 #. [multiplayer_side]: id=Archaic_Khthon, type=Ophis-Magnum
 #. [multiplayer_side]: id=Archaic_Khthon, type=Pyradalon
 #: Archaic_Era/eras/base/khthon_MP.cfg:5
 #: Archaic_Era/eras/heros/khthon_MP.cfg:5 Archaic_Era/eras/rpg/khthon_MP.cfg:5
-#, fuzzy
 msgid "Khthon"
-msgstr "Chthoniens"
+msgstr "Chthonien"
 
+# http://fr.wikipedia.org/wiki/Races_de_The_Elder_Scrolls#Orques_ou_Orismer
 #. [multiplayer_side]: id=Archaic_Orcs, type=Orcish Warrior
 #. [multiplayer_side]: id=Northern_Orcs, type=Orcish Terror
 #. [multiplayer_side]: id=Northern_Orcs, type=Orcish Warrior
 #: Archaic_Era/eras/base/orcs_MP.cfg:4 Archaic_Era/eras/heros/orcs_MP.cfg:4
 #: Archaic_Era/eras/rpg/orcs_MP.cfg:4
-#, fuzzy
 msgid "Northern Orcs"
-msgstr "Orcs nordiques"
+msgstr "Orismer"
 
 #. [multiplayer_side]: id=Archaic_Phantom, type=Tomb Protector
 #. [multiplayer_side]: id=Archaic_Phantom, type=Tomb Sentinel
 #: Archaic_Era/eras/base/phantom_MP.cfg:5
 #: Archaic_Era/eras/heros/phantom_MP.cfg:5
 #: Archaic_Era/eras/rpg/phantom_MP.cfg:5
-#, fuzzy
 msgid "Phantom"
-msgstr "Fantômes"
+msgstr "Fantôme"
 
+# http://fr.wiktionary.org/wiki/ouranien
 #. [multiplayer_side]: id=Archaic_Primeval, type=Primeval Driver
 #. [multiplayer_side]: id=Archaic_Primeval, type=Primeval Warrior
 #: Archaic_Era/eras/base/primeval_MP.cfg:5
 #: Archaic_Era/eras/heros/primeval_MP.cfg:5
 #: Archaic_Era/eras/rpg/primeval_MP.cfg:5
-#, fuzzy
 msgid "Primeval"
-msgstr "Ouraniens"
+msgstr "Ouranien"
 
 #. [multiplayer_side]: id=Archaic_Random, type=Primeval Driver
 #: Archaic_Era/eras/base/random_MP.cfg:5
 msgid "Random"
-msgstr ""
+msgstr "Aléatoire"
 
+# http://fr.wikipedia.org/wiki/Hyks%C3%B4s
 #. [multiplayer_side]: id=Archaic_South-Seas, type=South-Seas Rover
 #. [multiplayer_side]: id=Archaic_South-Seas, type=South-Seas Seawolf
 #. [multiplayer_side]: id=Archaic_SouthSeas, type=SouthSeas Rover
 #: Archaic_Era/eras/base/south-seas_MP.cfg:5
 #: Archaic_Era/eras/heros/south-seas_MP.cfg:5
 #: Archaic_Era/eras/rpg/south-seas_MP.cfg:5
-#, fuzzy
 msgid "South-Seas"
-msgstr "Hommes des mers du Sud"
+msgstr "Hyksôs"
 
 #. [multiplayer_side]: id=Archaic_Ukians, type=Ukian Officer
 #. [multiplayer_side]: id=Archaic_Ukians, type=Ukian Subcommander
@@ -107,77 +104,75 @@ msgstr "Ukiens"
 #. [menu]: id=menu-main
 #: Archaic_Era/theme.cfg:122
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. [menu]: id=actions-menu
 #: Archaic_Era/theme.cfg:133
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #. [menu]: id=button-endturn
 #: Archaic_Era/theme.cfg:155
 msgid "End Turn"
-msgstr ""
+msgstr "Fin du tour"
 
 #. [menu]: id=button-endturn
 #: Archaic_Era/theme.cfg:156
 msgid "End Scenario"
-msgstr ""
+msgstr "Fin du scénario"
 
 #. [label]: id=label-hp
 #: Archaic_Era/theme.cfg:214
 msgid "HP"
-msgstr ""
+msgstr "PV"
 
 #. [label]: id=label-xp
 #: Archaic_Era/theme.cfg:223
 msgid "XP"
-msgstr ""
+msgstr "XP"
 
 #. [label]: id=gold-icon
 #: Archaic_Era/theme.cfg:233
 msgid "gold"
-msgstr ""
+msgstr "or"
 
 #. [label]: id=villages-icon
 #: Archaic_Era/theme.cfg:242
 msgid "villages"
-msgstr ""
+msgstr "villages"
 
 #. [label]: id=units-icon
 #: Archaic_Era/theme.cfg:251
 msgid "units"
-msgstr ""
+msgstr "unités"
 
 #. [label]: id=upkeep-icon
 #: Archaic_Era/theme.cfg:260
-#, fuzzy
 msgid "upkeep"
-msgstr "Pas d'entretien"
+msgstr "entretien"
 
 #. [label]: id=income-icon
 #: Archaic_Era/theme.cfg:269
 msgid "income"
-msgstr ""
+msgstr "revenu"
 
 #. [unit_level]: id=unit-level
 #: Archaic_Era/theme.cfg:431
 msgid "statuspanel^level"
-msgstr ""
+msgstr "niveau"
 
 #. [unit_moves]: id=unit-moves
 #: Archaic_Era/theme.cfg:461
 msgid "statuspanel^moves"
-msgstr ""
+msgstr "mouvements"
 
 #. [unit_defense]: id=unit-defense
 #: Archaic_Era/theme.cfg:470
 msgid "statuspanel^terrain def."
-msgstr ""
+msgstr "déf. terrain"
 
 #. [unit_type]: id=Phantom Armor, race=despair
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:5
-#, fuzzy
 msgid "Stone Warrior"
 msgstr "Guerrier de pierre"
 
@@ -277,7 +272,6 @@ msgstr "..."
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:88
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:88
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:87
-#, fuzzy
 msgid "stone grip"
 msgstr "Poigne de pierre"
 
@@ -286,35 +280,31 @@ msgstr "Poigne de pierre"
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:97
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:97
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:96
-#, fuzzy
 msgid "petrifies"
 msgstr "pétrification"
 
 #. [petrifies]: id=petrifies
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:98
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:97
-#, fuzzy
 msgid ""
 "Petrify:\n"
 "This attack petrifies the target, turning it to stone. Units that have been "
 "petrified may not move or attack."
 msgstr ""
 "Pétrification :\n"
-"\tCette attaque pétrifie la cible. Les unités pétrifiées ne peuvent pas "
-"bouger ou attaquer."
+"Cette attaque pétrifie la cible, la transformant en pierre. Les unités "
+"pétrifiées ne peuvent pas bouger ou attaquer."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:106
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:106
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:105
-#, fuzzy
 msgid "stone fist"
 msgstr "Poing de pierre"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:116
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:115
-#, fuzzy
 msgid "stone blade"
 msgstr "Lame de pierre"
 
@@ -328,19 +318,17 @@ msgstr "Lame de pierre"
 #: Archaic_Era/units/despair/Phantom_Spear.cfg:85
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:116
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:124
-#, fuzzy
 msgid "hatred"
 msgstr "Haine"
 
+# http://fr.wikipedia.org/wiki/Banshee
 #. [unit_type]: id=Phantom Banshee, race=despair
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:5
-#, fuzzy
 msgid "Banshee"
 msgstr "Banshee"
 
 #. [unit_type]: id=Phantom Banshee, race=despair
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:22
-#, fuzzy
 msgid ""
 "Banshees are either the ghosts of notable or high-born ladies, or spirits "
 "interested in the lives of the high-born. Their appearance is taken as a "
@@ -355,19 +343,17 @@ msgstr ""
 #: Archaic_Era/units/despair/Phantom_Banshee.cfg:81
 #: Archaic_Era/units/despair/Phantom_White.cfg:81
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:81
-#, fuzzy
 msgid "lament"
 msgstr "Lamentation"
 
 #. [unit_type]: id=Phantom Cloak, race=despair
 #: Archaic_Era/units/despair/Phantom_Cloak.cfg:5
-#, fuzzy
 msgid "Cloak"
 msgstr "Voile"
 
+# http://fr.wikipedia.org/wiki/Dullahan
 #. [unit_type]: id=Phantom Dullohan, race=despair
 #: Archaic_Era/units/despair/Phantom_Dullohan.cfg:4
-#, fuzzy
 msgid "Dullohan"
 msgstr "Dullahan"
 
@@ -377,17 +363,15 @@ msgstr "Dullahan"
 #: Archaic_Era/units/despair/Phantom_Rider.cfg:72
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:73
 msgid "rush"
-msgstr ""
+msgstr "assaut"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Dullohan.cfg:85
-#, fuzzy
 msgid "skull"
-msgstr "Crâne"
+msgstr "crâne"
 
 #. [unit_type]: id=Phantom Fright, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:5
-#, fuzzy
 msgid "Fright"
 msgstr "Effroi"
 
@@ -397,35 +381,33 @@ msgid ""
 "The veteran Wisps are slightly stronger, but still more a part of the spirit "
 "world than this world, so their attacks are not much stronger."
 msgstr ""
+"Les volutes vétérans sont légèrement plus forts, mais bien plus encore dans "
+"le monde des esprits que sur le plan terrestre, de sorte que leurs attaques "
+"ne sont pas beaucoup plus fortes."
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:89
 #: Archaic_Era/units/despair/Phantom_Wisp.cfg:89
-#, fuzzy
 msgid "fright"
-msgstr "Effroi"
+msgstr "effroi"
 
 #. [unit_type]: id=Phantom Horseman, race=despair
 #: Archaic_Era/units/despair/Phantom_Horseman.cfg:4
-#, fuzzy
 msgid "Horseman"
 msgstr "Cavalier"
 
 #. [unit_type]: id=Phantom Master, race=despair
 #: Archaic_Era/units/despair/Phantom_Master.cfg:5
-#, fuzzy
 msgid "Master"
 msgstr "Maître"
 
 #. [unit_type]: id=Phantom Midnight, race=despair
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:5
-#, fuzzy
 msgid "Midnight Beauty"
 msgstr "Beauté nocturne"
 
 #. [unit_type]: id=Phantom Midnight, race=despair
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:113
-#, fuzzy
 msgid ""
 "Some ghosts mingle with the living during the day and evening, partaking of "
 "the life they themselves were denied. They appear as beautiful women, and "
@@ -433,7 +415,7 @@ msgid ""
 "that head into the night with one of the Midnight Beauties are never seen "
 "again."
 msgstr ""
-"Certains fantômes se mêlent aux vivant la journée et le soir, participant à "
+"Certains fantômes se mêlent aux vivants la journée et le soir, participant à "
 "la vie qui leur a été refusée. Ils apparaissent sous les traits d'une jolie "
 "femme afin de charmer les jeunes et les imprudents pour que ceux-ci les "
 "escortent chez elles la nuit. Ceux qui sont partis la nuit accompagnés d'une "
@@ -442,11 +424,10 @@ msgstr ""
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:172
 msgid "gaze"
-msgstr ""
+msgstr "regard"
 
 #. [unit_type]: id=Phantom Officer, race=despair
 #: Archaic_Era/units/despair/Phantom_Officer.cfg:4
-#, fuzzy
 msgid "Officer"
 msgstr "Officier"
 
@@ -465,28 +446,24 @@ msgstr ""
 
 #. [unit_type]: id=Phantom Rider, race=despair
 #: Archaic_Era/units/despair/Phantom_Rider.cfg:4
-#, fuzzy
 msgid "Rider"
 msgstr "Écuyer"
 
 #. [unit_type]: id=Phantom Shadow, race=despair
 #: Archaic_Era/units/despair/Phantom_Shadow.cfg:5
-#, fuzzy
 msgid "Shroud"
 msgstr "Linceul"
 
 #. [unit_type]: id=Phantom Slayer, race=despair
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:4
-#, fuzzy
 msgid "Slayer"
 msgstr "Tueur"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:85
 #: Archaic_Era/units/south-seas/Shoreman.cfg:28
-#, fuzzy
 msgid "spike"
-msgstr "Pointe"
+msgstr "pointe"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/despair/Phantom_Slayer.cfg:98
@@ -496,13 +473,11 @@ msgstr "lame"
 
 #. [unit_type]: id=Phantom Soldier, race=despair
 #: Archaic_Era/units/despair/Phantom_Soldier.cfg:4
-#, fuzzy
 msgid "Soldier"
 msgstr "Soldat"
 
 #. [unit_type]: id=Phantom Soldier, race=despair
 #: Archaic_Era/units/despair/Phantom_Soldier.cfg:19
-#, fuzzy
 msgid "Phantom Soldiers are the angry shadows of former Royal soldiers..."
 msgstr ""
 "Les soldats fantômes sont les ombres en colère des soldats royaux tombés au "
@@ -510,13 +485,11 @@ msgstr ""
 
 #. [unit_type]: id=Phantom Spearman, race=despair
 #: Archaic_Era/units/despair/Phantom_Spear.cfg:5
-#, fuzzy
 msgid "Spearman"
 msgstr "Porte-lance"
 
 #. [unit_type]: id=Phantom Spearman, race=despair
 #: Archaic_Era/units/despair/Phantom_Spear.cfg:20
-#, fuzzy
 msgid ""
 "Phantom Spearmen are the angry shadows of former Royal spearmen. Though "
 "dead, they can still learn from combat experience to become battle-hardened "
@@ -529,7 +502,6 @@ msgstr ""
 
 #. [unit_type]: id=Phantom Statue, race=despair
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:5
-#, fuzzy
 msgid "Statue"
 msgstr "Statue"
 
@@ -549,34 +521,43 @@ msgid ""
 "units will be freed upon the Statue's death, or if freed through the right-"
 "click menu option."
 msgstr ""
+"Les généraux et les nobles sont souvent représentés en statue de pierre sur "
+"leur tombe, de sorte que leur image perdure après leur mort. Parfois, si "
+"leur âme est torturée par l'injustice ou un désir de vengeance, l'effigie de "
+"pierre devient un réceptacle pour accomplir leurs tâches. Ceux qui restent "
+"empêtrés dans la statue deviennent impuissant, emprisonnés dans un corps de "
+"pierre, mais l'emprisonnement est exténuant pour le combattant de pierre.\n"
+"Remarques : Cette unité sera pétrifiée pendant les heures de jour s'il n'y a "
+"pas d'unité adjacente du même camp au début de son tour. En conséquence, "
+"elle n'est pas affectée à l'aube, au crépuscule ou la nuit. Cette unité fera "
+"également plus de dégâts à chacun de ses tours pour chaque unité pétrifiée. "
+"Les unités capturées seront libérées à la mort de la statue ou bien libérées "
+"grâce à l'option du menu clic droit."
 
 #. [petrifies]: id=aa_petrifies
 #: Archaic_Era/units/despair/Phantom_Statue.cfg:98
-#, fuzzy
 msgid ""
 "Petrify:\n"
 "This attack petrifies the target, turning it to stone. Units that have been "
 "petrified may not move or attack until the curse wears off."
 msgstr ""
 "Pétrification :\n"
-"\tCette attaque pétrifie la cible. Les unités pétrifiées ne peuvent pas "
-"bouger ou attaquer."
+"Cette attaque pétrifie la cible, la transformant en pierre. Les unités "
+"pétrifiées ne peuvent pas bouger ou attaquer jusqu'à ce que la malédiction "
+"se dissipe."
 
 #. [unit_type]: id=Phantom Stone, race=despair
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:5
-#, fuzzy
 msgid "Stone Soldier"
 msgstr "Soldat de pierre"
 
 #. [unit_type]: id=Phantom White, race=despair
 #: Archaic_Era/units/despair/Phantom_White.cfg:5
-#, fuzzy
 msgid "White Lady"
 msgstr "Dame blanche"
 
 #. [unit_type]: id=Phantom White, race=despair
 #: Archaic_Era/units/despair/Phantom_White.cfg:22
-#, fuzzy
 msgid ""
 "From a distance, a White Lady almost looks like a regular human. But up "
 "close, one can see that their skin and eyes are very pale and show no signs "
@@ -589,13 +570,11 @@ msgstr ""
 
 #. [unit_type]: id=Phantom Widow, race=despair
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:5
-#, fuzzy
 msgid "Widow"
 msgstr "Veuve"
 
 #. [unit_type]: id=Phantom Widow, race=despair
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:22
-#, fuzzy
 msgid ""
 "In the genocidal wars that occur in the harsh north, none of the defeated "
 "side is spared, not even the women and children - especially if the victors "
@@ -603,16 +582,14 @@ msgid ""
 "before the final defeat have built up a rage and sorrow that helps them "
 "persist in the spirit world."
 msgstr ""
-"Lors les guerres génocidaires qui se produisent dans le grand Nord, personne "
-"n'est épargné, pas même les femmes ou les enfants - surtout si les "
+"Lors les guerres génocidaires qui se produisent dans le Grand Nord, personne "
+"n'est épargné, pas même les femmes ou les enfants — surtout si les "
 "vainqueurs sont des orcs ou des choses plus ignobles encore. Celles qui "
-"étaient fiancées aux soldats massacrés avant la défaite finale ont "
-"développés une rage et un chagrin qui les aident à persister dans le monde "
-"des esprits."
+"étaient fiancées aux soldats massacrés avant la défaite finale ont développé "
+"une rage et un chagrin qui les aident à persister dans le monde des esprits."
 
 #. [unit_type]: id=Phantom Unease, race=despair_wisp
 #: Archaic_Era/units/despair/Phantom_Wisp.cfg:5
-#, fuzzy
 msgid "Unease"
 msgstr "Malaise"
 
@@ -629,29 +606,36 @@ msgid ""
 "Special Note:  This unit uses only one movement point per attack, rather "
 "than all of its movement points like most other units."
 msgstr ""
+"Les volutes périspritiens sont encore plus ancrés dans le monde des esprits "
+"que les autres fantômes. En conséquence, ils ont un impact très faible sur "
+"ce monde, ainsi ils font peu de dégât et sont facilement expédiés. Le revers "
+"de la médaille est qu'il y a peu d'adversaires pour limiter leur mouvement. "
+"Non seulement les volutes passent entre les failles des lignes ennemies, "
+"mais ils dépensent très peu d'énergie dans leurs attaques, de sorte qu'ils "
+"peuvent attaquer plusieurs fois par tour.\n"
+"Remarques : Cette unité utilise un seul point de mouvement par attaque, "
+"plutôt que l'ensemble de ses points de mouvement comme la plupart des autres "
+"unités."
 
+# http://fr.wikipedia.org/wiki/P%C3%A9risprit
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:5
-#, fuzzy
 msgid "race^Despair"
-msgstr "Fils du Désespoir"
+msgstr "Périsprit"
 
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:6
-#, fuzzy
 msgid "race+female^Despair"
-msgstr "Fille du Désespoir"
+msgstr "Périsprite"
 
 #. [race]: id=despair
 #: Archaic_Era/units/despair_race.cfg:7
-#, fuzzy
 msgid "race+plural^Despair"
-msgstr "Fille du Désespoir"
+msgstr "Périsprits"
 
 #. [race]: id=despair
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/despair_race.cfg:10 Archaic_Era/units/phantom_race.cfg:11
-#, fuzzy
 msgid ""
 "As Huric's rule came to a close and the orcs began reclaiming Ukian "
 "territory, many of the human forces were slain. Somehow the dead continue to "
@@ -660,30 +644,26 @@ msgid ""
 msgstr ""
 "La fin du règne d'Huric et le début des revendications des orcs sur Ukiah "
 "ont causé la mort de nombreux soldats humains. Les morts parcourent encore "
-"la tundra, mais ils ne sont pas les esclaves des pratiquants de la "
+"la toundra, mais ils ne sont pas les esclaves des pratiquants de la "
 "nécromancie. Ils sont en fait les esclaves de leur propre désir de vengeance."
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:16
-#, fuzzy
 msgid "race^Wisp"
 msgstr "Volute"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:17
-#, fuzzy
 msgid "race+female^Wisp"
 msgstr "Volute"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:18
-#, fuzzy
 msgid "race^Wisps"
 msgstr "Volutes"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:5
-#, fuzzy
 msgid "Adamantine"
 msgstr "Adamantine"
 
@@ -696,7 +676,6 @@ msgstr "Adamantine"
 #: Archaic_Era/units/khthon/Rock.cfg:19 Archaic_Era/units/khthon/Rock.cfg:152
 #: Archaic_Era/units/khthon/Snapper.cfg:19
 #: Archaic_Era/units/khthon/Snapper.cfg:152
-#, fuzzy
 msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
@@ -707,13 +686,11 @@ msgstr ""
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:138
-#, fuzzy
 msgid "Adamantine (Hiding)"
 msgstr "Adamantine (cachée)"
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:156
-#, fuzzy
 msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
@@ -724,20 +701,18 @@ msgstr ""
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:5
-#, fuzzy
 msgid "Arctic Wolf"
 msgstr "Loup arctique"
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:18
-#, fuzzy
 msgid ""
 "Arctic wolves are adapted to life on the tundra. They are probably related "
 "to the domesticated Ukian dogs, but they are significantly larger. Usually, "
 "they do not attack groups of armed humans, but they have been behaving "
 "strangely as of late..."
 msgstr ""
-"Les loups arctiques sont adaptés à la vie dans la tundra. Ils sont très "
+"Les loups arctiques sont adaptés à la vie dans la toundra. Ils sont très "
 "probablement apparentés aux chiens ukiens domestiques, mais ils sont "
 "beaucoup plus grands. Normalement, ils ne s'attaquent pas à des groupes "
 "d'hommes armés, mais leur comportement est étrange ces derniers temps..."
@@ -749,12 +724,11 @@ msgstr "Cheval"
 
 #. [unit_type]: id=Horse, race=khthon
 #: Archaic_Era/units/khthon/Horse.cfg:18
-#, fuzzy
 msgid ""
 "Horses are strong and fast, but fragile. They do not usually attack people "
 "though, so something is wrong..."
 msgstr ""
-"Les chevaux sont forts et rapides mais fragiles. Ils ne s'attaquent pas aux "
+"Les chevaux sont forts et rapides, mais fragiles. Ils ne s'attaquent pas aux "
 "gens d'habitude, donc quelque chose ne va pas..."
 
 #. [attack]: type=impact
@@ -765,26 +739,25 @@ msgstr ""
 #: Archaic_Era/units/khthon/Pegusa.cfg:33
 #: Archaic_Era/units/khthon/Taraxippon.cfg:57
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:40
-#, fuzzy
 msgid "kick"
 msgstr "ruade"
 
 #. [unit_type]: id=Hypergusa, race=khthon
 #: Archaic_Era/units/khthon/Hypergusa.cfg:5
-#, fuzzy
 msgid "Hypergusa"
-msgstr "Hyperguse"
+msgstr "Grand-Pégase"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Hypergusa.cfg:49
 #: Archaic_Era/units/khthon/Pegusa.cfg:42
 msgid "spit"
-msgstr ""
+msgstr "crachat"
 
+# http://fr.wikipedia.org/wiki/Incitatus
 #. [unit_type]: id=Ipoten, race=khthon
 #: Archaic_Era/units/khthon/Ipoten.cfg:5
 msgid "Ipoten"
-msgstr ""
+msgstr "Incitatus"
 
 #. [unit_type]: id=Ipoten, race=khthon
 #: Archaic_Era/units/khthon/Ipoten.cfg:21
@@ -792,12 +765,14 @@ msgid ""
 "Ipoten maintain their unusual interest in the arcane arts, an observer could "
 "mistakenly assign human motives to their behaviour."
 msgstr ""
+"Les Incitatus maintiennent leur intérêt inhabituel pour les arts des "
+"arcanes, un observateur pourrait attribuer par erreur une motivation humaine "
+"à leur comportement."
 
 #. [unit_type]: id=KatobleponMagnum, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:5
-#, fuzzy
 msgid "Katoblepon-Magnum"
-msgstr "Grand Catoblépas"
+msgstr "Grand-Catoblépas"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:48
@@ -807,24 +782,22 @@ msgstr "Grand Catoblépas"
 #: Archaic_Era/units/orcs/Destrier.cfg:39
 #: Archaic_Era/units/orcs/Oxrider.cfg:33
 msgid "head"
-msgstr ""
+msgstr "pointe"
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:60
 #: Archaic_Era/units/khthon/Katoblepon.cfg:60
-#, fuzzy
 msgid "breath"
 msgstr "Souffle"
 
+# http://fr.wikipedia.org/wiki/Catobl%C3%A9pas
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:5
-#, fuzzy
 msgid "Katoblepon"
 msgstr "Catoblépas"
 
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:20
-#, fuzzy
 msgid ""
 "The Khthon spirit has begun to transform its hoofed victim. Though it "
 "usually keeps its head down as if grazing, it can lift it to attack with a "
@@ -837,36 +810,34 @@ msgstr ""
 #. [unit_type]: id=Khalkotaurus, race=khthon
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:5
 msgid "Khalkotaurus"
-msgstr ""
+msgstr "Khalkotaurus"
 
 #. [unit_type]: id=Khalkotaurus, race=khthon
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:20
 msgid "The Khalkotaurus is a massive beast, woe to those who stumble upon it."
 msgstr ""
+"Le Khalkotaurus est une bête massive, malheur à ceux qui trébuchent devant "
+"lui."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:33
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:33
 #: Archaic_Era/units/khthon/Ophis.cfg:32 Archaic_Era/units/khthon/Yak.cfg:30
-#, fuzzy
 msgid "horns"
-msgstr "Cornes"
+msgstr "cornes"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:45
-#, fuzzy
 msgid "claws"
-msgstr "Griffes"
+msgstr "griffes"
 
 #. [unit_type]: id=Nightmare, race=khthon
 #: Archaic_Era/units/khthon/Nightmare.cfg:5
-#, fuzzy
 msgid "Nightmare"
 msgstr "Cauchemar"
 
 #. [unit_type]: id=Nightmare, race=khthon
 #: Archaic_Era/units/khthon/Nightmare.cfg:21
-#, fuzzy
 msgid ""
 "Contrary to what one might expect of a plague, Khthon do have individual "
 "personalities and some are more otherworldly than others. While they do not "
@@ -878,18 +849,16 @@ msgstr ""
 "possède sa propre personnalité et certains sont plus intéressés par l'au-"
 "delà que les autres. Bien que n'utilisant pas les grimoires et les philtres "
 "des nécromanciens, les assoiffés de connaissances sont attirés par les "
-"mystères des fantômes et des esprits et ont réussit à maîtriser certaines "
-"techniques de combat des mort-vivants."
+"mystères des fantômes et des esprits et on réussit à maîtriser certaines "
+"techniques de combat des morts-vivants."
 
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:5
-#, fuzzy
 msgid "Ophis-Magnum"
-msgstr "Grand Ophis"
+msgstr "Grand-Ophis"
 
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:20
-#, fuzzy
 msgid ""
 "This beast is massive and is covered in thick scales and hide, so it can "
 "absorb much damage. The Khthon has mastered its hosts body perfectly, so it "
@@ -901,13 +870,11 @@ msgstr ""
 
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:5
-#, fuzzy
 msgid "Ophis"
 msgstr "Ophis"
 
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:19
-#, fuzzy
 msgid ""
 "The Khthon spirit has begun to transform its bovine victim. The hindquarters "
 "become more snake-like, and the coil increases the strike range. The "
@@ -919,15 +886,14 @@ msgstr ""
 "portée d'attaque. La combinaison des sabots et de la queue de serpent lui "
 "permet aussi de ramper rapidement sur presque tout type de terrain."
 
+# http://fr.wikipedia.org/wiki/Orthos
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:5
-#, fuzzy
 msgid "Orthrus"
-msgstr "Orthrus"
+msgstr "Orthros"
 
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:19
-#, fuzzy
 msgid ""
 "The Khthon spirit has begun to truely transform its canine victim. The "
 "animal's mind is gone, the head only serves as housing for sensors (eye, "
@@ -939,17 +905,18 @@ msgstr ""
 "L'esprit de l'animal est parti et la tête sert seulement à accueillir des "
 "capteurs (les yeux, la truffe et les oreilles) et des armes (les dents). Une "
 "deuxième tête permet d'obtenir un plus grand champ de vision et plus de "
-"dents."
+"dents. L'armure autour du cou s'est développée plus épaisse et tandis que "
+"les cornes blindées ne sont pas aussi solide que l'acier, elles sont "
+"beaucoup plus légère."
 
+# http://fr.wikipedia.org/wiki/P%C3%A9gase
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:5
-#, fuzzy
 msgid "Pegusa"
-msgstr "Péguse"
+msgstr "Pégusa"
 
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:18
-#, fuzzy
 msgid ""
 "The Khthon spirit has begun to transform its equine victim. Salivary glands "
 "can now produce a spittle that is thick and adhesive, which can cause quite "
@@ -961,7 +928,6 @@ msgstr ""
 
 #. [unit_type]: id=Prokyon, race=khthon
 #: Archaic_Era/units/khthon/Prokyon.cfg:5
-#, fuzzy
 msgid "Prokyon"
 msgstr "Prokyon"
 
@@ -972,10 +938,12 @@ msgid ""
 "horn-like armor, made out of the same material as the animal's bristles and "
 "hair, grows to turn the wolf into a Khthon cavalry."
 msgstr ""
+"Les Prokyons sont la première modification majeure sur le loup par les "
+"chthoniens. Une armure en forme de corne, faite du même matériau que les "
+"poils et les cheveux, ce qui les amène dans la cavalerie chthonienne."
 
 #. [unit_type]: id=Pyradalon, race=khthon
 #: Archaic_Era/units/khthon/Pyradalon.cfg:5
-#, fuzzy
 msgid "Pyradalon"
 msgstr "Pyrodalon"
 
@@ -986,54 +954,50 @@ msgstr "Bélier"
 
 #. [unit_type]: id=Ram, race=khthon
 #: Archaic_Era/units/khthon/Ram.cfg:18
-#, fuzzy
 msgid ""
 "Sheep grow long hair that allows them to survive the cold. They don't "
 "usually attack humans, but these rams appear to have been possessed..."
 msgstr ""
 "Les moutons portent une laine épaisse qui leur permet de survivre au froid. "
-"Il n'attaquent pas les humains d'habitude, mais ces béliers semblent être "
+"Ils n'attaquent pas les humains d'habitude, mais ces béliers semblent être "
 "possédés..."
 
+# http://fr.wikipedia.org/wiki/Geochelone
 #. [unit_type]: id=Rockback, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:5
 msgid "Rock Back"
-msgstr ""
+msgstr "Geochelone"
 
 #. [unit_type]: id=Rockback_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:136
-#, fuzzy
 msgid "Rock Back (Hiding)"
-msgstr "Tortue serpentine (cachée)"
+msgstr "Geochelone (cachée)"
 
 #. [unit_type]: id=Snapper, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:5
-#, fuzzy
 msgid "Bone Snapper"
 msgstr "Tortue serpentine"
 
 #. [unit_type]: id=Snapper_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:136
-#, fuzzy
 msgid "Bone Snapper (Hiding)"
 msgstr "Tortue serpentine (cachée)"
 
 #. [unit_type]: id=BMR Spark, race=mechanical
 #: Archaic_Era/units/khthon/Spark.cfg:4
-#, fuzzy
 msgid "Spark"
-msgstr "Éclat lumineux"
+msgstr "Étincelle"
 
 #. [unit_type]: id=BMR Spark, race=mechanical
 #: Archaic_Era/units/khthon/Spark.cfg:18
-#, fuzzy
 msgid "A spark of light..."
-msgstr "Un éclat de lumière..."
+msgstr "Une étincelle de lumière..."
 
+# http://fr.wikipedia.org/wiki/Taraxippos
 #. [unit_type]: id=Taraxippon, race=khthon
 #: Archaic_Era/units/khthon/Taraxippon.cfg:5
 msgid "Taraxippon"
-msgstr ""
+msgstr "Taraxippon"
 
 #. [unit_type]: id=Taraxippon, race=khthon
 #: Archaic_Era/units/khthon/Taraxippon.cfg:21
@@ -1041,10 +1005,11 @@ msgid ""
 "Taraxippon move about in the night as if ghosts, rather than the monsters "
 "they are."
 msgstr ""
+"Les Taraxippons se déplacent dans la nuit, plus comme des fantômes que comme "
+"les monstres qu'ils sont."
 
 #. [unit_type]: id=Terrapin, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:5
-#, fuzzy
 msgid "Terrapin"
 msgstr "Tortue"
 
@@ -1052,7 +1017,6 @@ msgstr "Tortue"
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:20
 #: Archaic_Era/units/khthon/Terrapin.cfg:115
-#, fuzzy
 msgid ""
 "The terrapin can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
@@ -1063,15 +1027,13 @@ msgstr ""
 
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:99
-#, fuzzy
 msgid "Terrapin (Hiding)"
 msgstr "Tortue (cachée)"
 
 #. [unit_type]: id=Timber Wolf, race=khthon
 #: Archaic_Era/units/khthon/Timber_Wolf.cfg:5
-#, fuzzy
 msgid "Timber Wolf"
-msgstr "Loup gris"
+msgstr "Loup des bois"
 
 #. [unit_type]: id=Timber Wolf, race=khthon
 #: Archaic_Era/units/khthon/Timber_Wolf.cfg:20
@@ -1080,6 +1042,10 @@ msgid ""
 "as of late. While not particularly strong, they are fast and can strike with "
 "enough skill to successfully kill a moderately armed man."
 msgstr ""
+"Les loups des bois ont toujours été une menace, mais ils sont plus agressifs "
+"ces derniers temps. Bien que n'étant pas particulièrement forts, ils sont "
+"rapides et peuvent frapper suffisamment bien pour réussir à tuer un homme "
+"modérément armé."
 
 #. [unit_type]: id=Yak, race=khthon
 #: Archaic_Era/units/khthon/Yak.cfg:5
@@ -1088,37 +1054,32 @@ msgstr "Yack"
 
 #. [unit_type]: id=Yak, race=khthon
 #: Archaic_Era/units/khthon/Yak.cfg:20
-#, fuzzy
 msgid ""
 "At various times, yaks have been used as beasts of burden because they are "
 "sturdy and do not mind the cold. It is a little odd that they have become so "
 "aggressive as of late."
 msgstr ""
-"Les yacks ont été utilisés durant diverses époques comme bête de somme car "
+"Les yacks ont été utilisés durant diverses époques comme bête de somme, car "
 "ils sont robustes et ne craignent pas le froid. C'est un peu étrange qu'ils "
 "soient devenus si agressifs ces derniers temps."
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:5
-#, fuzzy
 msgid "race^Khthon"
 msgstr "Chthonien"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:6
-#, fuzzy
 msgid "race+female^Khthon"
 msgstr "Chthonienne"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:7
-#, fuzzy
 msgid "race+plural^Khthon"
-msgstr "Chthonienne"
+msgstr "Chthoniens"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:9
-#, fuzzy
 msgid ""
 "These ancient enemies of the Primeval Forces are difficult to comprehend. "
 "They are best described as spirits that animate the bodies of victims, and "
@@ -1129,30 +1090,26 @@ msgstr ""
 "Ces anciens ennemis des forces ouraniennes sont difficiles à appréhender. "
 "Ils sont le mieux décrit comme des esprits animant les corps de leurs "
 "victimes et leur faisant lentement subir des transformations. Les forces "
-"ouraniennes ont développées une immunité contre ceci, mais les habitants "
-"plus récents du continent (à l'exception des non-vivants) sont vulnérables."
+"ouraniennes ont développé une immunité contre ceci, mais les habitants plus "
+"récents du continent (à l'exception des non-vivants) sont vulnérables."
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:15
-#, fuzzy
 msgid "race^Lesser Khthon"
 msgstr "Chthonien inférieur"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:16
-#, fuzzy
 msgid "race+female^Lesser Khthon"
 msgstr "Chthonienne inférieure"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:17
-#, fuzzy
 msgid "race+plural^Lesser Khthon"
-msgstr "Chthonienne inférieure"
+msgstr "Chthoniens inférieurs"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:20
-#, fuzzy
 msgid ""
 "Lesser Khthon are the immature spawn of Khthon. They cannot spread more of "
 "their kind yet, but they can independently control the mind of their victims."
@@ -1161,22 +1118,21 @@ msgstr ""
 "ne peuvent pas encore engendrer d'autre chthoniens, mais ils contrôlent "
 "l'esprit de leurs victimes."
 
+# http://fr.wikipedia.org/wiki/Thrall
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:25
-#, fuzzy
 msgid "race^Thrall"
-msgstr "Ouranien"
+msgstr "Thrall"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:26
-#, fuzzy
 msgid "race+female^Thrall"
-msgstr "Ouranienne"
+msgstr "Thrall"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:27
 msgid "race+plural^Thrall"
-msgstr ""
+msgstr "Thralls"
 
 #. [race]: id=thrall_khthon
 #: Archaic_Era/units/khthon_race.cfg:30
@@ -1185,12 +1141,14 @@ msgid ""
 "from their former existence, but they have no memories and no possiblity of "
 "a future.  They are a form of walking dead."
 msgstr ""
+"Les thralls chthoniens sont des outils stupides, ils ont une mémoire "
+"mécanique et les compétences de leur ancienne existence, mais ils n'ont "
+"aucun souvenir et aucun avenir. Ils sont une forme de morts-vivants."
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
 #: Archaic_Era/units/orcs/Cavalry.cfg:5
-#, fuzzy
 msgid "Cavalry"
-msgstr "Cavalerie"
+msgstr "Cavalier"
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
 #: Archaic_Era/units/orcs/Cavalry.cfg:19
@@ -1201,12 +1159,17 @@ msgid ""
 "of a respected class that can stay somewhat above the rat race that other "
 "orcs must engage in."
 msgstr ""
+"Les monteurs les plus expérimentés ont acquis une meilleure armure et ont "
+"également appris à leur monture à ne pas se faire transpercer de travers. En "
+"raison de leurs compétences et leur utilité sur le champ de bataille, les "
+"cavaliers vétérans sont membres d'une classe respectée qui peut rester un "
+"peu au-dessus de la foire d'empoigne pendant que les autres orcs s'engagent."
 
+# http://fr.wikipedia.org/wiki/Cuirassier
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:5
-#, fuzzy
 msgid "Destrier"
-msgstr "Destrier"
+msgstr "Cuirassier"
 
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:20
@@ -1217,10 +1180,15 @@ msgid ""
 "not try to become warlords, but seek warlord patrons who will pay their "
 "upkeep in exchange for the long and strong arm they can provide."
 msgstr ""
+"Les membres de l'élite de la cavalerie orc ont atteint un haut niveau de "
+"prouesses et de notoriété sur le champ de bataille, mais ils sont coûteux à "
+"entretenir à la fois pour l'orc et la monture qui doivent être en excellente "
+"forme physique. En conséquence, ils ne cherchent pas à devenir des chefs de "
+"guerre, mais cherchent des seigneurs de la guerre mécènes qui vont payer "
+"leur entretien en échange des bras longs et vigoureux qu'ils peuvent fournir."
 
 #. [unit_type]: id=Orcish Firebreather, race=orc
 #: Archaic_Era/units/orcs/Firebreather.cfg:4
-#, fuzzy
 msgid "Orcish Firebreather"
 msgstr "Cracheur de feu orc"
 
@@ -1234,16 +1202,21 @@ msgid ""
 "whatever light oils were available and spitting through their torch, into "
 "the face of their opponent. Hence the name, 'Firebreather'."
 msgstr ""
+"Après une certaine expérience au maniement d'une torche comme une arme, "
+"l'incendiaire de niveau supérieur a recherché un autre avantage à exploiter. "
+"Les orcs ne sont pas connus pour réfléchir aux conséquences à long terme de "
+"leurs actions sur la santé, de sorte que l'incendiaire de niveau supérieur "
+"n'a pas de doute sur le fait de remplir sa bouche de pétrole léger à sa "
+"disposition et de le cracher à travers sa torche, dans le visage de son "
+"adversaire. D'où le nom, « Cracheur de feu »."
 
 #. [attack]: type=fire
 #: Archaic_Era/units/orcs/Firebreather.cfg:122
-#, fuzzy
 msgid "fire"
 msgstr "feu"
 
 #. [unit_type]: id=Orcish Fireline, race=orc
 #: Archaic_Era/units/orcs/Fireline.cfg:14
-#, fuzzy
 msgid "Orcish Fireline"
 msgstr "Incendiaire orc"
 
@@ -1256,12 +1229,17 @@ msgid ""
 "knew nothing of the long range communication, but found the torch and blade "
 "combination could indeed be effective."
 msgstr ""
+"Les incendiaires orcs sont un développement qui est né de la course aux "
+"armements entre les Orismer et les Ukiens. Le corps de transmission ukien "
+"combine une torche et une hache à la fois pour la communication à longue "
+"distance et pour diversifier leur armement. Les orcs ne savaient rien de la "
+"communication à longue distance, mais ils ont trouvé que la combinaison "
+"d'une torche et d'une lame était plutôt efficace."
 
 #. [unit_type]: id=Orcish Foreman, race=orc
 #: Archaic_Era/units/orcs/Foreman.cfg:5
-#, fuzzy
 msgid "Orcish Foreman"
-msgstr "Incendiaire orc"
+msgstr "Contremaître orc"
 
 #. [unit_type]: id=Orcish Foreman, race=orc
 #: Archaic_Era/units/orcs/Foreman.cfg:20
@@ -1271,12 +1249,15 @@ msgid ""
 "strong can advance to be leaders amongst their own kind, and organize the "
 "serfs into functional working crews."
 msgstr ""
+"Les Gobelins peuvent être confinés dans le travail par la force, mais cela "
+"ne fonctionne pas aussi bien avec les orcs. Les serfs ne seront jamais "
+"guerriers, mais les plus forts peuvent devenir des leaders parmi leur propre "
+"espèce et organiser les serfs dans des équipes de travail fonctionnelles."
 
 #. [unit_type]: id=Orcish Overseer, race=orc
 #: Archaic_Era/units/orcs/Overseer.cfg:5
-#, fuzzy
 msgid "Orcish Overseer"
-msgstr "Terreur orc"
+msgstr "Surveillant Orc"
 
 #. [unit_type]: id=Orcish Overseer, race=orc
 #: Archaic_Era/units/orcs/Overseer.cfg:21
@@ -1286,16 +1267,18 @@ msgid ""
 "and Grunts grudgingly admit their value and will fall in line when "
 "circumstances of battle call for it."
 msgstr ""
+"Les plus forts des travailleurs orcs ont dû prouver leurs capacités à la "
+"fois à être des chefs de file et à repousser leurs rivaux. Même les "
+"guerriers orcs et les grognards admettent à contrecœur leur valeur et les "
+"alignent dans leur rang lorsque les circonstances de la bataille l'exigent."
 
 #. [unit_type]: id=Orcish Rider, race=orc
 #: Archaic_Era/units/orcs/Oxrider.cfg:5
-#, fuzzy
 msgid "Orcish Rider"
-msgstr "Cavalier orc"
+msgstr "Monteur orc"
 
 #. [unit_type]: id=Orcish Rider, race=orc
 #: Archaic_Era/units/orcs/Oxrider.cfg:19
-#, fuzzy
 msgid ""
 "Despite their reputation for stupidity, the orcs are able to learn tactics "
 "from their enemy. The more observant orcs note the utility of the human "
@@ -1304,14 +1287,13 @@ msgid ""
 msgstr ""
 "Malgré leur stupidité réputée, les orcs sont capables d'apprendre des "
 "tactiques de leurs adversaires. Les plus fins observateurs orcs ont noté "
-"l'utilité de la cavalerie humaines ainsi que le fait que certains grands "
+"l'utilité de la cavalerie humaine ainsi que le fait que certains grands "
 "animaux n'ont aucun problème à garder leur allure sur la neige."
 
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:5
-#, fuzzy
 msgid "Orcish Raider"
-msgstr "Pilleur orc"
+msgstr "Pillard orc"
 
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:20
@@ -1321,6 +1303,11 @@ msgid ""
 "to them by the shamans, designed to ward off the poisons and chills often "
 "employed by certain of the enemy."
 msgstr ""
+"Les pillards portent un masque en bronze effrayant pour paraître plus "
+"redoutables aux yeux des humains facilement impressionnés. Ils portent aussi "
+"un grand nombre de colifichets qui leur sont donnés par les chamans et qui "
+"visent à repousser les poisons et les attaques glaciales souvent employées "
+"par certains ennemis."
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Raider.cfg:38
@@ -1329,9 +1316,8 @@ msgstr "fouet"
 
 #. [unit_type]: id=Orcish Serf, race=orc
 #: Archaic_Era/units/orcs/Serf.cfg:5
-#, fuzzy
 msgid "Orcish Serf"
-msgstr "Cavalier orc"
+msgstr "Serf orc"
 
 #. [unit_type]: id=Orcish Serf, race=orc
 #: Archaic_Era/units/orcs/Serf.cfg:20
@@ -1344,10 +1330,17 @@ msgid ""
 "type is seen more frequently in regions more firmly under orcish control, "
 "such as the Northlands."
 msgstr ""
+"Les serfs sont un peu moins massifs de taille que les grognards, mais ce "
+"sont encore des combattants redoutables. Bien que la plupart des travaux "
+"peuvent être faits par des gobelins, des projets qui doivent être accomplis "
+"sur un strict calendrier ou sous une plus grande menace, tels que la "
+"confiscation du bois ou la construction d'une forteresse de première ligne, "
+"sont effectués par les mains plus fortes de ces orcs. Ce type est observé "
+"plus fréquemment dans les régions plus fermement sous le contrôle des orcs, "
+"telles que les pays du nord."
 
 #. [unit_type]: id=Stork Master, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Master.cfg:4
-#, fuzzy
 msgid "Stork Master"
 msgstr "Maître des cigognes"
 
@@ -1357,10 +1350,12 @@ msgid ""
 "As time goes by, the bird and goblin come to understand each other, so that "
 "their movement and response is better coordinated."
 msgstr ""
+"Comme le temps passe, l'oiseau et le gobelin viennent à se comprendre "
+"mutuellement, de sorte que leurs mouvements et leur réaction sont mieux "
+"coordonnés."
 
 #. [unit_type]: id=Stork Rider, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:4
-#, fuzzy
 msgid "Marabou Stork"
 msgstr "Monteur de cigogne"
 
@@ -1377,10 +1372,19 @@ msgid ""
 "and oily feathers allow the bird and rider to traverse water terrain with "
 "great ease."
 msgstr ""
+"Les monteurs de cigognes sont les charognards à tête blanche. Une variété "
+"avec beaucoup plus de plumes vit dans le Nord, suivant les tribus orcs, "
+"festoyant sur les cadavres et les carcasses abandonnés par les pillards "
+"orcs. Tout comme les monteurs de loups, des gobelins essaient d'échapper à "
+"leur sort pitoyable et de maîtriser le ciel sur le dos d'un de ces animaux. "
+"Bien sûr, les oiseaux ne veulent pas voler avec un autre animal sur leur "
+"dos, mais au fil du temps, les oiseaux apprennent qu'il y a un peu plus de "
+"nourriture pour eux s'ils tolèrent le monteur. Leurs longs pieds et leurs "
+"plumes huileuses permettent à l'oiseau et à son cavalier de traverser les "
+"terrains nautiques avec une grande facilité."
 
 #. [unit_type]: id=Orcish Terror, race=orc
 #: Archaic_Era/units/orcs/Terror.cfg:5
-#, fuzzy
 msgid "Orcish Terror"
 msgstr "Terreur orc"
 
@@ -1394,35 +1398,37 @@ msgid ""
 "for not using a blade like a real orc, he modifies his weapon, and wishes he "
 "thought to do this sooner."
 msgstr ""
+"La Terreur a ajouté des cornes sur son masque et son casque, parce qu'ils "
+"semblent effrayer les humains. La Terreur a également passé assez de temps "
+"dans les villes et les bourgs pour avoir pris conscience de la façon "
+"d'utiliser l'environnement à son avantage. Fatigué d'être enragé, il a "
+"obtenu de ses camarades guerriers de ne pas utiliser sa lame comme un "
+"véritable orc, il modifie son arme et se demande pourquoi il ne l'a pas fait "
+"plus tôt."
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Terror.cfg:38
-#, fuzzy
 msgid "cat-of-nine-tails"
 msgstr "chat à neuf queues"
 
 #. [unit_type]: id=Spirit Dove, race=phantom_spirit
 #: Archaic_Era/units/phantom/Spirit_Dove.cfg:4
-#, fuzzy
 msgid "Sprit Dove"
 msgstr "Esprit de colombe"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Spirit_Dove.cfg:81
 #: Archaic_Era/units/phantom/Spirit_Jay.cfg:82
-#, fuzzy
 msgid "talon"
-msgstr "Serre"
+msgstr "serre"
 
 #. [unit_type]: id=Spirit Jay, race=phantom_spirit
 #: Archaic_Era/units/phantom/Spirit_Jay.cfg:4
-#, fuzzy
 msgid "Sprit Jay"
 msgstr "Esprit de geai"
 
 #. [unit_type]: id=Tomb Archer, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Archer.cfg:4
-#, fuzzy
 msgid "Archer"
 msgstr "Archer"
 
@@ -1433,13 +1439,11 @@ msgstr "arc"
 
 #. [unit_type]: id=Tomb Dancer, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Feather.cfg:4
-#, fuzzy
 msgid "Feather Dancer"
-msgstr "Danseur emplumé"
+msgstr "Danseur-emplumé"
 
 #. [unit_type]: id=Tomb Guard, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Guardian.cfg:4
-#, fuzzy
 msgid "Tomb Guard"
 msgstr "Gardien de tombeau"
 
@@ -1448,70 +1452,61 @@ msgstr "Gardien de tombeau"
 #: Archaic_Era/units/phantom/Tomb_Guardian.cfg:84
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:94
 #: Archaic_Era/units/phantom/Tomb_Sentinel.cfg:84
-#, fuzzy
 msgid "glance"
-msgstr "Coup d'œil"
+msgstr "coup d'œil"
 
 #. [unit_type]: id=Tomb HighArcher, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:4
-#, fuzzy
 msgid "High Archer"
-msgstr "Haut archer"
+msgstr "Grande-Archère"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:92
-#, fuzzy
 msgid "blessed missile"
-msgstr "Projectile bénit"
+msgstr "projectile bénit"
 
 #. [unit_type]: id=Tomb Huntress, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Huntress.cfg:4
-#, fuzzy
 msgid "Huntress"
 msgstr "Chasseresse"
 
 #. [unit_type]: id=Tomb Master, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:4
-#, fuzzy
 msgid "Wing Master"
-msgstr "Maître ailé"
+msgstr "Maître-ailé"
 
+# http://fr.wikipedia.org/wiki/Kopis
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:78
 #: Archaic_Era/units/phantom/Tomb_Wing.cfg:77
-#, fuzzy
 msgid "kopis"
-msgstr "Kopis"
+msgstr "kopis"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:90
 msgid "claw"
-msgstr ""
+msgstr "griffe"
 
 #. [unit_type]: id=Mummy King, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:4
-#, fuzzy
 msgid "Mummy Noble"
-msgstr "Noble momifié"
+msgstr "Momie Noble"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:75
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:76
-#, fuzzy
 msgid "sceptre"
-msgstr "Sceptre"
+msgstr "sceptre"
 
 #. [unit_type]: id=Mummy Pharo, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:4
-#, fuzzy
 msgid "Mummy Pharo"
-msgstr "Pharaon momifié"
+msgstr "Momie pharaonique"
 
 #. [unit_type]: id=Mummy Unbound, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Unbound.cfg:4
-#, fuzzy
 msgid "Mummy Unbound"
-msgstr "Momie déchaînée"
+msgstr "Momie désincarnée"
 
 #. [unit_type]: id=Tomb Mummy, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy.cfg:4
@@ -1520,25 +1515,22 @@ msgstr "Momie"
 
 #. [unit_type]: id=Tomb Protector, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:4
-#, fuzzy
 msgid "Tomb Protector"
 msgstr "Protecteur de tombeau"
 
+# http://fr.wikipedia.org/wiki/Kh%C3%A9pesh
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:85
-#, fuzzy
 msgid "khopesh"
-msgstr "Khépesh"
+msgstr "khépesh"
 
 #. [unit_type]: id=Tomb Sentinel, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Sentinel.cfg:4
-#, fuzzy
 msgid "Tomb Sentinel"
 msgstr "Sentinelle de tombeau"
 
 #. [unit_type]: id=Tomb Shade, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Shade.cfg:131
-#, fuzzy
 msgid "Vapor"
 msgstr "Vapeur"
 
@@ -1553,54 +1545,55 @@ msgid ""
 "engage the enemy for two turns.  It will not automatically die if it is hit "
 "by a defender's retaliation."
 msgstr ""
+"La vapeur peut prendre la forme d'un vrai combattant, mais la déception est "
+"évidente quand l'adversaire attaque et que la vapeur se dissipe. La vapeur "
+"perd également son but et son intégrité si elle ne s'engage pas contre son "
+"ennemi.\n"
+"Remarque : Le fantôme généré à partir cette unité va mourir lorsqu'il sera "
+"frappé par un attaquant, indépendamment de ses points de vie. Il va "
+"également mourir s’il ne participe pas à l'attaque d'un ennemi pendant deux "
+"tours. S’il est frappé par les représailles d'un défenseur, cela "
+"n'entraînera pas automatiquement sa mort."
 
 #. [unit_type]: id=Tomb Stalker, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Stalker.cfg:4
-#, fuzzy
 msgid "Stalker"
-msgstr "Rôdeur"
+msgstr "Traqueuse"
 
 #. [unit_type]: id=Tomb Wing, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Wing.cfg:4
-#, fuzzy
 msgid "Wing Dancer"
-msgstr "Danseur ailé"
+msgstr "Danseur-ailé"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:6
-#, fuzzy
 msgid "race^Phantom"
 msgstr "Fantôme"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:7
-#, fuzzy
 msgid "race+female^Phantom"
 msgstr "Fantôme"
 
 #. [race]: id=phantom_wales
 #: Archaic_Era/units/phantom_race.cfg:8
-#, fuzzy
 msgid "race^Phantoms"
-msgstr "Fantôme"
+msgstr "Fantômes"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:17
-#, fuzzy
 msgid "race^Ancient Phantom"
 msgstr "Fantôme antique"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:18
-#, fuzzy
 msgid "race+female^Ancient Phantom"
 msgstr "Fantôme antique"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:19
-#, fuzzy
 msgid "race^Ancient Phantoms"
-msgstr "Fantôme antique"
+msgstr "Fantômes antique"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:25
@@ -1611,6 +1604,11 @@ msgid ""
 "Heru, Horemheb, Idogbe, Ishaq, Jabari, Jumoke, Kek, Khalfani, Khnurun, "
 "Lateef, Makalani, Manu, Matsimela, Menkaura"
 msgstr ""
+"Abasi, Abayomi, Adio, Adofo, Akhenaten, Akiiki, Amenhotep, Azibo, Baba, "
+"Badru, Bakari, Bomani, Chatuluka, Cheops, Chigaru, Dakarai, Darius, "
+"Darwishi, Donkor, Edfu, Fadil, Gahigi, Garai, Hamadi, Hanif, Hapu, Hasani, "
+"Heru, Horemheb, Idogbe, Ishaq, Jabari, Jumoke, Kek, Khalfani, Khnurun, "
+"Lateef, Makalani, Manu, Matsimela, Menkaura"
 
 #. [race]: id=phantom_egypt
 #: Archaic_Era/units/phantom_race.cfg:26
@@ -1621,45 +1619,47 @@ msgid ""
 "Lapis, Layla, Lotus, Mafuane, Maibe, Mandisa, Meht Urt, Mert Ekert, "
 "Meskhenet, Nathifa, Nefertiti"
 msgstr ""
+"Acenath, Ain, Akila, Anippe, Aziza, Bahiti, Bastet, Bennu, Chione, Dalila, "
+"Dendera, Eboni, Eshe, Fukayana, Habibah, Halima, Haqika, Hasina, Hathor, "
+"Hatsheput, Heqet, Ife, Jamila, Jendaya, Kakra, Kanika, Kesi, Khepri, Kissa, "
+"Lapis, Layla, Lotus, Mafuane, Maibe, Mandisa, Meht Urt, Mert Ekert, "
+"Meskhenet, Nathifa, Nefertiti"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:31
-#, fuzzy
 msgid "race^Ancient Spirit"
 msgstr "Esprit antique"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:32
-#, fuzzy
 msgid "race+female^Ancient Spirit"
 msgstr "Esprit antique"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:33
-#, fuzzy
 msgid "race^Ancient Spirits"
-msgstr "Esprit antique"
+msgstr "Esprits antique"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:39
 msgid ""
 "Aha, Bhe, Coh, Dhan, Eth, Fye, Gra, Het, Ish, Khur, Leth, Mahg, Nyth, Oro, Re"
 msgstr ""
+"Aha, Bhe, Coh, Dhan, Eth, Fye, Gra, Het, Ish, Khur, Leth, Mahg, Nyth, Oro, Re"
 
 #. [race]: id=phantom_spirit
 #: Archaic_Era/units/phantom_race.cfg:40
 msgid "Ara, Ba, Cam, Dra, Era, Fea, Goa, Hae, Ira"
-msgstr ""
+msgstr "Ara, Ba, Cam, Dra, Era, Fea, Goa, Hae, Ira"
 
 #. [unit_type]: id=Primeval Aerowheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:5
-#, fuzzy
 msgid "Aerowheel"
-msgstr "Roue aérienne"
+msgstr "Discobole de l’air"
 
+# Les Discoboles sont des unités exclusivement féminines
 #. [unit_type]: id=Primeval Aerowheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:41
-#, fuzzy
 msgid ""
 "Having mastered the cutting wheel, a Primeval Ironwheel must make a choice "
 "whether to focus on the disc weapon or to tend to other skills required of a "
@@ -1667,49 +1667,47 @@ msgid ""
 "mixed fighters.\n"
 "Special Note:"
 msgstr ""
-"En maîtrisant les disques coupants, une roue de fer ouranienne doit choisir "
-"entre se concentrer sur le disque ou améliorer d'autres compétences requises "
-"par un soldat de haut rang. Les roues aériennes primordiales ont choisi la "
-"deuxième solution et sont devenus des combattants mixtes.\n"
+"En maîtrisant les disques coupants, une discobole de fer ouranienne doit "
+"choisir entre se concentrer sur le disque ou améliorer d'autres compétences "
+"requises par un soldat de haut rang. Les discoboles de l’air ouraniennes ont "
+"choisi la deuxième solution et sont devenues des combattantes mixtes.\n"
 "Remarques :"
 
+# http://fr.wikipedia.org/wiki/Chakram
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Aerowheel.cfg:54
 #: Archaic_Era/units/primeval/Primeval_Cutter.cfg:32
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:46
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:37
-#, fuzzy
 msgid "chakram"
 msgstr "chakram"
 
+# http://fr.wikipedia.org/wiki/Discobole
 #. [unit_type]: id=Primeval Cutter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Cutter.cfg:5
-#, fuzzy
 msgid "Cutter"
-msgstr "Lance-disque"
+msgstr "Discobole"
 
 #. [unit_type]: id=Primeval Cutter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Cutter.cfg:21
-#, fuzzy
 msgid ""
 "Primeval Cutters are not particularly strong, but they can launch cutting "
 "metal discs. Cutters are able to provide a counter to enemy archers.\n"
 "Special Note:"
 msgstr ""
-"Les lances-disques ouraniens ne sont pas particulièrement fort, mais ils "
-"peuvent lancer des disques métalliques coupants. Les lances-disques "
-"fournissent un moyen de contrer les archers ennemis.\n"
+"Les discoboles ouraniennes ne sont pas particulièrement fortes, mais elles "
+"peuvent lancer des disques métalliques coupants. Les discoboles fournissent "
+"un moyen de contrer les archers ennemis.\n"
 "Remarques :"
 
+# http://en.wikipedia.org/wiki/Dogface_(military)
 #. [unit_type]: id=Primeval Dogface, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Dogface.cfg:5
-#, fuzzy
 msgid "Dogface"
 msgstr "Fantassin"
 
 #. [unit_type]: id=Primeval Dogface, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Dogface.cfg:20
-#, fuzzy
 msgid ""
 "Like the experienced chakram throwers, the Primeval soldiers wear some sort "
 "of visor. Though it simply looks like a piece of metal strapped across the "
@@ -1718,19 +1716,17 @@ msgid ""
 msgstr ""
 "Tout comme les lanceurs de chakram expérimentés, les soldats ouraniens "
 "portent une sorte de viseur. Bien qu'il n'ait l'apparence que d'une simple "
-"pièce métallique attaché autour des yeux, le viseur semble aider le "
+"pièce métallique attachée autour des yeux, le viseur semble aider le "
 "combattant à toucher son ennemi.\n"
 "Remarques :"
 
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:5
-#, fuzzy
 msgid "Driver"
-msgstr "Batteur"
+msgstr "Lanceur"
 
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:20
-#, fuzzy
 msgid ""
 "Primeval Drivers are not that much smaller than a Troll. They have risen out "
 "of the Slowfoot ranks through strength and experience. With enough luck and "
@@ -1738,30 +1734,27 @@ msgid ""
 "of the Destroyers.\n"
 "Special Note:"
 msgstr ""
-"Les batteurs ouraniens sont à peine plus petit que les trolls. Ils se sont "
+"Les lanceurs ouraniens sont à peine plus petits que les trolls. Ils se sont "
 "élevés des rangs de pieds-lents à travers la force et l'expérience. Avec "
-"suffisement de chance et de détermination, ils seront peut-être capables de "
+"suffisamment de chance et de détermination, ils seront peut-être capables de "
 "s'élever dans la hiérarchie et de rejoindre les rangs des destructeurs.\n"
 "Remarques :"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:43
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:33
-#, fuzzy
 msgid "chain"
-msgstr "Chaîne"
+msgstr "chaîne"
 
 #. [berserk]: id=aggression
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:50
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:41
-#, fuzzy
 msgid "aggression"
 msgstr "agression"
 
 #. [berserk]: id=aggression
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:51
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:42
-#, fuzzy
 msgid ""
 "Aggression:\n"
 "This attack presses the engagement twice as long as usual."
@@ -1772,32 +1765,30 @@ msgstr ""
 
 #. [unit_type]: id=Primeval Firewheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:5
-#, fuzzy
 msgid "Firewheel"
-msgstr "Roue de feu"
+msgstr "Discobole de feu"
 
 #. [unit_type]: id=Primeval Firewheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:41
 msgid ""
 "Primeval Firewheels...\n"
 "Special Note:"
-msgstr "La roue de feu ouranienne..."
+msgstr ""
+"Discobole de feu ouranienne...\n"
+"Remarques :"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:55
-#, fuzzy
 msgid "firewheel"
-msgstr "Roue de feu"
+msgstr "discobole de feu"
 
 #. [unit_type]: id=Primeval Slow, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Foot.cfg:5
-#, fuzzy
 msgid "Slow Foot"
 msgstr "Pied-lent"
 
 #. [unit_type]: id=Primeval Slow, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Foot.cfg:20
-#, fuzzy
 msgid ""
 "A Slowfoot ...\n"
 "Special Note:"
@@ -1807,37 +1798,34 @@ msgstr ""
 
 #. [unit_type]: id=Primeval Giant, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:5
-#, fuzzy
 msgid "Destroyer"
 msgstr "Destructeur"
 
 #. [unit_type]: id=Primeval Giant, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Giant.cfg:21
-#, fuzzy
 msgid ""
 "The Primeval Destroyers ...\n"
 "Special Note:"
-msgstr "Le destructeur ouranien..."
+msgstr ""
+"Le destructeur ouranien...\n"
+"Remarques :"
 
 #. [unit_type]: id=Primeval Gyrepacter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Gyrepacter.cfg:5
-#, fuzzy
 msgid "Gyre Striker"
-msgstr "Tourbillon"
+msgstr "Tourbillon-Cogneuse"
 
 #. [unit_type]: id=Primeval Gyrepacter, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Gyrepacter.cfg:69
-#, fuzzy
 msgid ""
 "Primeval Gyre Strikers...\n"
 "Special Note:"
 msgstr ""
-"Les tourbillons ouraniens...\n"
+"Tourbillon-Cogneuse ouranienne...\n"
 "Remarques :"
 
 #. [unit_type]: id=Primeval Hektor, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:5
-#, fuzzy
 msgid "Hektor"
 msgstr "Hektor"
 
@@ -1854,81 +1842,80 @@ msgid ""
 "that they can play a valuable role.\n"
 "Special Note:"
 msgstr ""
+"Tous les mâles ouraniens ne deviennent pas des guerriers mâles idéaux. La "
+"plupart meurent au combat, tout comme les autres grognards ouraniens, mais "
+"ceux qui ont la force de survivre forment le corps auxiliaire des hektors. "
+"Les Hektors ouraniens compensent leur manque de force par leur habilité et "
+"leur concentration. Ils ont pris la lance, une arme des ouraniens associée à "
+"la tromperie et à la faiblesse, comme un acte de défi. Bien que la plupart "
+"de leur génération les méprise, les dirigeants et les tacticiens se rendent "
+"compte qu'ils peuvent jouer un rôle précieux.\n"
+"Remarque :"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primeval_Hektor.cfg:41
-#, fuzzy
 msgid "bolas"
-msgstr "Bolas"
+msgstr "bolas"
 
 #. [unit_type]: id=Primeval Ironwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:5
-#, fuzzy
 msgid "Ironwheel"
-msgstr "Roue de fer"
+msgstr "Discobole de fer"
 
 #. [unit_type]: id=Primeval Ironwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Ironwheel.cfg:21
-#, fuzzy
 msgid ""
 "Primeval technology is a bit of a mystery. The Ironwheels are unusually "
 "accurate with their cutting discs, and it is suspected that their headgear "
 "has something to do with this.\n"
 "Special Note:"
 msgstr ""
-"La technologie ouranienne est un mystère. Les roues de fer sont anormalement "
-"précises avec leurs disques coupants, et on soupçonne que leur bandeau y est "
-"pour quelque chose.\n"
+"La technologie ouranienne est un mystère. Les discoboles de fer sont "
+"anormalement précises avec leurs disques coupants, et on soupçonne que leur "
+"bandeau y est pour quelque chose.\n"
 "Remarques :"
 
 #. [unit_type]: id=Primeval Protector, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:5
-#, fuzzy
 msgid "Protector"
-msgstr "Protecteur"
+msgstr "Protectrice"
 
 #. [unit_type]: id=Primeval Protector, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:22
-#, fuzzy
 msgid ""
 "The Primeval Protectors...\n"
 "Special Note:"
 msgstr ""
-"Les protecteurs ouraniens...\n"
+"Les protectrices ouraniens...\n"
 "Remarques :"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:47
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:45
-#, fuzzy
 msgid "glaive"
-msgstr "Pertuisane"
+msgstr "glaive"
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:6
-#, fuzzy
 msgid "Escort"
-msgstr "Escorte"
+msgstr "Escorteuse"
 
 #. [unit_type]: id=Primeval Slasher, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Slasher.cfg:22
-#, fuzzy
 msgid ""
 "The Primeval Escorts ...\n"
 "Special Note:"
 msgstr ""
-"Les escortes ouraniennes...\n"
+"Les escorteuses ouraniennes...\n"
 "Remarques :"
 
 #. [unit_type]: id=Primeval Striker, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Striker.cfg:5
-#, fuzzy
 msgid "Striker"
 msgstr "Cogneuse"
 
 #. [unit_type]: id=Primeval Striker, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Striker.cfg:21
-#, fuzzy
 msgid ""
 "The Primeval Strikers ...\n"
 "Special Note:"
@@ -1939,7 +1926,7 @@ msgstr ""
 #. [unit_type]: id=Primeval Sunwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Sunwheel.cfg:5
 msgid "Sun-Wheel"
-msgstr ""
+msgstr "Discobole solaire"
 
 #. [unit_type]: id=Primeval Sunwheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Sunwheel.cfg:43
@@ -1949,34 +1936,37 @@ msgid ""
 "a seering blade is anyone's guess.\n"
 "Special Note:"
 msgstr ""
+"Le nom des supérieurs des discoboles est « Discobole solaire ». Que ce soit "
+"parce qu'elles exaltent le soleil ou juste que ça fasse mal aux yeux des "
+"ouraniens comme une aube prophétique, cela reste un mystère.\n"
+"Remarque :"
 
+# http://fr.wikipedia.org/wiki/Sica
 #. [attack]: type=blade
 #: Archaic_Era/units/primeval/Primeval_Sunwheel.cfg:57
 msgid "duosica"
-msgstr ""
+msgstr "duosica"
 
 #. [unit_type]: id=Primeval Swiftfoot, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Swift.cfg:5
-#, fuzzy
 msgid "Swiftfoot"
 msgstr "Pied-léger"
 
 #. [unit_type]: id=Primeval Swiftfoot, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Swift.cfg:21
-#, fuzzy
 msgid ""
 "The Primeval Swiftfoots are a basic component of the Primeval forces, mostly "
 "serving as scouts.\n"
 "Special Note:"
 msgstr ""
-"Les pieds-légers ouraniens sont une composante de base des forces "
-"ouraniennes, servant principalement d'éclaireurs.\n"
+"Les pieds-légers ouranienness sont une composante de base des forces "
+"ouraniennes, servant principalement d'éclaireuses.\n"
 "Remarques :"
 
 #. [unit_type]: id=Primeval Titan, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Titan.cfg:5
 msgid "Titan"
-msgstr ""
+msgstr "Titan"
 
 #. [unit_type]: id=Primeval Titan, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Titan.cfg:21
@@ -1985,16 +1975,17 @@ msgid ""
 "join the Pantheon.\n"
 "Special Note:"
 msgstr ""
+"Les Titans ouraniens sont les guerriers les plus puissants, certains "
+"semblaient destinés à rejoindre le Panthéon.\n"
+"Remarque :"
 
 #. [unit_type]: id=Primeval Warrior, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Warrior.cfg:5
-#, fuzzy
 msgid "Warrior"
 msgstr "Guerrier"
 
 #. [unit_type]: id=Primeval Warrior, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Warrior.cfg:21
-#, fuzzy
 msgid ""
 "The Primeval Warriors ...\n"
 "Special Note:"
@@ -2004,13 +1995,11 @@ msgstr ""
 
 #. [unit_type]: id=Primevalist Celebrant, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:5
-#, fuzzy
 msgid "Primevalist Celebrant"
 msgstr "Célébrant ouraniste"
 
 #. [unit_type]: id=Primevalist Celebrant, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:20
-#, fuzzy
 msgid ""
 "Though their faith in the Primeval beings has not flagged, their faith in "
 "their own ability to bring the necessary pain to the enemy has (some would "
@@ -2026,19 +2015,16 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:44
-#, fuzzy
 msgid "condemnation"
-msgstr "Condamnation"
+msgstr "condamnation"
 
 #. [unit_type]: id=Primevalist Fanatic, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:5
-#, fuzzy
 msgid "Primevalist Fanatic"
 msgstr "Fanatique ouraniste"
 
 #. [unit_type]: id=Primevalist Fanatic, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:21
-#, fuzzy
 msgid ""
 "When blind devotion is combined with combat experience, a more valuable "
 "figher is formed. They know enough to be dangerous, but not enough to be "
@@ -2052,17 +2038,15 @@ msgstr ""
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:41
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:38
 msgid "darts"
-msgstr ""
+msgstr "fléchettes"
 
 #. [unit_type]: id=Primevalist Fighter, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:5
-#, fuzzy
 msgid "Primevalist Fighter"
 msgstr "Combattant ouraniste"
 
 #. [unit_type]: id=Primevalist Fighter, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fighter.cfg:21
-#, fuzzy
 msgid ""
 "The primevalists are mostly angry young men. The Dark Messiah told them what "
 "they needed to hear to pick up a sword and attack their fellow humans in "
@@ -2078,13 +2062,11 @@ msgstr ""
 
 #. [unit_type]: id=Primevalist Follower, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Follower.cfg:5
-#, fuzzy
 msgid "Primevalist Follower"
 msgstr "Disciple ouraniste"
 
 #. [unit_type]: id=Primevalist Follower, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Follower.cfg:21
-#, fuzzy
 msgid ""
 "Some of the angry young men recruited by the Dark Messiah are more clever "
 "than they are strong. These followers have some minimal magical training and "
@@ -2103,19 +2085,16 @@ msgstr ""
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:41
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:48
 #: Archaic_Era/units/south-seas/Caster.cfg:38
-#, fuzzy
 msgid "chill"
-msgstr "Tempête glaciale"
+msgstr "glacial"
 
 #. [unit_type]: id=Primevalist Leader, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:5
-#, fuzzy
 msgid "Primevalist Leader"
 msgstr "Chef ouraniste"
 
 #. [unit_type]: id=Primevalist Leader, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:22
-#, fuzzy
 msgid ""
 "While the Primevals most likely have as little respect for these warriors as "
 "they do for any human, the other fanatics admire their dedication to the "
@@ -2126,22 +2105,24 @@ msgid ""
 msgstr ""
 "Alors que les ouraniens ont tout aussi peu de respect pour ces combattants "
 "qu'il n'en ont pour les autres humains, les autres fanatiques admirent leur "
-"dévouement pour la foi (malheureuse) qu'ils partagent tous."
+"dévouement pour la foi (malheureuse) qu'ils partagent tous. Une partie de "
+"cette admiration est due à une capacité unique : qu'il s'agisse d'un don "
+"octroyé par les ouraniens ou tout simplement l'aptitude de leur force "
+"mentale, nul ne peut le dire — leurs chefs peuvent causer une douleur aiguë "
+"à l'ennemi d'un revers de main."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:45
 msgid "soul-pierce"
-msgstr ""
+msgstr "perce-âme"
 
 #. [unit_type]: id=Primevalist Monk, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:5
-#, fuzzy
 msgid "Primevalist Monk"
 msgstr "Moine ouraniste"
 
 #. [unit_type]: id=Primevalist Monk, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:22
-#, fuzzy
 msgid ""
 "The followers continue to study magic and the glyphs carved into stone by "
 "the Primevals long ago. Most of the glyphs' meaning is obscure, and the "
@@ -2156,13 +2137,11 @@ msgstr ""
 
 #. [unit_type]: id=Primevalist Prior, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:5
-#, fuzzy
 msgid "Primevalist Prior"
 msgstr "Prieur ouraniste"
 
 #. [unit_type]: id=Primevalist Prior, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:20
-#, fuzzy
 msgid ""
 "The hardiest and most clever of the glyph readers extract the most "
 "knowledge, and gain great attack power to bring glory to their sect."
@@ -2173,19 +2152,17 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:39
-#, fuzzy
 msgid "staff base"
 msgstr "Base du bâton"
 
+# http://fr.wikipedia.org/wiki/Hoplite
 #. [unit_type]: id=Primevalist Shield, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Shield.cfg:5
-#, fuzzy
 msgid "Primeval Brightshield"
-msgstr "Bouclier brillant ouraniste"
+msgstr "Hoplite ouranien"
 
 #. [unit_type]: id=Primevalist Shield, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Shield.cfg:107
-#, fuzzy
 msgid ""
 "These fighters play a supporting role, stoically absorbing damage so that "
 "their more hot tempered commrads survive long enough to accomplish their "
@@ -2195,12 +2172,11 @@ msgstr ""
 "Ces combattants jouent un rôle de soutien en encaissant stoïquement les "
 "dégâts afin que leurs camarades plus emportés survivent assez longtemps pour "
 "accomplir leurs buts. Leur armure dissipe le chaud, le froid et les "
-"décharges énergétiques et donc ils ont une plus grande résistance au dégâts "
+"décharges énergétiques et donc ils ont une plus grande résistance aux dégâts "
 "de feu, de froid et d'arcane."
 
 #. [race]: id=primevalist_human
 #: Archaic_Era/units/primeval_race.cfg:8
-#, fuzzy
 msgid ""
 "The race of men is an extremely diverse one. Some of them fall prey to the "
 "promises of false hope and false saviours."
@@ -2210,25 +2186,21 @@ msgstr ""
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:17
-#, fuzzy
 msgid "race^Primeval"
 msgstr "Ouranien"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:18
-#, fuzzy
 msgid "race+female^Primeval"
 msgstr "Ouranienne"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:19
-#, fuzzy
 msgid "race^Primevals"
 msgstr "Ouraniens"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:21
-#, fuzzy
 msgid ""
 "The Primeval forces are beings from a time long, long ago. They share many "
 "traits of the modern races, it is possible that they are ancestors.\n"
@@ -2286,39 +2258,38 @@ msgstr ""
 "partagent de nombreux traits avec les races modernes et il est possible "
 "qu'ils en soient les ancêtres.\n"
 "<header>text='Histoire'</header>\n"
-"À leur époque, ils étaient engagées dans une guerre acharnée contre un "
-"ennemi à la fois puissant et mystérieux. L'ennemi fut défait, mais le monde "
-"était sévèrement dévasté et plusieurs dirigeants ouraniens décidèrent qu'il "
-"valait mieux de se plonger dans une forme de stase.\n"
+"À leur époque, ils étaient engagés dans une guerre acharnée contre un ennemi "
+"à la fois puissant et mystérieux. L'ennemi fut défait, mais le monde était "
+"sévèrement dévasté et plusieurs dirigeants ouraniens décidèrent qu'il valait "
+"mieux de se plonger dans une forme de stase.\n"
 "\n"
-"Après plusieurs siècles, les ouraniens ré-émergèrent et rencontrèrent les "
+"Après plusieurs siècles, les ouraniens réémergèrent et rencontrèrent les "
 "races modernes. Toutes les différences purent avoir été surmontées, mais une "
-"cinquantaine d'année après la réapparition des ouraniens vint une peste.\n"
+"cinquantaine d'années après la réapparition des ouraniens vint une peste.\n"
 "\n"
-"Une étrange maladie s'attaquant à l'âme et à l'esprit s'était répendue, et "
-"les habitants du monde devinrent quelque chose d'autre, un chose qui se "
+"Une étrange maladie s'attaquant à l'âme et à l'esprit s'était répandue, et "
+"les habitants du monde devinrent quelque chose d'autre, une chose qui se "
 "qualifiait de chthonienne. Alors que les autres races étaient victimes des "
-"esprits chthoniens, les ouraniens connurent un essor rapide car ils étaient "
+"esprits chthoniens, les ouraniens connurent un essor rapide, car ils étaient "
 "immunisés. Durant la guerre qui les opposèrent aux chthoniens, les ouraniens "
-"ont développé une haine et un défiance à l'égard des autres races, car "
+"ont développé une haine et une défiance à l'égard des autres races, car "
 "n'importe lequel d'entre eux pouvait être un chthonien infiltré.\n"
-"\n"
 "Les écrits sur comment la guerre s'est terminée sont perdus, mais nous "
 "savons néanmoins que les races les plus jeunes triomphèrent. Beaucoup "
 "d'ouraniens avaient prédit cela et retournèrent en stase dans leurs "
-"installations vieillissantes. \n"
+"installations vieillissantes.\n"
 "\n"
-"<header>text='Technologie'</header> \n"
+"<header>text='Technologie'</header>\n"
 "Les ouraniens n'avaient jamais maîtrisé la magie au même niveau que les "
 "races modernes. Cependant ils avaient trouvé des moyens de l'exploiter comme "
 "source d'énergie et étaient capables d'extraire facilement et de forger des "
 "métaux, des engrais et des réactifs chimiques en quantités illimitées. La "
 "plupart des races modernes auraient simplement subi une explosion de la "
-"population, mais la culture austère des ouraniens les ont menés vers autre "
+"population, mais la culture austère des ouraniens les a menés vers autre "
 "chose. Beaucoup d'exploits biologiques et technologiques en étaient les "
 "résultats. Le revers de ce développement rapide était que les avancées "
 "technologiques étaient irrégulières (les routes, les armes à feu, les avions "
-"et bien d'autres choses n'avaient tout simplement jamais été imaginés) car "
+"et bien d'autres choses n'avaient tout simplement jamais été imaginés), car "
 "elles s'appuyaient sur une source d'énergie incomprise : la magie.\n"
 "\n"
 "<header>text='Société'</header>\n"
@@ -2326,9 +2297,9 @@ msgstr ""
 "mérite. Les dirigeants sont presque des dieux aussi bien par leur force "
 "physique que par leurs prouesses, mais ne dirigent pas la société avec une "
 "poigne de fer et un cœur de pierre. La trahison envers un autre ouranien est "
-"un des actes les plus déshonorant pouvant être commis et donc, bien que les "
+"un des actes les plus déshonorants pouvant être commis et donc, bien que les "
 "subordonnés regardent leurs supérieurs avec peur, ils savent que ces "
-"supérieurs ont gagnés leur rang qu'il ne les trahiront jamais ou ne se "
+"supérieurs ont gagné leur rang qu'ils ne les trahiront jamais ou ne se "
 "joueront jamais d'eux. Le résultat est une force militaire disciplinée et "
 "efficace, mais la société manque de créativité et peut se focaliser sur des "
 "buts trop limités.\n"
@@ -2372,9 +2343,8 @@ msgstr ""
 
 #. [unit_type]: id=SouthSeas AbleSeaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:5
-#, fuzzy
 msgid "Able-Seaman"
-msgstr "Matelot"
+msgstr "Matelot breveté"
 
 #. [unit_type]: id=SouthSeas AbleSeaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:21
@@ -2384,10 +2354,14 @@ msgid ""
 "have melted some of the lead normally used for ballast and affixed it to the "
 "end of a staff to create something similar to a hammer."
 msgstr ""
+"Bien qu'ils ne soient pas capitaines, les matelots brevetés ont un rang plus "
+"élevé que la majorité des marins et ils ont un meilleurs accès aux "
+"ressources. En ces temps de conflit, ils ont fondu une partie du plomb "
+"normalement utilisé pour le ballast et ils l'ont fixé à l'extrémité d'un "
+"bâton pour créer quelque chose de similaire à un marteau."
 
 #. [unit_type]: id=SouthSeas Arsonist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Arsonist.cfg:5
-#, fuzzy
 msgid "Arsonist"
 msgstr "Pyromane"
 
@@ -2399,29 +2373,30 @@ msgid ""
 "Arsonists are employed for this purpose.  They operate at night, to avoid "
 "shoreman and sailors."
 msgstr ""
+"Les navires sont une partie très importante de la vie dans les mers du Sud, "
+"si l'on voulait ruiner une personne en vue de la société, il suffisait de "
+"détruire ses navires. Les pyromanes sont utilisés à cet effet. Ils opèrent "
+"la nuit, pour éviter les dockers et les marins."
 
 #. [attack]: type=fire
 #: Archaic_Era/units/south-seas/Arsonist.cfg:45
-#, fuzzy
 msgid "spark"
-msgstr "Éclat lumineux"
+msgstr "Étincelle"
 
 #. [unit_type]: id=SouthSeas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:5
-#, fuzzy
 msgid "female^Lore-Caster"
 msgstr "Gardienne du savoir"
 
 #. [unit_type]: id=SouthSeas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:21
-#, fuzzy
 msgid ""
 "Lore-Casters study the old teachings and lore from days long ago.  That may "
 "seem academic and irrelevant to life at sea, however South-Seas ships that "
 "carry Lore-Casters tend to survive longer at sea. Some attribute this to "
 "their knowledge of how to placate the gods."
 msgstr ""
-"Les gardiennes du savoir étudient les vieux enseignement et les traditions "
+"Les gardiennes du savoir étudient les vieux enseignements et les traditions "
 "du passé. Bien que cela peut ressembler à une perte d'effort, les navires "
 "des marins qui transportent des gardiennes du savoir ont tendance à survivre "
 "plus longtemps en mer. Certains attribuent ceci à leurs connaissances sur "
@@ -2429,43 +2404,41 @@ msgstr ""
 
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:5
-#, fuzzy
 msgid "Deck-Master"
 msgstr "Maître du pont"
 
 #. [unit_type]: id=SouthSeas DeckMaster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:22
-#, fuzzy
 msgid ""
 "Because they are not wealthy, Deck-Masters will never own a ship of any "
 "size, but they are trusted on the larger vessals to keep the rest of the men "
 "in line.  They have affixed steel grapples to the ends of the staves, and "
 "can use them to hook the opponent's weapon."
 msgstr ""
-"Les maîtres du pont ont fixés des grappins en acier au bout de leurs bâtons, "
-"et peuvent l'utiliser pour accrocher les armes de leurs opposants."
+"Parce qu'ils ne sont pas riches, les maîtres du pont ne seront jamais "
+"propriétaire d'un navire quelque soit sa taille, mais ont leurs fais "
+"confiance sur les plus grand vaisseaux pour mener le reste de l'équipage au "
+"combat. Les maîtres du pont ont fixés des grappins en acier au bout de leurs "
+"bâtons, et peuvent l'utiliser pour accrocher les armes de leurs opposants."
 
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:44
 msgid "hook"
-msgstr ""
+msgstr "crochet"
 
 #. [unit_type]: id=SouthSeas Demolitionist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:5
-#, fuzzy
 msgid "Demolitionist"
 msgstr "Démolisseur"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:46
 #: Archaic_Era/units/south-seas/Spitfire.cfg:47
-#, fuzzy
 msgid "flame"
 msgstr "Flamme"
 
 #. [unit_type]: id=SouthSeas Diver, race=south-seas_human
 #: Archaic_Era/units/south-seas/Divers.cfg:5
-#, fuzzy
 msgid "Diver"
 msgstr "Plongeur"
 
@@ -2473,43 +2446,37 @@ msgstr "Plongeur"
 #: Archaic_Era/units/south-seas/Divers.cfg:60
 #: Archaic_Era/units/south-seas/Marines.cfg:62
 #: Archaic_Era/units/south-seas/Wrecker.cfg:55
-#, fuzzy
 msgid "harpoon"
-msgstr "Harpon"
+msgstr "harpon"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Divers.cfg:149
-#, fuzzy
 msgid "female^Diver"
 msgstr "Plongeuse"
 
 #. [unit_type]: id=SouthSeas Marine, race=south-seas_human
 #: Archaic_Era/units/south-seas/Marines.cfg:5
-#, fuzzy
 msgid "Marine"
-msgstr "Marin"
+msgstr "Marine"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Marines.cfg:151
-#, fuzzy
 msgid "female^Marine"
 msgstr "Marine"
 
 #. [unit_type]: id=SouthSeas Rover, race=south-seas_human
 #: Archaic_Era/units/south-seas/Rover.cfg:5
-#, fuzzy
 msgid "Sea Rover"
 msgstr "Vagabond des mers"
 
 #. [unit_type]: id=SouthSeas Rover, race=south-seas_human
 #: Archaic_Era/units/south-seas/Rover.cfg:21
-#, fuzzy
 msgid ""
 "Some of the southern city-states earn their wealth through plunder and "
 "exploitation. The roving pirates are not the strongest fighters, but they "
 "are verstile enough to give trouble to almost any foe."
 msgstr ""
-"Certaines cités-états du Sud gagnent leur richesses à travers les pillages "
+"Certaines cités états du Sud gagnent leurs richesses à travers les pillages "
 "et l'exploitation. Les pirates vagabonds ne sont pas les combattants les "
 "plus forts, mais ils sont suffisamment polyvalents pour poser problème à "
 "presque tout adversaire."
@@ -2518,13 +2485,12 @@ msgstr ""
 #: Archaic_Era/units/south-seas/Rover.cfg:38
 #: Archaic_Era/units/south-seas/Wolf.cfg:41
 msgid "dart"
-msgstr ""
+msgstr "fléchette"
 
 #. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
 #: Archaic_Era/units/south-seas/Salvager.cfg:5
-#, fuzzy
 msgid "Salvager"
-msgstr "Sauveteur"
+msgstr "Récupérateur"
 
 #. [unit_type]: id=SouthSeas Salvager, race=south-seas_human
 #: Archaic_Era/units/south-seas/Salvager.cfg:21
@@ -2534,22 +2500,27 @@ msgid ""
 "apart old ships and sell what can be sold.  Long lances are useful in "
 "prodding floating wood, as well as poking hostile forces."
 msgstr ""
+"Les récupérateurs s'occupent moins du chargement et du déchargement des "
+"navires pour se consacrer à la tâche plus lucrative de recyclage. Ils "
+"dépouillent les vieux navires et vendent ce qui peut être vendu. Leurs "
+"longues lances sont utiles pour aiguiller le bois qui flotte, ainsi que pour "
+"piquer des forces hostiles."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/south-seas/Salvager.cfg:41
 #: Archaic_Era/units/south-seas/Shoreman.cfg:37
 #: Archaic_Era/units/south-seas/Wrecker.cfg:43
 msgid "rope"
-msgstr ""
+msgstr "corde"
 
+# Petite pointe située sous la pointe d’un hameçon ou d’un projectile et dirigée en sens opposé de la pointe pour empêcher la prise de se dégager.
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Salvager.cfg:53
 msgid "barb"
-msgstr ""
+msgstr "barbillon"
 
 #. [unit_type]: id=SouthSeas SeaScourge, race=south-seas_human
 #: Archaic_Era/units/south-seas/Scourge.cfg:5
-#, fuzzy
 msgid "female^Sea-Scourge"
 msgstr "Fléau des mers"
 
@@ -2557,23 +2528,20 @@ msgstr "Fléau des mers"
 #: Archaic_Era/units/south-seas/Scourge.cfg:42
 #: Archaic_Era/units/south-seas/Seahag.cfg:41
 msgid "fear"
-msgstr ""
+msgstr "peur"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/south-seas/Scourge.cfg:55
-#, fuzzy
 msgid "arcanum"
-msgstr "Arcanum"
+msgstr "arcanum"
 
 #. [unit_type]: id=SouthSeas Seahag, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seahag.cfg:5
-#, fuzzy
 msgid "female^Seahag"
 msgstr "Sorcière des mers"
 
 #. [unit_type]: id=SouthSeas Seahag, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seahag.cfg:21
-#, fuzzy
 msgid ""
 "Seahags focus on the lore of the dark faction of Athtep and Nura. They pay "
 "homage to the fearsome gods so that those gods will leave the Seafarers "
@@ -2586,9 +2554,8 @@ msgstr ""
 
 #. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seaman.cfg:5
-#, fuzzy
 msgid "Seaman"
-msgstr "Rameur"
+msgstr "Matelot"
 
 #. [unit_type]: id=SouthSeas Seaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Seaman.cfg:22
@@ -2597,16 +2564,17 @@ msgid ""
 "they don't have any particular combat skills, the life of a sailor is rough, "
 "so they are tough enough to be useful."
 msgstr ""
+"Les matelots Hyksôs sont les travailleurs de base de la nation maritime. "
+"Bien qu'ils ne disposent pas de compétences de combat particulières, la vie "
+"d'un marin est rude, donc ils sont assez résistants pour être utile."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/south-seas/Seaman.cfg:29
-#, fuzzy
 msgid "oar"
-msgstr "Rame"
+msgstr "rame"
 
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:5
-#, fuzzy
 msgid "Shoreman"
 msgstr "Docker"
 
@@ -2619,10 +2587,15 @@ msgid ""
 "moving animals.  A spike is very helpful in making splices, as well as "
 "killing rats."
 msgstr ""
+"Les dockers sont responsables du chargement des navires ainsi que du "
+"recyclage des vieux bateaux à la retraite pour récupérer les éléments. La "
+"quasi-totalité de ce travail nécessite des cordages, de sorte que les "
+"dockers sont très habiles avec cet outil simple et peuvent même contrôler le "
+"mouvement d'un animal. Un pic est très utile pour faire des nœuds, ainsi que "
+"pour tuer les rats."
 
 #. [unit_type]: id=SouthSeas SkyCaller, race=south-seas_human
 #: Archaic_Era/units/south-seas/Sky-Caller.cfg:5
-#, fuzzy
 msgid "female^Sky-Caller"
 msgstr "Invocatrice des cieux"
 
@@ -2630,17 +2603,15 @@ msgstr "Invocatrice des cieux"
 #: Archaic_Era/units/south-seas/Sky-Caller.cfg:44
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:42
 msgid "wind"
-msgstr ""
+msgstr "vent"
 
 #. [unit_type]: id=SouthSeas Spitfire, race=south-seas_human
 #: Archaic_Era/units/south-seas/Spitfire.cfg:5
-#, fuzzy
 msgid "Spitfire"
 msgstr "Cracheur de feu"
 
 #. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
 #: Archaic_Era/units/south-seas/Swimmers.cfg:5
-#, fuzzy
 msgid "Swimmer"
 msgstr "Nageur"
 
@@ -2651,24 +2622,25 @@ msgid ""
 "the villages, where they hunt fish for food, gather pearls for trade, and "
 "patrol the docked ships."
 msgstr ""
+"Les nageurs sont parfois utilisés à bord des navires, mais ils sont pour la "
+"plupart situés à proximité des villages, où ils chassent pour se nourrir, se "
+"rassemblent pour le commerce des perles et patrouillent dans les navires à "
+"quai."
 
 #. [female]
 #: Archaic_Era/units/south-seas/Swimmers.cfg:86
-#, fuzzy
 msgid "female^Swimmer"
 msgstr "Nageuse"
 
 #. [unit_type]: id=SouthSeas Seawolf, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wolf.cfg:5
-#, fuzzy
 msgid "Sea Wolf"
 msgstr "Loup de mer"
 
 #. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:5
-#, fuzzy
 msgid "Wrecker"
-msgstr "Secouriste"
+msgstr "Naufrageur"
 
 #. [unit_type]: id=SouthSeas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:22
@@ -2677,16 +2649,18 @@ msgid ""
 "operate alone, which maximizes both the profit and danger, so they carry "
 "harpoons to fight off sharks, thieves, and other Wreckers."
 msgstr ""
+"Les naufrageurs sont les plus expérimentés des récupérateurs. Ils "
+"fonctionnent en général seul, ce qui maximise à la fois le bénéfice et le "
+"danger, de sorte qu'ils portent des harpons pour lutter contre les requins, "
+"les voleurs et les autres naufrageurs."
 
 #. [unit_type]: id=SouthSeas Zephyrist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:5
-#, fuzzy
 msgid "female^Wind-Caller"
 msgstr "Invocatrice des vents"
 
 #. [unit_type]: id=SouthSeas Zephyrist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Zephyrist.cfg:21
-#, fuzzy
 msgid ""
 "The Wind-Callers study the lore of the brighter gods. They pray for "
 "favourable winds and a minimum of strife. They are successful at directing "
@@ -2694,29 +2668,25 @@ msgid ""
 msgstr ""
 "Les invocatrices des vents étudient les traditions des dieux lumineux. Elles "
 "prient pour des vents favorables et un minimum de conflits. Elles arrivent à "
-"diriger des coups de vents, mais ceci requiert de la force."
+"diriger des coups de vent, mais ceci requiert de la force."
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:5
-#, fuzzy
 msgid "race^South-Sea Human"
-msgstr "Homme des mers du Sud"
+msgstr "Hyksôs"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:6
-#, fuzzy
 msgid "race+female^South-Sea Human"
-msgstr "Femme des mers du Sud"
+msgstr "Hyksôte"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:7
-#, fuzzy
 msgid "race^South-Sea Humans"
-msgstr "Hommes des mers du Sud"
+msgstr "Hyksôs"
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:9
-#, fuzzy
 msgid ""
 "South-Seas humans are regular humans, but have not had much contact with the "
 "people of Wesnoth.\n"
@@ -2751,7 +2721,7 @@ msgstr ""
 "pas beaucoup de contacts avec les Wesnothiens.\n"
 "<header>text='Société'</header>\n"
 "Les hommes des mers du Sud forment un peuple de marins composés de plusieurs "
-"cité-états dans les terres au sud. Bien qu'il y ait des différences "
+"cités états dans les terres au sud. Bien qu'il y ait des différences "
 "culturelles, ils ont des croyances communes en divers dieux constamment en "
 "lutte les uns contre les autres. Cette lutte explique les mystères, la joie, "
 "le chaos et la misère de la vie.\n"
@@ -2764,13 +2734,13 @@ msgstr ""
 "elles ne sont pas mauvaises et aucun des deux camps ne pourra jamais "
 "triompher.\n"
 "\n"
-"Les légendes transmises de générations en générations parlent d'un temps où "
-"il existait un grand être maléfique. Le nom de cet être a été oublié car les "
+"Les légendes transmises de génération en génération parlent d'un temps où il "
+"existait un grand être maléfique. Le nom de cet être a été oublié, car les "
 "anciennes générations étaient réticentes à prononcer son nom. L'être "
 "maléfique n'était ni motivé pas le chaos ou la mort, mais plutôt par "
 "l'annihilation de toute chose. Aruyun, Athtep et tous les autres dieux du "
 "monde se sont unis pour défaire ce mal, en le divisant en deux composantes "
-"comme eux-même étaient divisés en deux camps. La première moitié était une "
+"comme eux-mêmes étaient divisés en deux camps. La première moitié était une "
 "force froide, molle et sans-vie ressemblant beaucoup à la mort. La deuxième "
 "moitié était passionnée et pleine de vie, mais manquait de raisonnement et "
 "était très affaiblie sans la logique froide de l'autre moitié. L'ennemi "
@@ -2810,7 +2780,6 @@ msgstr ""
 
 #. [unit_type]: id=Royal Constable, race=human
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:4
-#, fuzzy
 msgid "Constable"
 msgstr "Connétable"
 
@@ -2819,19 +2788,16 @@ msgstr "Connétable"
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:58
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
 #: Archaic_Era/utils/Archaic_abilities.cfg:934
-#, fuzzy
 msgid "scattershot"
 msgstr "tir dispersé"
 
 #. [unit_type]: id=Northern Elite, race=human
 #: Archaic_Era/units/ukians/Royal_Elite.cfg:4
-#, fuzzy
 msgid "Northern Warrior"
 msgstr "Guerrier nordique"
 
 #. [unit_type]: id=Northern Fighter, race=human
 #: Archaic_Era/units/ukians/Royal_Fighter.cfg:4
-#, fuzzy
 msgid "Northern Fighter"
 msgstr "Combattant nordique"
 
@@ -2841,10 +2807,12 @@ msgid ""
 "The fighters of the North have heavy clothing and armour that make them "
 "strong against cold and damage.  It also makes them slow on their feet."
 msgstr ""
+"Les combattants du Nord ont une armure et des vêtements lourds ce qui les "
+"rend fort contre le froid et les dommages. Leurs déplacements sont par "
+"contre plus lent."
 
 #. [unit_type]: id=Northern Ranger, race=human
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:4
-#, fuzzy
 msgid "Northern Ranger"
 msgstr "Rôdeur nordique"
 
@@ -2858,22 +2826,26 @@ msgid ""
 "These fighters must move alone in the harsh north, so they are relatively "
 "unphased by the touch of cold."
 msgstr ""
+"Le froid des pays nordiques est dur pour les doigts, les privant de leur "
+"dextérité et rendant l'usage d'un arc difficile. Les rôdeurs nordiques "
+"jettent des lances et les utilisent pour se défendre, car elles ne "
+"nécessitent pas de doigts agiles, et elles ont l'élan nécessaire pour percer "
+"la peau épaisse d'une bête du Nord. Ces combattants doivent se déplacer "
+"seuls dans le nord rigoureux, de sorte qu'ils sont relativement peu touchés "
+"par la morsure du froid."
 
 #. [unit_type]: id=Royal Sheriff, race=human
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:4
-#, fuzzy
 msgid "Sheriff"
 msgstr "Bailli"
 
 #. [unit_type]: id=Northern Soldier, race=human
 #: Archaic_Era/units/ukians/Royal_Soldier.cfg:4
-#, fuzzy
 msgid "Northern Soldier"
 msgstr "Soldat nordique"
 
 #. [unit_type]: id=Royal Vassal, race=human
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:4
-#, fuzzy
 msgid "Vassal"
 msgstr "Vassal"
 
@@ -2884,7 +2856,6 @@ msgstr "Archère ukienne"
 
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:21
-#, fuzzy
 msgid ""
 "Due to the need for everyone to be able to fend off an orc, all Ukian women "
 "learn archery."
@@ -2899,7 +2870,6 @@ msgstr "Chien d'attaque"
 
 #. [unit_type]: id=Ukian Attack Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:21
-#, fuzzy
 msgid ""
 "Attack Dogs are highly valued by the Ukians for their proven loyalty and "
 "strength, so they are given leather and plates to cover their throats and "
@@ -2907,17 +2877,16 @@ msgid ""
 "as scouts anymore because of their value at the offensive line. If given the "
 "signal, they will throw themselves at the enemy in a fight-to-the-death fury."
 msgstr ""
-"Les ukiens accordent un grande valeur aux chiens d'attaque pour leur loyauté "
-"et leur force. Ainsi, ces chiens reçoivent du cuir et des plaques pour "
-"couvrir leurs gorges et leurs colonnes vertébrales (tout équipement "
+"Les ukiens accordent une grande valeur aux chiens d'attaque pour leur "
+"loyauté et leur force. Ainsi, ces chiens reçoivent du cuir et des plaques "
+"pour couvrir leurs gorges et leurs colonnes vertébrales (tout équipement "
 "supplémentaire serait trop contraignant). Ils ne sont plus trop utilisés "
-"comme éclaireurs car ils sont plus efficaces sur la ligne offensive. Si on "
+"comme éclaireurs, car ils sont plus efficaces sur la ligne offensive. Si on "
 "leur donne le signal, ils se jetteront sur l'ennemi dans un combat enragé à "
 "mort."
 
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:49
-#, fuzzy
 msgid "fury"
 msgstr "rage"
 
@@ -2928,7 +2897,6 @@ msgstr "Civil ukien"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:20
-#, fuzzy
 msgid ""
 "It used to be the case that everyone had to fight, but those who grew up "
 "under the reign of the former King had had reason to believe there was more "
@@ -2940,7 +2908,6 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:25
-#, fuzzy
 msgid "punch"
 msgstr "coup de poing"
 
@@ -2951,23 +2918,21 @@ msgstr "Civile ukienne"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:5
-#, fuzzy
 msgid "Ukian Commander"
-msgstr "Grand commandeur ukien"
+msgstr "Commandant Ukien"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:33
-#, fuzzy
 msgid ""
 "Commanders are the military leaders of the Ukians. They get the few "
 "crossbows preserved from the old days, and heavier armor. They have the best "
 "shields, made of steel, which provide greater protection and cause more "
 "damage upon impact."
 msgstr ""
-"Les grands commandeurs sont les chefs militaires des ukiens. Ils reçoivent "
-"les quelques arbalètes préservées des vieux jours, et une armure plus "
-"lourde. Ils ont les meilleurs boucliers, faits d'acier, qui fournissent une "
-"plus grande protection et qui causent plus de dégâts à l'impact."
+"Les commandants sont les chefs militaires des ukiens. Ils reçoivent les "
+"rares arbalètes pour préserver leurs vieux jours, et une armure plus lourde. "
+"Ils ont les meilleurs boucliers, faits d'acier, qui fournissent une plus "
+"grande protection et qui causent plus de dégâts à l'impact."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:71
@@ -2977,21 +2942,19 @@ msgstr "bouclier"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:5
-#, fuzzy
 msgid "Ukian Commando"
-msgstr "Voltigeur ukien"
+msgstr "Commando Ukien"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:21
-#, fuzzy
 msgid ""
 "Commandos are accustomed to operating alone, and as a result have learned to "
 "carry a wide variety easy-to-carry weapons. They've had plenty of practice "
 "at evading orcs under the cover of night, they can become almost invisible."
 msgstr ""
-"Les voltigeurs sont habitués à opérer seuls, c'est pour cela qu'ils ont "
-"apprisà avoir sur eux une grande variété d'armes faciles à transporter. "
-"Comme ils sont bien entraînés à échapper aux orcs sous couvert de "
+"Les commandos sont habitués à opérer seuls, c'est pour cela qu'ils ont "
+"appris à avoir sur eux une grande variété d'armes faciles à transporter. "
+"Comme ils sont bien entraînés pour échapper aux orcs sous couvert de "
 "l'obscurité, ils peuvent devenir presque invisibles la nuit."
 
 #. [leadership]: id=leadership
@@ -2999,7 +2962,6 @@ msgstr ""
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:32
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:40
 #: Archaic_Era/utils/Archaic_abilities.cfg:71
-#, fuzzy
 msgid "dog trainer"
 msgstr "Maître-chien"
 
@@ -3007,7 +2969,6 @@ msgstr "Maître-chien"
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:32
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:33
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:41
-#, fuzzy
 msgid "dog female^trainer"
 msgstr "Maître-chien"
 
@@ -3016,7 +2977,6 @@ msgstr "Maître-chien"
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:34
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:42
 #: Archaic_Era/utils/Archaic_abilities.cfg:73
-#, fuzzy
 msgid ""
 "Dog Trainer:\n"
 "This unit can lead Ukian Dogs that are next to it, making them fight better."
@@ -3032,34 +2992,31 @@ msgstr "Messager ukien"
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:22
-#, fuzzy
 msgid ""
 "Runners who have proven themselves are given more allowance for supplies "
 "because they are entrusted with more important correspondenses. Still, they "
 "travel light, so the sling is their weapon of choice."
 msgstr ""
-"Les coureurs qui ont prouvé leurs capacités sont mieux équipés car on leur "
+"Les coureurs qui ont prouvé leurs capacités sont mieux équipés, car on leur "
 "confie des correspondances plus importantes. Par contre, ils doivent "
 "toujours voyager léger et donc la fronde est leur arme favorite."
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:5
-#, fuzzy
 msgid "Ukian Deadeye"
-msgstr "Rôdeuse ukienne"
+msgstr "Tireuse d’élite ukienne"
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:23
-#, fuzzy
 msgid ""
 "Ukian Deadeyes have been roaming the forrest for a long time and can move "
 "about undetected. They can launch many missiles, or they can take a tactic "
 "from the orcs and launch more destructive (but slower to load) fire arrows."
 msgstr ""
-"Les rôdeuses ukiennes arpentent depuis très longtemps les forêts et peuvent "
-"se déplacer sans être aperçues. Elles peuvent tirer beaucoup de flèches ou "
-"utiliser un technique orc et envoyer des flèches de feu plus destructrices, "
-"mais plus lentes à charger."
+"Les tireuses d’élite ukienne arpentent depuis très longtemps les forêts et "
+"peuvent se déplacer sans être aperçues. Elles peuvent tirer beaucoup de "
+"flèches ou utiliser une technique orc et envoyer des flèches de feu plus "
+"destructrices, mais plus lentes à charger."
 
 #. [unit_type]: id=Ukian Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Dog.cfg:5
@@ -3070,7 +3027,6 @@ msgstr "Chien"
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Dog.cfg:21
 #: Archaic_Era/units/ukians/Ukian_Harrier.cfg:21
-#, fuzzy
 msgid ""
 "Dogs are not high maintanence and are useful allies when hunting or "
 "scouting. Ukian Dogs are weak but fast and nimble so they are good at "
@@ -3078,20 +3034,18 @@ msgid ""
 "life of a dog is often short, but they do get tougher with experience."
 msgstr ""
 "Les chiens ne coûtent pas bien cher et sont des alliés utiles à la chasse ou "
-"aux patrouilles. Les chiens ukiens sont faibles mais rapides et agiles. Ils "
+"aux patrouilles. Les chiens ukiens sont faibles, mais rapides et agiles. Ils "
 "peuvent donc causer des ravages derrière les lignes ennemies, mais sont "
 "inefficaces lorsqu'il s'agit de tenir un front. La vie d'un chien est "
 "souvent courte, mais ils deviennent plus robustes avec l'expérience."
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:5
-#, fuzzy
 msgid "Ukian Flareman"
 msgstr "Sémaphore ukien"
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:92
-#, fuzzy
 msgid ""
 "Flaremen are elite Signalmen who carry brighter flames, for greater "
 "broadcast strength. The brilliance of the flames made combat with orcs a "
@@ -3105,19 +3059,16 @@ msgstr ""
 
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Harrier.cfg:5
-#, fuzzy
 msgid "Harrier"
-msgstr "Guerrier"
+msgstr "Chien de combat"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:5
-#, fuzzy
 msgid "Ukian Hawkeye"
 msgstr "Tireuse rapide ukienne"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:22
-#, fuzzy
 msgid ""
 "It's not that easy to accurately fire a bow, the Hawkeyes' secret is their "
 "ability to fire off so many shots. They can also take a tactic from the orcs "
@@ -3135,23 +3086,20 @@ msgstr "Officier ukien"
 
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:28
-#, fuzzy
 msgid ""
 "The Ukian Officers are veteran Regulars, the Ukians didn't have a class "
 "structure before the arrival of the King."
 msgstr ""
-"Les officiers ukiens sont des soldats vétérans. Les ukiens ne possédait pas "
-"une hiérarchie militaire bien précise avant l'arrivée du roi."
+"Les officiers ukiens sont des soldats vétérans. Les ukiens ne possédaient "
+"pas une hiérarchie militaire bien précise avant l'arrivée du roi."
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:5
-#, fuzzy
 msgid "Ukian Regular"
-msgstr "Soldat ukien"
+msgstr "Régulier Ukien"
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:20
-#, fuzzy
 msgid ""
 "Ukian Regulars carry a spear because spears are relatively inexpensive. Like "
 "all Ukians, they are accustomed to life on the tundra, and know how to "
@@ -3159,9 +3107,9 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-"Les soldats ukiens portent une lance car celles-ci ne coûtent pas bien cher. "
-"Comme tous les ukiens, ils sont accoutumés à la tundra et savent comment "
-"garder leur allure sur la neige.\n"
+"Les réguliers ukiens portent une lance, car celles-ci ne coûtent pas bien "
+"cher. Comme tous les ukiens, ils sont accoutumés à la toundra et savent "
+"comment garder leur allure sur la neige.\n"
 "\n"
 "Remarques : "
 
@@ -3172,7 +3120,6 @@ msgstr "Coureur ukien"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:30
-#, fuzzy
 msgid ""
 "Because there were no horses in Ukiah, the scouts and messengers travelled "
 "by foot, learning to keep pace even over icy terrain. To avoid being "
@@ -3184,7 +3131,7 @@ msgid ""
 "canine colleagues."
 msgstr ""
 "Parce qu'il n'y avait pas de chevaux en Ukiah, les éclaireurs et les "
-"messagers voyagaient à pied, apprenant à garder leur rythme même sur des "
+"messagers voyagent à pied, apprenant à garder leur rythme même sur des "
 "terrains gelés. Afin de ne pas être repérés, ils préfèrent voyager sous "
 "couvert de l'obscurité. Ils ne peuvent pas porter une armure lourde ni être "
 "bien équipés afin de garder leur agilité. Ils sont donc experts de la "
@@ -3194,13 +3141,11 @@ msgstr ""
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:5
-#, fuzzy
 msgid "Ukian Seeress"
 msgstr "Voyante ukienne"
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:22
-#, fuzzy
 msgid ""
 "So much knowledge was lost during the orcish raids, the Seeresses have had "
 "to start from the beginning. While they can't completely form and control a "
@@ -3216,19 +3161,16 @@ msgstr ""
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:40
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:45
-#, fuzzy
 msgid "shockwave"
 msgstr "onde de choc"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:5
-#, fuzzy
 msgid "Ukian Signalman"
 msgstr "Indicateur ukien"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:94
-#, fuzzy
 msgid ""
 "Ice, snow, and rough terrain can make it too slow or treacherous to send "
 "messages via Runner. Flames can be seen from a distance, so Signalmen send "
@@ -3245,9 +3187,8 @@ msgstr ""
 
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:4
-#, fuzzy
 msgid "Ukian Subcommander"
-msgstr "Grand commandeur ukien"
+msgstr "Sous-commandant ukien"
 
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:35
@@ -3256,6 +3197,10 @@ msgid ""
 "fighters. They also carry more substantial shields, which may be used not "
 "only to frustrate enemy strikes, but to stun the enemy."
 msgstr ""
+"Les officiers qui réussissent deviennent des sous-commandants et ils "
+"dirigent un plus grand nombre de combattants. Ils portent aussi des "
+"boucliers plus importants, qui peuvent être utilisés non seulement pour "
+"déjouer les frappes ennemies, mais aussi pour étourdir leurs adversaires."
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:4
@@ -3264,20 +3209,19 @@ msgstr "Vétéran ukien"
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:20
-#, fuzzy
 msgid "Veteran soldiers..."
 msgstr "Les soldats vétérans..."
 
+# http://en.wikipedia.org/wiki/Throwing_axe
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:46
-#, fuzzy
 msgid "throwing axe"
-msgstr "Couteau de lancer"
+msgstr "hache de lancer"
 
 #. [unit_type]: id=Ukian War Hound, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:5
 msgid "War Hound"
-msgstr ""
+msgstr "Chien de guerre"
 
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:132
@@ -3286,13 +3230,11 @@ msgstr "torche"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:5
-#, fuzzy
 msgid "Ukian Witch"
 msgstr "Sorcière ukienne"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:21
-#, fuzzy
 msgid ""
 "Ukian Witches are both proficient in the healing arts and resistent to the "
 "elements. Magic attacks are of a different nature, it is difficult to be "
@@ -3308,7 +3250,6 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:57
-#, fuzzy
 msgid "strike"
 msgstr "foudre"
 
@@ -3329,7 +3270,6 @@ msgstr "Ukiens"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:9
-#, fuzzy
 msgid ""
 "The Ukians are from the frozen North. Lost descendants of an ill-advised "
 "Wesnoth settlement program, they were cut off from civilization. Surrounded "
@@ -3340,13 +3280,13 @@ msgid ""
 "reacquaintance with the people of Wesnoth, they have just started training "
 "mages."
 msgstr ""
-"Les ukiens sont originaires du Nord gelé. Descendants perdus d'un programme "
+"Les ukiens sont originaires du nord gelé. Descendants perdus d'un programme "
 "de colonisation mal préparé, ils furent coupés de toute civilisation. "
 "Entourés par des orcs hostiles, ils eurent besoin de développer des "
 "stratégies pour survivre n'impliquant pas beaucoup de ressources ou la force "
-"brute, mais plutôt des communications et une mobilisation rapides. Chaque "
-"homme et chaque femme devait être capable de survivre à un assaut orc, donc "
-"il n'y avait pas de temps à consacrer aux études. Cependant, grâce les "
+"brute, mais plutôt des communications et une mobilisation rapide. Chaque "
+"homme et chaque femme devaient être capable de survivre à un assaut orc, "
+"donc il n'y avait pas de temps à consacrer aux études. Cependant, grâce aux "
 "récentes relations avec les gens de Wesnoth, ils viennent tout juste de "
 "commencer à entraîner des mages."
 
@@ -3405,7 +3345,6 @@ msgstr "Chiens ukiens"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:21
-#, fuzzy
 msgid ""
 "The Ukians needed help avoiding the orcs, the canines needed food and "
 "shelter. Most often, dogs are used in hunts and patrols, but those that are "
@@ -3427,103 +3366,86 @@ msgstr ""
 
 #. [trait]: id=aa_phantom, description={STR_NONLIVING_DESCRIPTION}
 #: Archaic_Era/utils/Archaic_abilities.cfg:10
-#, fuzzy
 msgid "phantom"
 msgstr "fantôme"
 
 #. [trait]: id=aa_phantom, description={STR_NONLIVING_DESCRIPTION}
 #: Archaic_Era/utils/Archaic_abilities.cfg:11
-#, fuzzy
 msgid "female^phantom"
 msgstr "fantôme"
 
 #. [trait]: id=aa_zealous, description={STR_ZERO_UPKEEP}
 #: Archaic_Era/utils/Archaic_abilities.cfg:24
-#, fuzzy
 msgid "zealous"
 msgstr "zélé"
 
 #. [trait]: id=aa_zealous, description={STR_ZERO_UPKEEP}
 #: Archaic_Era/utils/Archaic_abilities.cfg:25
-#, fuzzy
 msgid "female^zealous"
 msgstr "zélée"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:57
-#, fuzzy
 msgid "dancer"
 msgstr "danseur"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:58
-#, fuzzy
 msgid "female^dancer"
 msgstr "danseuse"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:59
-#, fuzzy
 msgid ""
 "Dancer:\n"
 "This unit's physical (pierce, impact, blade) resistances are doubled, up to "
 "a maximum of 60%, when attacking because the enemy cannot get a direct hit."
 msgstr ""
-"Danseur :\n"
+"Danseur : \n"
 "Les résistances physiques (perforant, contondant, tranchant) sont doublées "
-"en défense, jusqu'à un maximum de 60 %, car l'ennemi n'arrive pas àtoucher "
+"en défense, jusqu'à un maximum de 60 %, car l'ennemi n'arrive pas à toucher "
 "directement."
 
 #. [leadership]: id=leadership
 #: Archaic_Era/utils/Archaic_abilities.cfg:72
-#, fuzzy
 msgid "female^dog trainer"
 msgstr "Maître-chien"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:91
 msgid "anti-poison"
-msgstr ""
+msgstr "anti-poison"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:92
-#, fuzzy
 msgid "female^anti-poison"
-msgstr "fantôme"
+msgstr "anti-poison"
 
 #. [heals]: id=aa_trinkets
 #: Archaic_Era/utils/Archaic_abilities.cfg:93
-#, fuzzy
 msgid ""
 "Anti-poison:\n"
 "Allows the unit to avoid the effects of poison, but the poisoned unit cannot "
 "be cured of its poison by this ability, and must seek the care of a village "
 "or a unit that can cure."
 msgstr ""
-"Soins + {AMT} :\n"
-"Permet à cette unité de soigner les unités adjacentes au début de chaque "
-"tour.\n"
-"\n"
-"Une unité soignée peut soit regagner jusqu'à {AMT} points de vie, soit ne "
-"pas subir les effets du poison ce tour-ci.\n"
-"Une unité empoisonnée ne peut pas être guérie par un soigneur et devra "
-"trouver un village ou une unité qui dispose de la compétence guérison."
+"Anti-poison :\n"
+"Permets à l'unité d'éviter les effets du poison, mais l'unité empoisonnée ne "
+"peut être guérie de son poison par cette capacité, et doit chercher la prise "
+"en charge d'un village ou d'une unité qui peut guérir."
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:109
-#, fuzzy
 msgid "heals +"
 msgstr "soins +"
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:110
-#, fuzzy
 msgid "female^heals +"
 msgstr "soins +"
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:111
-#, fuzzy
 msgid ""
 "Heals +{AMT}:\n"
 "Allows the unit to heal adjacent allied units at the beginning of our turn.\n"
@@ -3544,37 +3466,33 @@ msgstr ""
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:130
-#, fuzzy
 msgid "immortal"
 msgstr "immortel"
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:131
-#, fuzzy
 msgid "female^immortal"
 msgstr "immortelle"
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:132
-#, fuzzy
 msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
-"Immortel :\n"
+"Immortel :\n"
 "Cette unité regagne 99 points de vie au début de chaque tour. Si elle est "
-"empoisonnée, elle guérie du poison."
+"empoisonnée, elle guérit du poison."
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:142
 msgid "intangible"
-msgstr ""
+msgstr "intangible"
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:143
-#, fuzzy
 msgid "female^intangible"
-msgstr "faite de pierre"
+msgstr "intangible"
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:144
@@ -3583,78 +3501,70 @@ msgid ""
 "This unit uses only one movement point per attack, rather than all of its "
 "movement points like most other units."
 msgstr ""
+"Intangible :\n"
+"Cette unité utilise un seul point de mouvement par attaque, plutôt que "
+"l'ensemble de ses points de mouvement comme la plupart des autres unités."
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:153
-#, fuzzy
 msgid "stone"
-msgstr "fait de pierre"
+msgstr "pierre"
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:154
-#, fuzzy
 msgid "female^stone"
-msgstr "faite de pierre"
+msgstr "pierre"
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:155
-#, fuzzy
 msgid ""
 "Stone:\n"
 "This unit is stone in the daylight, if not next to an ally or in a village, "
 "but is always mobile at night."
 msgstr ""
-"Fait de pierre :\n"
+"Pierre :\n"
 "Cette unité est pétrifiée la journée, mais mobile la nuit."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:456
-#, fuzzy
 msgid "release stoned victims"
 msgstr "Libérer les victimes pétrifiées"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:492
 #: Archaic_Era/utils/Archaic_abilities.cfg:537
-#, fuzzy
 msgid "Free"
 msgstr "Libéré"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:548
-#, fuzzy
 msgid "tie-down"
-msgstr "ligotage"
+msgstr "arrimage"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:549
-#, fuzzy
 msgid ""
 "Tie-Down:\n"
 "Defender cannot move for any turn in which the attacker is adjacent at "
 "start, but they can still attack."
 msgstr ""
-"Ligotage :\n"
+"Arrimage :\n"
 "Le défenseur ne peut pas bouger tant que l'attaquant se trouve à côté de "
 "lui, mais il peut toujours attaquer."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:748
 #: Archaic_Era/utils/Archaic_abilities.cfg:789
 #: Archaic_Era/utils/Archaic_abilities.cfg:830
-#, fuzzy
 msgid "hide in shell"
-msgstr "Se cacher dans sa carapace"
+msgstr "se cacher dans sa carapace"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:768
 #: Archaic_Era/utils/Archaic_abilities.cfg:809
 #: Archaic_Era/utils/Archaic_abilities.cfg:850
-#, fuzzy
 msgid "stop hiding"
-msgstr "Sortir de sa carapace"
+msgstr "sortir de sa carapace"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:877
-#, fuzzy
 msgid "selfheal"
 msgstr "régénérant"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:878
-#, fuzzy
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
@@ -3664,17 +3574,14 @@ msgstr ""
 "elle guérie du poison."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:895
-#, fuzzy
 msgid "penumbra"
 msgstr "pénombre"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:896
-#, fuzzy
 msgid "female^penumbra"
 msgstr "pénombre"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:897
-#, fuzzy
 msgid ""
 "Penumbra:\n"
 "This unit obscures the surrounding area, making chaotic units fight better, "
@@ -3683,7 +3590,7 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
-"Pénombre :\n"
+"Pénombre :\n"
 "Cette unité obscurcit les cases environnantes, rendant les unités chaotiques "
 "plus fortes et les unités loyales plus faibles.\n"
 "\n"
@@ -3692,15 +3599,13 @@ msgstr ""
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:910
 #: Archaic_Era/utils/Archaic_abilities.cfg:912
-#, fuzzy
 msgid "desert-stalk"
-msgstr "Camouflage du désert"
+msgstr "être du désert"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:911
 #: Archaic_Era/utils/Archaic_abilities.cfg:913
-#, fuzzy
 msgid "female^desert-stalk"
-msgstr "Camouflage du désert"
+msgstr "être du désert"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:914
 #: Archaic_Era/utils/Archaic_abilities.cfg:918
@@ -3712,22 +3617,21 @@ msgid ""
 "they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
-"Camouflage du désert :\n"
+"Être du désert :\n"
 "Cette unité peut se cacher dans le sable et y rester invisible pour ses "
 "ennemis.\n"
 "\n"
 "Les ennemis ne peuvent pas voir cette unité si elle est placée sur un "
-"terrain désertique, sauf si ils y a des unités ennemies juste à côté. Tout "
+"terrain désertique, sauf s'il y a des unités ennemies juste à côté. Tout "
 "ennemi qui découvre en premier cette unité perd immédiatement tous ses "
 "points de mouvement."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:935
-#, fuzzy
 msgid ""
 "Scattershot:\n"
 "This attack always has at least a 70% chance to hit."
 msgstr ""
-"Tir dispersé :\n"
+"Tir dispersé :\n"
 "Cette attaque a toujours au moins 70 % de chance de toucher."
 
 #. [terrain_type]: id=r_bridge
@@ -3736,223 +3640,220 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:8 Archaic_Era/utils/terrain.cfg:19
 #: Archaic_Era/utils/terrain.cfg:30
 msgid "Rope Bridge"
-msgstr ""
+msgstr "Pont de corde"
 
 #. [terrain_type]: id=bmrtree
 #: Archaic_Era/utils/terrain.cfg:42
 msgid "Forest"
-msgstr ""
+msgstr "Forêt"
 
 #. [terrain_type]: id=bmrtree
 #: Archaic_Era/utils/terrain.cfg:43
 msgid "Dead Forest"
-msgstr ""
+msgstr "Forêt Morte"
 
 #. [terrain_type]: id=bmr_blank
 #: Archaic_Era/utils/terrain.cfg:54
 msgid "Empty Space"
-msgstr ""
+msgstr "Espace Vide"
 
 #. [terrain_type]: id=bmr_fountain
 #: Archaic_Era/utils/terrain.cfg:65
 msgid "Fountain"
-msgstr ""
+msgstr "Fontaine"
 
 #. [terrain_type]: id=Tundra
 #: Archaic_Era/utils/terrain.cfg:76
 msgid "Tundra"
-msgstr ""
+msgstr "Toundra"
 
 #. [terrain_type]: id=bmr_city
 #: Archaic_Era/utils/terrain.cfg:86
 msgid "Marble Brick"
-msgstr ""
+msgstr "Brique de marbre"
 
 #. [terrain_type]: id=bmr_city2
 #. [terrain_type]: id=bmr_city3
 #: Archaic_Era/utils/terrain.cfg:97 Archaic_Era/utils/terrain.cfg:121
 msgid "Marble Pallisade"
-msgstr ""
+msgstr "Palisade en marbre"
 
 #. [terrain_type]: id=m_stairsn
 #: Archaic_Era/utils/terrain.cfg:109
 msgid "Stairs"
-msgstr ""
+msgstr "Escaliers"
 
 #. [terrain_type]: id=bmr_primetile
 #: Archaic_Era/utils/terrain.cfg:132
 msgid "Odd Plate"
-msgstr ""
+msgstr "Plaque étrange"
 
 #. [terrain_type]: id=bmr_primegrid
 #: Archaic_Era/utils/terrain.cfg:143
 msgid "Odd Grid"
-msgstr ""
+msgstr "Grille étrange"
 
 #. [terrain_type]: id=bmr_steel
 #: Archaic_Era/utils/terrain.cfg:154
 msgid "Steel Plate"
-msgstr ""
+msgstr "Tôles en acier"
 
 #. [terrain_type]: id=bmr_darksteel
 #: Archaic_Era/utils/terrain.cfg:164
 msgid "Dark Steel Plate"
-msgstr ""
+msgstr "Tôles en acier noir"
 
 #. [terrain_type]: id=bmr_brick
 #: Archaic_Era/utils/terrain.cfg:174
 msgid "Light Stone Blocks"
-msgstr ""
+msgstr "Blocs de pierre de lumière"
 
 #. [terrain_type]: id=bmr_brickd
 #: Archaic_Era/utils/terrain.cfg:184
 msgid "Dark Stone Blocks"
-msgstr ""
+msgstr "Blocs de pierre sombre"
 
 #. [terrain_type]: id=Drift
 #: Archaic_Era/utils/terrain.cfg:198
 msgid "Snow Drift"
-msgstr ""
+msgstr "Congère"
 
 #. [terrain_type]: id=thin_ice
 #: Archaic_Era/utils/terrain.cfg:210
 msgid "Thin Ice"
-msgstr ""
+msgstr "Glace mince"
 
 #. [terrain_type]: id=test_camp
 #: Archaic_Era/utils/terrain.cfg:220
 msgid "Test Camp"
-msgstr ""
+msgstr "Camp d'essai"
 
 #. [terrain_type]: id=test_camp
 #: Archaic_Era/utils/terrain.cfg:232
 msgid "Test Keep"
-msgstr ""
+msgstr "Donjon d'essai"
 
 #. [terrain_type]: id=troll_camp
 #: Archaic_Era/utils/terrain.cfg:245
 msgid "Troll Camp"
-msgstr ""
+msgstr "Camp Troll"
 
 #. [terrain_type]: id=troll_keep
 #: Archaic_Era/utils/terrain.cfg:257
 msgid "Troll Keep"
-msgstr ""
+msgstr "Donjon Troll"
 
 #. [terrain_type]: id=troll_campswamp
 #: Archaic_Era/utils/terrain.cfg:270
 msgid "Swamp Troll Camp"
-msgstr ""
+msgstr "Camp des marais Troll"
 
 #. [terrain_type]: id=troll_keepswamp
 #: Archaic_Era/utils/terrain.cfg:282
 msgid "Swamp Troll Keep"
-msgstr ""
+msgstr "Donjon des marais Troll"
 
 #. [terrain_type]: id=troll_campwater
 #: Archaic_Era/utils/terrain.cfg:295
 msgid "Sunken Troll Camp"
-msgstr ""
+msgstr "Camp Troll englouti"
 
 #. [terrain_type]: id=troll_keepwater
 #: Archaic_Era/utils/terrain.cfg:308
 msgid "Sunken Troll Keep"
-msgstr ""
+msgstr "Donjon Troll englouti"
 
 #. [terrain_type]: id=bmr_primekeep
 #: Archaic_Era/utils/terrain.cfg:324
-#, fuzzy
 msgid "Primeval Keep"
-msgstr "Ouraniens"
+msgstr "Donjon Ouranien"
 
 #. [terrain_type]: id=bmr_primecastle
 #: Archaic_Era/utils/terrain.cfg:337
-#, fuzzy
 msgid "Primeval Castle"
-msgstr "Ouraniens"
+msgstr "Château ouranien"
 
 #. [terrain_type]: id=bmr_orckeep
 #: Archaic_Era/utils/terrain.cfg:351
 msgid "Sand Keep"
-msgstr ""
+msgstr "Donjon des sables"
 
 #. [terrain_type]: id=bmr_orckeep
 #: Archaic_Era/utils/terrain.cfg:352
 msgid "Sand Ruin Keep"
-msgstr ""
+msgstr "Donjon des sables en ruine"
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:364
 msgid "Sand Castle"
-msgstr ""
+msgstr "Château des sables"
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:365
 msgid "Sand Ruin"
-msgstr ""
+msgstr "Ruine des sables"
 
 #. [terrain_type]: id=bmr_marble_keep
 #: Archaic_Era/utils/terrain.cfg:392 Archaic_Era/utils/terrain.cfg:419
 msgid "Keep"
-msgstr ""
+msgstr "Donjon"
 
 #. [terrain_type]: id=bmr_despair_castle
 #: Archaic_Era/utils/terrain.cfg:434 Archaic_Era/utils/terrain.cfg:435
 #: Archaic_Era/utils/terrain.cfg:459 Archaic_Era/utils/terrain.cfg:460
 msgid "Ghost Castle"
-msgstr ""
+msgstr "Château fantôme"
 
 #. [terrain_type]: id=bmr_despair_keep
 #: Archaic_Era/utils/terrain.cfg:446 Archaic_Era/utils/terrain.cfg:447
 #: Archaic_Era/utils/terrain.cfg:471 Archaic_Era/utils/terrain.cfg:472
 msgid "Ghost Keep"
-msgstr ""
+msgstr "Donjon fantôme"
 
 #. [terrain_type]: id=bmr_stonewall2
 #: Archaic_Era/utils/terrain.cfg:486
 msgid "Wall2"
-msgstr ""
+msgstr "Mur2"
 
 #. [terrain_type]: id=bmr_stonewall
 #: Archaic_Era/utils/terrain.cfg:496
 msgid "Wall"
-msgstr ""
+msgstr "Mur"
 
 #. [terrain_type]: id=bmr_icewall
 #: Archaic_Era/utils/terrain.cfg:506
 msgid "Ice Wall"
-msgstr ""
+msgstr "mur de glace"
 
 #. [terrain_type]: id=bmr_icecave
 #: Archaic_Era/utils/terrain.cfg:516
 msgid "Ice Cave"
-msgstr ""
+msgstr "Caverne de glace"
 
 #. [terrain_type]: id=bmr_icecanyon
 #: Archaic_Era/utils/terrain.cfg:527
 msgid "Ice Chasm"
-msgstr ""
+msgstr "Gouffre de glace"
 
 #. [terrain_type]: id=facility1
 #: Archaic_Era/utils/terrain.cfg:538
 msgid "Industrial Facility"
-msgstr ""
+msgstr "Installation industrielle"
 
 #. [terrain_type]: id=bmr_igloo
 #: Archaic_Era/utils/terrain.cfg:549
 msgid "Ice Village"
-msgstr ""
+msgstr "Village de glace"
 
 #. [terrain_type]: id=bmr_primevilla
 #: Archaic_Era/utils/terrain.cfg:561
-#, fuzzy
 msgid "Primeval Villa"
-msgstr "Ouraniens"
+msgstr "Villa Ouranienne"
 
 #. [terrain_type]: id=bmr_test
 #: Archaic_Era/utils/terrain.cfg:606
 msgid "Test Village"
-msgstr ""
+msgstr "Village d'essai"
 
 #. [terrain_type]: id=bmr_path
 #. [terrain_type]: id=bmr_pathdiag1
@@ -3960,53 +3861,53 @@ msgstr ""
 #: Archaic_Era/utils/terrain.cfg:618 Archaic_Era/utils/terrain.cfg:626
 #: Archaic_Era/utils/terrain.cfg:634
 msgid "Path"
-msgstr ""
+msgstr "Chemin"
 
+# g pour gauche
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
 #: Archaic_Era/utils/terrain.cfg:643 Archaic_Era/utils/terrain.cfg:651
 #: Archaic_Era/utils/terrain.cfg:659
 msgid "Path(l)"
-msgstr ""
+msgstr "Chemin(g)"
 
+# d pour droite
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
 #: Archaic_Era/utils/terrain.cfg:668 Archaic_Era/utils/terrain.cfg:676
 #: Archaic_Era/utils/terrain.cfg:684
 msgid "Path(r)"
-msgstr ""
+msgstr "Chemin(d)"
 
 #. [terrain_type]: id=vent1
 #: Archaic_Era/utils/terrain.cfg:695
 msgid "Heat Exchanger"
-msgstr ""
+msgstr "Échangeur de chaleur"
 
 #. [terrain_type]: id=engine_tri
 #: Archaic_Era/utils/terrain.cfg:735
 msgid "Engine"
-msgstr ""
+msgstr "Machine"
 
 #. [terrain_type]: id=tri_blue
 #: Archaic_Era/utils/terrain.cfg:761
 msgid "Blue"
-msgstr ""
+msgstr "Bleu"
 
 #. [terrain_type]: id=tri_path
 #: Archaic_Era/utils/terrain.cfg:772
 msgid "Snow Path"
-msgstr ""
+msgstr "Chemin de neige"
 
 #. [dummy]: id=aa_vector_damage
 #: Archaic_Era/utils/vector_abilities.cfg:102
-#, fuzzy
 msgid "vector damage"
 msgstr "dégâts de vecteur"
 
 #. [dummy]: id=aa_vector_damage
 #: Archaic_Era/utils/vector_abilities.cfg:103
-#, fuzzy
 msgid ""
 "Vector Damage:\n"
 "..."
@@ -4015,36 +3916,33 @@ msgstr ""
 "..."
 
 #: Archaic_Era/utils/vector_abilities.cfg:112
-#, fuzzy
 msgid "vector"
 msgstr "vecteur"
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:466
-#, fuzzy
 msgid "possessed"
-msgstr "Possédé"
+msgstr "possédé"
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:581
-#, fuzzy
 msgid "Possessed"
 msgstr "Possédé"
 
 #. [trait]: id=aa_khthon_enthrall
 #: Archaic_Era/utils/vector_abilities.cfg:696
 msgid "enthrallment"
-msgstr ""
+msgstr "captivation"
 
 #. [trait]: id=aa_khthon_enthrall
 #: Archaic_Era/utils/vector_abilities.cfg:697
 msgid "Slain foes become Khthon thralls."
-msgstr ""
+msgstr "Les adversaires massacrés deviennent des serfs chthoniens."
 
 #. [unstore_unit]
 #: Archaic_Era/utils/vector_abilities.cfg:786
 msgid "enthralled"
-msgstr ""
+msgstr "captivés"
 
 #, fuzzy
 #~ msgid "Stone Grip"
