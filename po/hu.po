@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-04-01 17:40-0400\n"
+"POT-Creation-Date: 2012-04-14 02:05-0400\n"
 "PO-Revision-Date: 2012-02-15 17:14+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -3551,235 +3551,245 @@ msgstr ""
 msgid "Tundra"
 msgstr "Tundra"
 
-#. [terrain_type]: id=bmr_city
+#. [terrain_type]: id=bmr_mlight
 #: Archaic_Era/utils/terrain.cfg:86
+msgid "Lamplight"
+msgstr ""
+
+#. [terrain_type]: id=bmr_mlamp
+#: Archaic_Era/utils/terrain.cfg:98
+msgid "Marble Lamp"
+msgstr ""
+
+#. [terrain_type]: id=bmr_city
+#: Archaic_Era/utils/terrain.cfg:110
 msgid "Marble Brick"
 msgstr ""
 
 #. [terrain_type]: id=bmr_city2
 #. [terrain_type]: id=bmr_city3
-#: Archaic_Era/utils/terrain.cfg:97 Archaic_Era/utils/terrain.cfg:121
+#: Archaic_Era/utils/terrain.cfg:121 Archaic_Era/utils/terrain.cfg:144
 msgid "Marble Pallisade"
 msgstr ""
 
 #. [terrain_type]: id=m_stairsn
-#: Archaic_Era/utils/terrain.cfg:109
+#: Archaic_Era/utils/terrain.cfg:133
 msgid "Stairs"
 msgstr ""
 
 #. [terrain_type]: id=bmr_primetile
-#: Archaic_Era/utils/terrain.cfg:132
+#: Archaic_Era/utils/terrain.cfg:155
 msgid "Odd Plate"
 msgstr "Féltányér"
 
 #. [terrain_type]: id=bmr_primegrid
-#: Archaic_Era/utils/terrain.cfg:143
+#: Archaic_Era/utils/terrain.cfg:166
 msgid "Odd Grid"
 msgstr "Félrács"
 
 #. [terrain_type]: id=bmr_steel
-#: Archaic_Era/utils/terrain.cfg:154
+#: Archaic_Era/utils/terrain.cfg:177
 msgid "Steel Plate"
 msgstr "Acéltányér"
 
 #. [terrain_type]: id=bmr_darksteel
-#: Archaic_Era/utils/terrain.cfg:164
+#: Archaic_Era/utils/terrain.cfg:187
 msgid "Dark Steel Plate"
 msgstr "Sötét acéltányér"
 
 #. [terrain_type]: id=bmr_brick
-#: Archaic_Era/utils/terrain.cfg:174
+#: Archaic_Era/utils/terrain.cfg:197
 msgid "Light Stone Blocks"
 msgstr "Világos kőkocka"
 
 #. [terrain_type]: id=bmr_brickd
-#: Archaic_Era/utils/terrain.cfg:184
+#: Archaic_Era/utils/terrain.cfg:207
 msgid "Dark Stone Blocks"
 msgstr "Sötét kőkocka"
 
 #. [terrain_type]: id=Drift
-#: Archaic_Era/utils/terrain.cfg:198
+#: Archaic_Era/utils/terrain.cfg:221
 msgid "Snow Drift"
 msgstr "Hófúvás"
 
 #. [terrain_type]: id=thin_ice
-#: Archaic_Era/utils/terrain.cfg:210
+#: Archaic_Era/utils/terrain.cfg:233
 msgid "Thin Ice"
 msgstr "Vékony jég"
 
 #. [terrain_type]: id=test_camp
-#: Archaic_Era/utils/terrain.cfg:220
+#: Archaic_Era/utils/terrain.cfg:243
 msgid "Test Camp"
 msgstr "Tesztsátor"
 
 #. [terrain_type]: id=test_camp
-#: Archaic_Era/utils/terrain.cfg:232
+#: Archaic_Era/utils/terrain.cfg:255
 msgid "Test Keep"
 msgstr "Teszt erőd"
 
 #. [terrain_type]: id=troll_camp
-#: Archaic_Era/utils/terrain.cfg:245
+#: Archaic_Era/utils/terrain.cfg:268
 msgid "Troll Camp"
 msgstr "Troll sátor"
 
 #. [terrain_type]: id=troll_keep
-#: Archaic_Era/utils/terrain.cfg:257
+#: Archaic_Era/utils/terrain.cfg:280
 msgid "Troll Keep"
 msgstr "Troll erőd"
 
 #. [terrain_type]: id=troll_campswamp
-#: Archaic_Era/utils/terrain.cfg:270
+#: Archaic_Era/utils/terrain.cfg:293
 msgid "Swamp Troll Camp"
 msgstr "Mocsári troll sátor"
 
 #. [terrain_type]: id=troll_keepswamp
-#: Archaic_Era/utils/terrain.cfg:282
+#: Archaic_Era/utils/terrain.cfg:305
 msgid "Swamp Troll Keep"
 msgstr "Mocsári troll erőd"
 
 #. [terrain_type]: id=troll_campwater
-#: Archaic_Era/utils/terrain.cfg:295
+#: Archaic_Era/utils/terrain.cfg:318
 msgid "Sunken Troll Camp"
 msgstr "Elsüllyedt troll sátor"
 
 #. [terrain_type]: id=troll_keepwater
-#: Archaic_Era/utils/terrain.cfg:308
+#: Archaic_Era/utils/terrain.cfg:331
 msgid "Sunken Troll Keep"
 msgstr "Elsüllyedt troll erőd"
 
 #. [terrain_type]: id=bmr_primekeep
-#: Archaic_Era/utils/terrain.cfg:324
+#: Archaic_Era/utils/terrain.cfg:347
 msgid "Primeval Keep"
 msgstr "Antik erőd"
 
 #. [terrain_type]: id=bmr_primecastle
-#: Archaic_Era/utils/terrain.cfg:337
+#: Archaic_Era/utils/terrain.cfg:360
 msgid "Primeval Castle"
 msgstr "Antik vár"
 
 #. [terrain_type]: id=bmr_orckeep
-#: Archaic_Era/utils/terrain.cfg:351
+#: Archaic_Era/utils/terrain.cfg:374
 msgid "Sand Keep"
 msgstr "Sivatagi erőd"
 
 #. [terrain_type]: id=bmr_orckeep
-#: Archaic_Era/utils/terrain.cfg:352
+#: Archaic_Era/utils/terrain.cfg:375
 msgid "Sand Ruin Keep"
 msgstr "Sivatagi romos erőd"
 
 #. [terrain_type]: id=bmr_orccastle
-#: Archaic_Era/utils/terrain.cfg:364
+#: Archaic_Era/utils/terrain.cfg:387
 msgid "Sand Castle"
 msgstr "Sivatagi vár"
 
 #. [terrain_type]: id=bmr_orccastle
-#: Archaic_Era/utils/terrain.cfg:365
+#: Archaic_Era/utils/terrain.cfg:388
 msgid "Sand Ruin"
 msgstr "Sivatagi rom"
 
 #. [terrain_type]: id=bmr_marble_keep
-#: Archaic_Era/utils/terrain.cfg:392 Archaic_Era/utils/terrain.cfg:419
+#: Archaic_Era/utils/terrain.cfg:415 Archaic_Era/utils/terrain.cfg:442
 msgid "Keep"
 msgstr "Erőd"
 
 #. [terrain_type]: id=bmr_despair_castle
-#: Archaic_Era/utils/terrain.cfg:434 Archaic_Era/utils/terrain.cfg:435
-#: Archaic_Era/utils/terrain.cfg:459 Archaic_Era/utils/terrain.cfg:460
+#: Archaic_Era/utils/terrain.cfg:457 Archaic_Era/utils/terrain.cfg:458
+#: Archaic_Era/utils/terrain.cfg:482 Archaic_Era/utils/terrain.cfg:483
 msgid "Ghost Castle"
 msgstr "Szellemvár"
 
 #. [terrain_type]: id=bmr_despair_keep
-#: Archaic_Era/utils/terrain.cfg:446 Archaic_Era/utils/terrain.cfg:447
-#: Archaic_Era/utils/terrain.cfg:471 Archaic_Era/utils/terrain.cfg:472
+#: Archaic_Era/utils/terrain.cfg:469 Archaic_Era/utils/terrain.cfg:470
+#: Archaic_Era/utils/terrain.cfg:494 Archaic_Era/utils/terrain.cfg:495
 msgid "Ghost Keep"
 msgstr "Szellemerőd"
 
 #. [terrain_type]: id=bmr_stonewall2
-#: Archaic_Era/utils/terrain.cfg:486
+#: Archaic_Era/utils/terrain.cfg:509
 msgid "Wall2"
 msgstr "Fal2"
 
 #. [terrain_type]: id=bmr_stonewall
-#: Archaic_Era/utils/terrain.cfg:496
+#: Archaic_Era/utils/terrain.cfg:519
 msgid "Wall"
 msgstr "Fal"
 
 #. [terrain_type]: id=bmr_icewall
-#: Archaic_Era/utils/terrain.cfg:506
+#: Archaic_Era/utils/terrain.cfg:529
 msgid "Ice Wall"
 msgstr "Jégfal"
 
 #. [terrain_type]: id=bmr_icecave
-#: Archaic_Era/utils/terrain.cfg:516
+#: Archaic_Era/utils/terrain.cfg:539
 msgid "Ice Cave"
 msgstr "Jégbarlang"
 
 #. [terrain_type]: id=bmr_icecanyon
-#: Archaic_Era/utils/terrain.cfg:527
+#: Archaic_Era/utils/terrain.cfg:550
 msgid "Ice Chasm"
 msgstr "Jégszakadék"
 
 #. [terrain_type]: id=facility1
-#: Archaic_Era/utils/terrain.cfg:538
+#: Archaic_Era/utils/terrain.cfg:561
 msgid "Industrial Facility"
 msgstr "Ipari terület"
 
 #. [terrain_type]: id=bmr_igloo
-#: Archaic_Era/utils/terrain.cfg:549
+#: Archaic_Era/utils/terrain.cfg:572
 msgid "Ice Village"
 msgstr "Jégkunyhó"
 
 #. [terrain_type]: id=bmr_primevilla
-#: Archaic_Era/utils/terrain.cfg:561
+#: Archaic_Era/utils/terrain.cfg:584
 msgid "Primeval Villa"
 msgstr "Antik falu"
 
 #. [terrain_type]: id=bmr_test
-#: Archaic_Era/utils/terrain.cfg:606
+#: Archaic_Era/utils/terrain.cfg:629
 msgid "Test Village"
 msgstr "Teszt falu"
 
 #. [terrain_type]: id=bmr_path
 #. [terrain_type]: id=bmr_pathdiag1
 #. [terrain_type]: id=bmr_pathdiag2
-#: Archaic_Era/utils/terrain.cfg:618 Archaic_Era/utils/terrain.cfg:626
-#: Archaic_Era/utils/terrain.cfg:634
+#: Archaic_Era/utils/terrain.cfg:641 Archaic_Era/utils/terrain.cfg:649
+#: Archaic_Era/utils/terrain.cfg:657
 msgid "Path"
 msgstr "Ösvény"
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
-#: Archaic_Era/utils/terrain.cfg:643 Archaic_Era/utils/terrain.cfg:651
-#: Archaic_Era/utils/terrain.cfg:659
+#: Archaic_Era/utils/terrain.cfg:666 Archaic_Era/utils/terrain.cfg:674
+#: Archaic_Era/utils/terrain.cfg:682
 msgid "Path(l)"
 msgstr "Ösvény(b)"
 
 #. [terrain_type]: id=bmr_lpath
 #. [terrain_type]: id=bmr_lpathdiag1
 #. [terrain_type]: id=bmr_lpathdiag2
-#: Archaic_Era/utils/terrain.cfg:668 Archaic_Era/utils/terrain.cfg:676
-#: Archaic_Era/utils/terrain.cfg:684
+#: Archaic_Era/utils/terrain.cfg:691 Archaic_Era/utils/terrain.cfg:699
+#: Archaic_Era/utils/terrain.cfg:707
 msgid "Path(r)"
 msgstr "Ösvény(j)"
 
 #. [terrain_type]: id=vent1
-#: Archaic_Era/utils/terrain.cfg:695
+#: Archaic_Era/utils/terrain.cfg:718
 msgid "Heat Exchanger"
 msgstr "Hőcserélő"
 
 #. [terrain_type]: id=engine_tri
-#: Archaic_Era/utils/terrain.cfg:735
+#: Archaic_Era/utils/terrain.cfg:758
 msgid "Engine"
 msgstr "Gép"
 
 #. [terrain_type]: id=tri_blue
-#: Archaic_Era/utils/terrain.cfg:761
+#: Archaic_Era/utils/terrain.cfg:784
 msgid "Blue"
 msgstr "Batyu"
 
 #. [terrain_type]: id=tri_path
-#: Archaic_Era/utils/terrain.cfg:772
+#: Archaic_Era/utils/terrain.cfg:795
 msgid "Snow Path"
 msgstr "Havas ösvény"
 
@@ -3802,28 +3812,28 @@ msgid "vector"
 msgstr "járvány"
 
 #. [unstore_unit]
-#: Archaic_Era/utils/vector_abilities.cfg:466
+#: Archaic_Era/utils/vector_abilities.cfg:465
 #, fuzzy
 msgid "possessed"
 msgstr "Megszállott"
 
 #. [unstore_unit]
-#: Archaic_Era/utils/vector_abilities.cfg:581
+#: Archaic_Era/utils/vector_abilities.cfg:580
 msgid "Possessed"
 msgstr "Megszállott"
 
 #. [trait]: id=aa_khthon_enthrall
-#: Archaic_Era/utils/vector_abilities.cfg:696
+#: Archaic_Era/utils/vector_abilities.cfg:695
 msgid "enthrallment"
 msgstr "bűvölet"
 
 #. [trait]: id=aa_khthon_enthrall
-#: Archaic_Era/utils/vector_abilities.cfg:697
+#: Archaic_Era/utils/vector_abilities.cfg:696
 msgid "Slain foes become Khthon thralls."
 msgstr "A megölt ellenségek khthon rabszolgává válnak."
 
 #. [unstore_unit]
-#: Archaic_Era/utils/vector_abilities.cfg:786
+#: Archaic_Era/utils/vector_abilities.cfg:785
 #, fuzzy
 msgid "enthralled"
 msgstr "Elbűvölt"
