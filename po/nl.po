@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-14 02:05-0400\n"
+"POT-Creation-Date: 2012-09-04 20:57-0400\n"
 "PO-Revision-Date: 2011-02-21 15:35+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -176,7 +176,6 @@ msgstr ""
 #. [unit_type]: id=Mummy King, race=phantom_egypt
 #. [unit_type]: id=Mummy Pharo, race=phantom_egypt
 #. [unit_type]: id=Mummy Unbound, race=phantom_egypt
-#. [unit_type]: id=Northern Elite, race=human
 #. [unit_type]: id=Northern Soldier, race=human
 #. [unit_type]: id=Phantom Armor, race=despair
 #. [unit_type]: id=Phantom Cloak, race=despair
@@ -252,7 +251,6 @@ msgstr ""
 #: Archaic_Era/units/south-seas/Spitfire.cfg:22
 #: Archaic_Era/units/south-seas/Wolf.cfg:22
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:20
-#: Archaic_Era/units/ukians/Royal_Elite.cfg:21
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:19
 #: Archaic_Era/units/ukians/Royal_Soldier.cfg:20
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:19
@@ -316,7 +314,7 @@ msgid "Banshee"
 msgstr ""
 
 #. [unit_type]: id=Phantom Banshee, race=despair
-#: Archaic_Era/units/despair/Phantom_Banshee.cfg:22
+#: Archaic_Era/units/despair/Phantom_Banshee.cfg:23
 msgid ""
 "Banshees are either the ghosts of notable or high-born ladies, or spirits "
 "interested in the lives of the high-born. Their appearance is taken as a "
@@ -324,7 +322,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Archaic_Era/units/despair/Phantom_Banshee.cfg:81
+#: Archaic_Era/units/despair/Phantom_Banshee.cfg:82
 #: Archaic_Era/units/despair/Phantom_White.cfg:81
 #: Archaic_Era/units/despair/Phantom_Widow.cfg:81
 msgid "lament"
@@ -387,7 +385,7 @@ msgid "Midnight Beauty"
 msgstr ""
 
 #. [unit_type]: id=Phantom Midnight, race=despair
-#: Archaic_Era/units/despair/Phantom_Midnight.cfg:113
+#: Archaic_Era/units/despair/Phantom_Midnight.cfg:114
 msgid ""
 "Some ghosts mingle with the living during the day and evening, partaking of "
 "the life they themselves were denied. They appear as beautiful women, and "
@@ -397,7 +395,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=cold
-#: Archaic_Era/units/despair/Phantom_Midnight.cfg:172
+#: Archaic_Era/units/despair/Phantom_Midnight.cfg:173
 msgid "gaze"
 msgstr ""
 
@@ -2275,13 +2273,27 @@ msgstr ""
 #: Archaic_Era/units/ukians/Royal_Constable.cfg:59
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:58
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
-#: Archaic_Era/utils/Archaic_abilities.cfg:934
+#: Archaic_Era/utils/Archaic_abilities.cfg:936
 msgid "scattershot"
 msgstr ""
 
 #. [unit_type]: id=Northern Elite, race=human
 #: Archaic_Era/units/ukians/Royal_Elite.cfg:4
 msgid "Northern Warrior"
+msgstr ""
+
+#. [unit_type]: id=Northern Elite, race=human
+#: Archaic_Era/units/ukians/Royal_Elite.cfg:21
+msgid ""
+"Fierce as the biting winds of his homeland, the Northern Warrior is a "
+"testament to the terrific demands nature makes of those who would prosper in "
+"the frozen heath. Clad in the finest plate armor worn by any infantry in his "
+"kingdom and the pelts of great wolves and bears, he deals death with his "
+"fierce blade, while himself nearly invulnerable to steel and cold alike. But "
+"he is not invincible: though mighty, he is greatly slowed by his equipment, "
+"and those nimble warriors well suited to range over the frigid wastes have "
+"been known to wear him to death, by and by, with nothing more than simple "
+"spears and stones."
 msgstr ""
 
 #. [unit_type]: id=Northern Fighter, race=human
@@ -2871,57 +2883,57 @@ msgid ""
 "but is always mobile at night."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:456
+#: Archaic_Era/utils/Archaic_abilities.cfg:458
 msgid "release stoned victims"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:492
-#: Archaic_Era/utils/Archaic_abilities.cfg:537
+#: Archaic_Era/utils/Archaic_abilities.cfg:494
+#: Archaic_Era/utils/Archaic_abilities.cfg:539
 msgid "Free"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:548
+#: Archaic_Era/utils/Archaic_abilities.cfg:550
 msgid "tie-down"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:549
+#: Archaic_Era/utils/Archaic_abilities.cfg:551
 msgid ""
 "Tie-Down:\n"
 "Defender cannot move for any turn in which the attacker is adjacent at "
 "start, but they can still attack."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:748
-#: Archaic_Era/utils/Archaic_abilities.cfg:789
-#: Archaic_Era/utils/Archaic_abilities.cfg:830
+#: Archaic_Era/utils/Archaic_abilities.cfg:750
+#: Archaic_Era/utils/Archaic_abilities.cfg:791
+#: Archaic_Era/utils/Archaic_abilities.cfg:832
 msgid "hide in shell"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:768
-#: Archaic_Era/utils/Archaic_abilities.cfg:809
-#: Archaic_Era/utils/Archaic_abilities.cfg:850
+#: Archaic_Era/utils/Archaic_abilities.cfg:770
+#: Archaic_Era/utils/Archaic_abilities.cfg:811
+#: Archaic_Era/utils/Archaic_abilities.cfg:852
 msgid "stop hiding"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:877
+#: Archaic_Era/utils/Archaic_abilities.cfg:879
 msgid "selfheal"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:878
+#: Archaic_Era/utils/Archaic_abilities.cfg:880
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:895
+#: Archaic_Era/utils/Archaic_abilities.cfg:897
 msgid "penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:896
+#: Archaic_Era/utils/Archaic_abilities.cfg:898
 msgid "female^penumbra"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:897
+#: Archaic_Era/utils/Archaic_abilities.cfg:899
 msgid ""
 "Penumbra:\n"
 "This unit obscures the surrounding area, making chaotic units fight better, "
@@ -2931,18 +2943,18 @@ msgid ""
 "day, and as if it were night when it is dusk."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:910
 #: Archaic_Era/utils/Archaic_abilities.cfg:912
+#: Archaic_Era/utils/Archaic_abilities.cfg:914
 msgid "desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:911
 #: Archaic_Era/utils/Archaic_abilities.cfg:913
+#: Archaic_Era/utils/Archaic_abilities.cfg:915
 msgid "female^desert-stalk"
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:914
-#: Archaic_Era/utils/Archaic_abilities.cfg:918
+#: Archaic_Era/utils/Archaic_abilities.cfg:916
+#: Archaic_Era/utils/Archaic_abilities.cfg:920
 msgid ""
 "Desert-Stalk:\n"
 "This unit can hide in sand terrain, and remain undetected by its enemies.\n"
@@ -2952,7 +2964,7 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
-#: Archaic_Era/utils/Archaic_abilities.cfg:935
+#: Archaic_Era/utils/Archaic_abilities.cfg:937
 msgid ""
 "Scattershot:\n"
 "This attack always has at least a 70% chance to hit."
@@ -3270,6 +3282,6 @@ msgid "Slain foes become Khthon thralls."
 msgstr ""
 
 #. [unstore_unit]
-#: Archaic_Era/utils/vector_abilities.cfg:785
+#: Archaic_Era/utils/vector_abilities.cfg:790
 msgid "enthralled"
 msgstr ""
