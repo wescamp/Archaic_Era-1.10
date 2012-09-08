@@ -2,7 +2,7 @@
 # Guillaume Pascal <guillaume.pascal43@laposte.net>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Archaic_Era-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 20:57-0400\n"
 "PO-Revision-Date: 2012-04-20 19:31+0100\n"
