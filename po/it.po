@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 20:57-0400\n"
-"PO-Revision-Date: 2012-12-16 19:33+0100\n"
-"Last-Translator: Antonio 'Antro' Rosella <arosella@yahoo.com>\n"
+"PO-Revision-Date: 2013-02-19 20:57+0100\n"
+"Last-Translator: BioHazardX <dhamp90@aol.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. [editor_group]: id=archaicera
 #. [era]: id=ARCHAIC_ERA_II
@@ -96,7 +97,7 @@ msgstr "Popolo dei Mari del Sud"
 #: Archaic_Era/eras/base/ukians_MP.cfg:5
 #: Archaic_Era/eras/heros/ukians_MP.cfg:5 Archaic_Era/eras/rpg/ukians_MP.cfg:5
 msgid "Ukians"
-msgstr "Ukian"
+msgstr "Uchiani"
 
 #. [menu]: id=menu-main
 #: Archaic_Era/theme.cfg:122
@@ -287,8 +288,8 @@ msgid ""
 "petrified may not move or attack."
 msgstr ""
 "Pietrifica:\n"
-"Questo attacco pietrifica il bersaglio, trasformandolo in roccia. Le unità "
-"che sono state pietrificate non possono muovere o attaccare."
+"L’attacco pietrifica il bersaglio, trasformandolo in roccia. Le unità "
+"pietrificate non possono muovere o attaccare."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:106
@@ -373,8 +374,8 @@ msgid ""
 "The veteran Wisps are slightly stronger, but still more a part of the spirit "
 "world than this world, so their attacks are not much stronger."
 msgstr ""
-"I wisp appartengono di più al mondo degli spiriti che a questo mondo e i "
-"loro attacchi non sono molto forti."
+"I teschi fatui appartengono di più al mondo degli spiriti che a questo mondo "
+"e i loro attacchi non sono molto forti."
 
 #. [attack]: type=cold
 #: Archaic_Era/units/despair/Phantom_Fright.cfg:89
@@ -513,9 +514,8 @@ msgid ""
 "petrified may not move or attack until the curse wears off."
 msgstr ""
 "Pietrifica:\n"
-"Questo attacco pietrifica il bersaglio, trasformandolo in pietra. Le unità "
-"che sono state pietrificate non possono muoversi o attaccare finché la "
-"maledizione svanisce."
+"L’attacco pietrifica il bersaglio, trasformandolo in pietra. Le unità "
+"pietrificate non possono muoversi o attaccare finché la maledizione svanisce."
 
 #. [unit_type]: id=Phantom Stone, race=despair
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:5
@@ -534,8 +534,8 @@ msgid ""
 "close, one can see that their skin and eyes are very pale and show no signs "
 "of life. They wear dark robes and a veil, as if in mourning."
 msgstr ""
-"Da lontano una dama bianca sembrerà quasi simile a un normale umano, ma da "
-"vicino si può notare la loro pelle molto pallida e i loro occhi privi di "
+"Da lontano una dama bianca sembra quasi simile a un essere umano, ma da "
+"vicino si può vedere che la loro pelle è molto pallida e che non mostrano "
 "segni di vita. Indossano vestiti oscuri e un velo, simboli di lutto."
 
 #. [unit_type]: id=Phantom Widow, race=despair
@@ -600,17 +600,17 @@ msgstr ""
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:16
 msgid "race^Wisp"
-msgstr "Wisp"
+msgstr "Teschio fatuo"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:17
 msgid "race+female^Wisp"
-msgstr "Wisp"
+msgstr "Teschio fatuo"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:18
 msgid "race^Wisps"
-msgstr "Wisp"
+msgstr "Teschi fatui"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:5
@@ -630,7 +630,7 @@ msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
-"La tartaruga alligatore può rifugiarsi all'interno del proprio guscio per "
+"La tartaruga alligatore può rifugiarsi all’interno del proprio guscio per "
 "aumentare la difesa (tasto destro del mouse), ma non potrà muoversi o "
 "attaccare."
 
@@ -645,7 +645,7 @@ msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
-"L'adamantino può rifugiarsi all'interno del proprio guscio per aumentare la "
+"L’adamantino può rifugiarsi all’interno del proprio guscio per aumentare la "
 "difesa (tasto destro del mouse), ma non potrà muoversi o attaccare."
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
@@ -674,7 +674,7 @@ msgid ""
 "though, so something is wrong..."
 msgstr ""
 "I cavalli sono forti e veloci, ma fragili. Di solito non attaccano le "
-"persone eppure c'è qualcosa di sbagliato..."
+"persone eppure c’è qualcosa di sbagliato..."
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Horse.cfg:34
@@ -713,7 +713,7 @@ msgstr ""
 #. [unit_type]: id=KatobleponMagnum, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:5
 msgid "Katoblepon-Magnum"
-msgstr "Katoblepon-Magnum"
+msgstr "Katoblepon–Magnum"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:48
@@ -753,7 +753,7 @@ msgstr "Khalkotaurus"
 #: Archaic_Era/units/khthon/Khalkotaurus.cfg:20
 msgid "The Khalkotaurus is a massive beast, woe to those who stumble upon it."
 msgstr ""
-"Il khalkotaurus è un'imponente bestia, e guai a quelli che che inciampano su "
+"Il khalkotaurus è un’imponente bestia, e guai a coloro che che inciampano su "
 "di essa."
 
 #. [attack]: type=pierce
@@ -786,7 +786,7 @@ msgstr ""
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:5
 msgid "Ophis-Magnum"
-msgstr "Ophis-Magnum"
+msgstr "Ophis–Magnum"
 
 #. [unit_type]: id=OphisMagnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:20
@@ -869,7 +869,7 @@ msgid ""
 msgstr ""
 "Le pecore hanno una pelliccia molto lunga che gli permette di sopravvivere "
 "al freddo. Di solito non attaccano gli umani, ma questi arieti sembrano "
-"essere posseduti da qualcosa..."
+"posseduti da qualcosa..."
 
 #. [unit_type]: id=Rockback, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:5
@@ -912,7 +912,7 @@ msgid ""
 "Taraxippon move about in the night as if ghosts, rather than the monsters "
 "they are."
 msgstr ""
-"I taraxippon si muovono di notte come se fossero più fantasmi che mostri "
+"I taraxippon si muovono di notte come se fossero più dei fantasmi che mostri "
 "viventi."
 
 #. [unit_type]: id=Terrapin, race=khthon
@@ -928,7 +928,7 @@ msgid ""
 "The terrapin can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
 msgstr ""
-"La tartaruga può rifugiarsi all'interno del proprio guscio per aumentare la "
+"La tartaruga può rifugiarsi all’interno del proprio guscio per aumentare la "
 "difesa (tasto destro del mouse), ma non potrà muoversi o attaccare."
 
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
@@ -1086,7 +1086,7 @@ msgstr "fuoco"
 #. [unit_type]: id=Orcish Fireline, race=orc
 #: Archaic_Era/units/orcs/Fireline.cfg:14
 msgid "Orcish Fireline"
-msgstr "Orco linea di fuoco"
+msgstr "Orco marchio di fuoco"
 
 #. [unit_type]: id=Orcish Fireline, race=orc
 #: Archaic_Era/units/orcs/Fireline.cfg:28
@@ -1187,8 +1187,8 @@ msgid ""
 "As time goes by, the bird and goblin come to understand each other, so that "
 "their movement and response is better coordinated."
 msgstr ""
-"Col passare del tempo, il goblin e il volatile arrivano a comprendersi e a "
-"coordinare meglio i loro movimenti e i riflessi."
+"Col passare del tempo, per il goblin e per il volatile arriva il tempo di "
+"comprendersi l’un l’altro, in modo che i loro movimenti siano più coordinati."
 
 #. [unit_type]: id=Stork Rider, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:4
@@ -1517,7 +1517,7 @@ msgstr ""
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:5
 msgid "Driver"
-msgstr "Capo-guida"
+msgstr "Capo–guida"
 
 #. [unit_type]: id=Primeval Driver, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Driver.cfg:20
@@ -1549,7 +1549,7 @@ msgid ""
 "This attack presses the engagement twice as long as usual."
 msgstr ""
 "Aggressione:\n"
-"Questo attacco insiste sullo scontro due volte di più rispetto al solito."
+"L’attacco preme nello scontrarsi due volte in più rispetto al solito."
 
 #. [unit_type]: id=Primeval Firewheel, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Firewheel.cfg:5
@@ -1649,6 +1649,10 @@ msgid ""
 "has something to do with this.\n"
 "Special Note:"
 msgstr ""
+"La tecnologia dei primordiali è un mistero. Le guerriere dai dischi di ferro "
+"sono insolitamente precise con i loro dischi taglienti, e si sospetta che il "
+"loro copricapo abbia qualcosa a che fare con questo.\n"
+"Note speciali:"
 
 #. [unit_type]: id=Primeval Protector, race=primeval
 #: Archaic_Era/units/primeval/Primeval_Protector.cfg:5
@@ -1729,7 +1733,7 @@ msgid ""
 "serving as scouts.\n"
 "Special Note:"
 msgstr ""
-"I fanti leggeri sono un componente essenziale delle armate dei primordiali "
+"I fanti leggeri sono un componente essenziale delle armate dei primordiali, "
 "usati di solito come esploratori.\n"
 "Note speciali:"
 
@@ -1746,7 +1750,7 @@ msgid ""
 "Special Note:"
 msgstr ""
 "I primordiali titani sono i guerrieri più potenti e sono destinati a far "
-"parte del Pantheon.\n"
+"parte del pantheon.\n"
 "Note speciali:"
 
 #. [unit_type]: id=Primeval Warrior, race=primeval
@@ -1859,7 +1863,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Archaic_Era/units/primeval/Primevalist_Leader.cfg:45
 msgid "soul-pierce"
-msgstr "perforamento dell'anima"
+msgstr "perforamento dell’anima"
 
 #. [unit_type]: id=Primevalist Monk, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Monk.cfg:5
@@ -2213,7 +2217,7 @@ msgstr "remo"
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:5
 msgid "Shoreman"
-msgstr "Uomo delle coste"
+msgstr "Uomo delle rive"
 
 #. [unit_type]: id=SouthSeas Shoreman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Shoreman.cfg:21
@@ -2291,7 +2295,7 @@ msgid ""
 msgstr ""
 "Le invocatrici del vento studiano le tradizioni degli dei splendenti e "
 "pregano per i venti favorevoli. Sono brave nel dirigere i movimenti "
-"dell'aria ma questo impegno necessita di molta forza."
+"dell’aria ma questo impegno necessita di molta forza."
 
 #. [race]: id=south-seas_human
 #: Archaic_Era/units/south-seas_race.cfg:5
@@ -2351,8 +2355,8 @@ msgid ""
 "Mendola, Sikarbaal, Tyrus"
 msgstr ""
 "Abdelkader, Abdulaziz, Abdulmecid, Abidal, Adarras, Adonis, Ahirom, Akbar, "
-"Amilcare, Azer, Azmelqart, Ba'al, Babur, Baltazar, Barekbaal, Besolam, "
-"Boldizsar, Cambyses, Caxias, Cyrus, D'Jafaar, Esauh, Haider, Hailama, "
+"Amilcare, Azer, Azmelqart, Ba’al, Babur, Baltazar, Barekbaal, Besolam, "
+"Boldizsar, Cambyses, Caxias, Cyrus, D’Jafaar, Esauh, Haider, Hailama, "
 "Hamilcar, Hannibal, Hiram, Iben Zhur, Itthobaal, Jabhar, Lehar, Melkart, "
 "Mendola, Sikarbaal, Tyrus"
 
@@ -2364,7 +2368,7 @@ msgid ""
 "Jezebel, Junot, Lilith, Maherra, Melita, Myletta, Nikkal, Pidraya, Rahmaya, "
 "Salaya, Sefina, Shahar, Tanis, Tanith, Ummanath, Ummashtart, Yara"
 msgstr ""
-"Adonia, Aida, Aisha, Alissar, Anath, Asherah, Ashtoreth, Ba'alat, Batanah, "
+"Adonia, Aida, Aisha, Alissar, Anath, Asherah, Ashtoreth, Ba’alat, Batanah, "
 "Batnoam, Betsda, Coriander, Cybil, Derketo, Dido, Hadda, Hesata, Ishtar, "
 "Jezebel, Junot, Lilith, Maherra, Melita, Myletta, Nikkal, Pidraya, Rahmaya, "
 "Salaya, Sefina, Shahar, Tanis, Tanith, Ummanath, Ummashtart, Yara"
@@ -2449,7 +2453,7 @@ msgstr "Vassalo"
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:4
 msgid "Ukian Archer"
-msgstr "Ukian arciere"
+msgstr "Uchiano arciere"
 
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:21
@@ -2457,13 +2461,13 @@ msgid ""
 "Due to the need for everyone to be able to fend off an orc, all Ukian women "
 "learn archery."
 msgstr ""
-"A causa del bisogno di essere in grado di respingere via un orco, tutte le "
-"donne ukian hanno imparato il tiro con l'arco."
+"Data la necessità per tutti di essere in grado di respingere un orco,, tutte "
+"le donne uchiane hanno imparato il tiro con l’arco."
 
 #. [unit_type]: id=Ukian Attack Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:5
 msgid "Attack Dog"
-msgstr "Cane d'attacco"
+msgstr "Cane d’attacco"
 
 #. [unit_type]: id=Ukian Attack Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:21
@@ -2483,7 +2487,7 @@ msgstr "furia"
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:4
 msgid "Ukian Civilian"
-msgstr "Ukian civile"
+msgstr "Uchiano civile"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:20
@@ -2506,7 +2510,7 @@ msgstr "Civile"
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:5
 msgid "Ukian Commander"
-msgstr "Ukian comandante"
+msgstr "Uchiano comandante"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:33
@@ -2526,7 +2530,7 @@ msgstr "scudo"
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:5
 msgid "Ukian Commando"
-msgstr "Ukian commando"
+msgstr "Uchiano commando"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:21
@@ -2561,13 +2565,13 @@ msgid ""
 "This unit can lead Ukian Dogs that are next to it, making them fight better."
 msgstr ""
 "Addestratore di cani:\n"
-"Questa unità comanda i cani ukian che si trovano nei pressi, facendoli "
+"L’unità comanda i cani uchiani che si trovano nei pressi, facendoli "
 "combattere meglio."
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:5
 msgid "Ukian Courrier"
-msgstr "Ukian spia"
+msgstr "Uchiano spia"
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:22
@@ -2580,7 +2584,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:5
 msgid "Ukian Deadeye"
-msgstr "Ukian occhio della morte"
+msgstr "Uchiano occhio della morte"
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:23
@@ -2589,8 +2593,8 @@ msgid ""
 "about undetected. They can launch many missiles, or they can take a tactic "
 "from the orcs and launch more destructive (but slower to load) fire arrows."
 msgstr ""
-"Gli ukian occhio di morte hanno vagabondato per molto tempo nella forresta e "
-"i loro movimenti non possono essere rilevati. Contro gli orchi possono "
+"Gli uchiani occhio di morte hanno vagabondato per molto tempo nella foresta "
+"e i loro movimenti non possono essere rilevati. Contro gli orchi possono "
 "prendere una tattica diversa, scagliando frecce infuocate al posto di quelle "
 "normali che sono più distruttive ma più lente da caricare."
 
@@ -2613,7 +2617,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:5
 msgid "Ukian Flareman"
-msgstr "Ukian illuminatore"
+msgstr "Uchiano illuminatore"
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:92
@@ -2623,10 +2627,10 @@ msgid ""
 "little easier. They've grown accustomed to the heat, so they have a "
 "resistance to flame attacks."
 msgstr ""
-"Gli illuminatori sono segnalatori di elite che portano delle fiaccole per "
-"una grande trasmissione di forza e lo splendore delle fiamme facilitano un "
-"po i combattimenti contro gli orchi. Abituati al calore sono resistenti agli "
-"attacchi infuocati."
+"Gli illuminatori sono segnalatori d’elite che portano con sé delle fiaccole, "
+"per ottenere una grande trasmissione di forza. Lo splendore delle fiamme "
+"facilitano un po’ i combattimenti contro gli orchi. Sono abituati al calore, "
+"e grazie a ciò hanno una resistenza maggiore agli attacchi di tipo fuoco."
 
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Harrier.cfg:5
@@ -2636,7 +2640,7 @@ msgstr "Predatore"
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:5
 msgid "Ukian Hawkeye"
-msgstr "Ukian occhio di falco"
+msgstr "Uchiano occhio di falco"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:22
@@ -2649,7 +2653,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:5
 msgid "Ukian Officer"
-msgstr "Ukian ufficiale"
+msgstr "Uchiano ufficiale"
 
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:28
@@ -2657,13 +2661,13 @@ msgid ""
 "The Ukian Officers are veteran Regulars, the Ukians didn't have a class "
 "structure before the arrival of the King."
 msgstr ""
-"Gli ukian ufficiali sono regolari veterani e prima dell'arrivo del re non "
+"Gli uchiani ufficiali sono regolari veterani e prima dell’arrivo del re non "
 "avevano una struttura di classe."
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:5
 msgid "Ukian Regular"
-msgstr "Ukian soldato regolare"
+msgstr "Uchiano soldato regolare"
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:20
@@ -2674,16 +2678,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-"I regolari ukian portano una lancia perché esse sono relativamente poco "
-"costose. Come tutti gli ukian abituati a vivere nella tundra, conoscono bene "
-"le strategie dei combattimenti sulla neve.\n"
+"Gli uchiani dell’esercito regolare portano una lancia perché esse sono "
+"relativamente poco costose. Come tutti gli uchiani abituati a vivere nella "
+"tundra, conoscono bene le strategie dei combattimenti sulla neve.\n"
 "\n"
 "Note speciali:"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:5
 msgid "Ukian Runner"
-msgstr "Ukian esploratore"
+msgstr "Uchiano esploratore"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:30
@@ -2701,7 +2705,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:5
 msgid "Ukian Seeress"
-msgstr "Ukian profetessa"
+msgstr "Uchiana profetessa"
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:22
@@ -2716,12 +2720,12 @@ msgstr ""
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:40
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:45
 msgid "shockwave"
-msgstr "onda d'urto"
+msgstr "onda d’urto"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:5
 msgid "Ukian Signalman"
-msgstr "Ukian segnalatore"
+msgstr "Uchiano segnalatore"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:94
@@ -2736,7 +2740,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:4
 msgid "Ukian Subcommander"
-msgstr "Ukian vicecomandante"
+msgstr "Uchiano vicecomandante"
 
 #. [unit_type]: id=Ukian Subcommander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Subcom.cfg:35
@@ -2745,7 +2749,7 @@ msgid ""
 "fighters. They also carry more substantial shields, which may be used not "
 "only to frustrate enemy strikes, but to stun the enemy."
 msgstr ""
-"Gli ufficiali di successo diventano vice-comandanti e dirigono un grande "
+"Gli ufficiali di successo diventano vice–comandanti e dirigono un grande "
 "numero di combattenti. Possono inoltre portare con sé dei solidi scudi che "
 "vengono impiegati sia per deludere gli attacchi dei nemici e sia per "
 "stordirli."
@@ -2753,7 +2757,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:4
 msgid "Ukian Veteran"
-msgstr "Ukian veterano"
+msgstr "Uchiano veterano"
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:20
@@ -2764,7 +2768,7 @@ msgstr "Soldato del nord"
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:46
 msgid "throwing axe"
-msgstr "lancio dell'ascia"
+msgstr "lancio dell’ascia"
 
 #. [unit_type]: id=Ukian War Hound, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:5
@@ -2779,7 +2783,7 @@ msgstr "fiaccola"
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:5
 msgid "Ukian Witch"
-msgstr "Ukian strega"
+msgstr "Uchiana strega"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:21
@@ -2799,17 +2803,17 @@ msgstr "colpo"
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:5
 msgid "race^Ukian Human"
-msgstr "Ukian umano"
+msgstr "Uchiano umano"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:6
 msgid "race+female^Ukian Human"
-msgstr "Ukian umana"
+msgstr "Uchiana umana"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:7
 msgid "race^Ukians"
-msgstr "Ukian"
+msgstr "Uchiani"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:9
@@ -2865,17 +2869,17 @@ msgstr ""
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:17
 msgid "race^Ukian Dog"
-msgstr "Ukian cane"
+msgstr "Uchiano cane"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:18
 msgid "race+female^Ukian Dog"
-msgstr "Ukian cagna"
+msgstr "Uchiana cagna"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:19
 msgid "race^Ukian Dogs"
-msgstr "Ukian cani"
+msgstr "Uchiani cani"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:21
@@ -2884,8 +2888,8 @@ msgid ""
 "shelter. Most often, dogs are used in hunts and patrols, but those that are "
 "unusually big and strong can be used as warriors."
 msgstr ""
-"Gli ukian avevano bisogno di un aiuto necessario per raggirare gli orchi, e "
-"i canini invece avevano bisogno di cibo e di un rifugio. La maggior parte "
+"Gli uchiani avevano bisogno di un aiuto necessario per raggirare gli orchi, "
+"e i canini invece avevano bisogno di cibo e di un rifugio. La maggior parte "
 "delle volte i cani vengono usati per cacciare e fare la guardia, ma quelli "
 "insolitamente grandi e forti possono essere sfruttati come guerrieri."
 
@@ -2936,9 +2940,9 @@ msgid ""
 "a maximum of 60%, when attacking because the enemy cannot get a direct hit."
 msgstr ""
 "Danzatrice:\n"
-"Le resistenze fisiche (perforamento, impatto, lama) dell'unità sono "
-"raddoppiate fino a un massimo di 60% mentre attacca perché il nemico non può "
-"ricevere un colpo diretto."
+"Le resistenze fisiche (perforamento, impatto, lama) dell’unità sono "
+"raddoppiate fino a un massimo di 60% mentre attacca per il nemico non è "
+"possibile ricevere un colpo diretto."
 
 #. [leadership]: id=leadership
 #: Archaic_Era/utils/Archaic_abilities.cfg:72
@@ -2963,10 +2967,9 @@ msgid ""
 "be cured of its poison by this ability, and must seek the care of a village "
 "or a unit that can cure."
 msgstr ""
-"Immune al veleno:\n"
-"Abilita l'unità di prevenire gli effetti del veleno, però l'unità avvelenata "
-"non può essere curata dal suo veleno da questa abilità e deve cercare un "
-"villaggio o un'unità che possa curare."
+"Permette all’unità di prevenire gli effetti del veleno, però l’unità "
+"avvelenata non può essere curata dal suo veleno da questa abilità e deve "
+"cercare un villaggio o un’unità che possa curare."
 
 #. [heals]: id=aa_healing
 #: Archaic_Era/utils/Archaic_abilities.cfg:109
@@ -2990,13 +2993,13 @@ msgid ""
 "care of a village or a unit that can cure."
 msgstr ""
 "Guarisce +{AMT}:\n"
-"Abilità l'unità di guarire le unità alleate adiacenti all'inizio di ogni "
+"Abilità l’unità di guarire le unità alleate adiacenti all’inizio di ogni "
 "turno.\n"
 "\n"
-"Un'unità curata dal proprio guaritore può ricevere {AMT} PF ad ogni turno "
-"oppure fermare l'effetto del veleno.\n"
-"Un'unità avvelenata non può essere curata dal proprio guaritore e deve "
-"cercare un villaggio o un'unità che la possa curare."
+"Un’unità curata dal proprio guaritore può ricevere {AMT} PF ad ogni turno "
+"oppure fermare l’effetto del veleno.\n"
+"Un’unità avvelenata non può essere curata dal proprio guaritore e deve "
+"cercare un villaggio o un’unità che la possa curare."
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:130
@@ -3015,8 +3018,8 @@ msgid ""
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 "immortale:\n"
-"Questa unità guarisce di 99 PF ad ogni turno. Se avvelenata, rimuoverà solo "
-"il veleno."
+"L’unità guarisce di 99 PF ad ogni turno. Se avvelenata, rimuoverà solo il "
+"veleno."
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:142
@@ -3036,8 +3039,8 @@ msgid ""
 "movement points like most other units."
 msgstr ""
 "Inafferrabile:\n"
-"Questa unità usa solo un punto mossa ad ogni attacco, piuttosto che tutti i "
-"suoi punti come tutte le altre unità."
+"L’unità usa solo un punto mossa ad ogni attacco, piuttosto che tutti i suoi "
+"punti come tutte le altre unità."
 
 #. [resistance]: id=aa_stone
 #: Archaic_Era/utils/Archaic_abilities.cfg:153
@@ -3057,8 +3060,8 @@ msgid ""
 "but is always mobile at night."
 msgstr ""
 "Pietra:\n"
-"Questa unità diventa di pietra alla luce del sole se non è vicina ad un "
-"alleato o all'interno di un villaggio, ma può sempre muoversi di notte."
+"L’unità si trasforma in pietra alla luce del sole se non è vicina ad un "
+"alleato o all’interno di un villaggio, ma può sempre muoversi di notte."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:458
 msgid "release stoned victims"
@@ -3080,7 +3083,7 @@ msgid ""
 "start, but they can still attack."
 msgstr ""
 "Limita:\n"
-"I difensori non possono muoversi se un attaccante è adiacente all'inizio di "
+"I difensori non possono muoversi se un attaccante è adiacente all’inizio di "
 "ogni turno, ma possono comunque attaccare."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:750
@@ -3097,16 +3100,16 @@ msgstr "ferma il nascondimento"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:879
 msgid "selfheal"
-msgstr "auto-guarigione"
+msgstr "auto–guarigione"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:880
 msgid ""
 "selfheal:\n"
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
-"auto-guarigione:\n"
-"Questa unità guarisce {AMT} PF ad ogni turno. Se avvelenata, rimuoverà solo "
-"il veleno."
+"auto–guarigione:\n"
+"L’unità guarisce {AMT} PF ad ogni turno. Se avvelenata, rimuoverà solo il "
+"veleno."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:897
 msgid "penumbra"
@@ -3126,8 +3129,8 @@ msgid ""
 "day, and as if it were night when it is dusk."
 msgstr ""
 "Penombra:\n"
-"Questa unità oscura l'area circostante, in modo che le unità caotiche "
-"combattano meglio, e che le unità legali combattano male.\n"
+"L’unità oscura l’area circostante, in modo che le unità caotiche combattano "
+"meglio, e che le unità legali combattano male.\n"
 "\n"
 "Le unità adiacenti a questa unità combatteranno come se ci fosse il "
 "crepuscolo quando è giorno, e di notte quando è crepuscolo."
@@ -3135,12 +3138,12 @@ msgstr ""
 #: Archaic_Era/utils/Archaic_abilities.cfg:912
 #: Archaic_Era/utils/Archaic_abilities.cfg:914
 msgid "desert-stalk"
-msgstr "agguato del deserto"
+msgstr "agguato nel deserto"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:913
 #: Archaic_Era/utils/Archaic_abilities.cfg:915
 msgid "female^desert-stalk"
-msgstr "agguato del deserto"
+msgstr "agguato nel deserto"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:916
 #: Archaic_Era/utils/Archaic_abilities.cfg:920
@@ -3152,13 +3155,13 @@ msgid ""
 "they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
-"Agguato del deserto:\n"
-"Questa unità può nascondersi nei terreni sabbiosi e rimanere non "
-"identificata dai propri nemici.\n"
+"Agguato nel deserto:\n"
+"L’unità può nascondersi nei terreni sabbiosi e rimanere non identificata dai "
+"propri nemici.\n"
 "\n"
 "Le unità nemiche non possono vedere questa unità nascosta nei terreni "
 "desertici, a meno che essa non abbia delle unità nemiche vicine adiacenti. "
-"Se un'unità nemica scopre per prima questa unità, tutti i suoi punti di "
+"Se un’unità nemica scopre per prima questa unità, tutti i suoi punti di "
 "movimento rimasti verranno perduti."
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:937
@@ -3167,7 +3170,7 @@ msgid ""
 "This attack always has at least a 70% chance to hit."
 msgstr ""
 "Colpo dispersivo:\n"
-"Questo attacco ha sempre una possibilità di colpire pari almeno al 70%."
+"L’attacco ha sempre una possibilità di colpire pari almeno al 70%."
 
 #. [terrain_type]: id=r_bridge
 #. [terrain_type]: id=r_bridgediag1
@@ -3285,8 +3288,9 @@ msgstr ""
 
 #. [terrain_type]: id=troll_keep
 #: Archaic_Era/utils/terrain.cfg:280
+#, fuzzy
 msgid "Troll Keep"
-msgstr ""
+msgstr "Primordiali"
 
 #. [terrain_type]: id=troll_campswamp
 #: Archaic_Era/utils/terrain.cfg:293
@@ -3332,8 +3336,9 @@ msgstr ""
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:387
+#, fuzzy
 msgid "Sand Castle"
-msgstr ""
+msgstr "Primordiali"
 
 #. [terrain_type]: id=bmr_orccastle
 #: Archaic_Era/utils/terrain.cfg:388
@@ -3369,13 +3374,15 @@ msgstr ""
 
 #. [terrain_type]: id=bmr_icewall
 #: Archaic_Era/utils/terrain.cfg:529
+#, fuzzy
 msgid "Ice Wall"
-msgstr ""
+msgstr "villaggi"
 
 #. [terrain_type]: id=bmr_icecave
 #: Archaic_Era/utils/terrain.cfg:539
+#, fuzzy
 msgid "Ice Cave"
-msgstr ""
+msgstr "villaggi"
 
 #. [terrain_type]: id=bmr_icecanyon
 #: Archaic_Era/utils/terrain.cfg:550
